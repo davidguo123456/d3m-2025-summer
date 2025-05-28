@@ -1,0 +1,124 @@
+.wrapper {
+  scroll-margin-top: 84px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.card {
+  border: 1.5px solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+  transition:
+    transform 150ms ease,
+    box-shadow 150ms ease;
+
+  &:hover {
+    transform: scale(1.01);
+    box-shadow: var(--mantine-shadow-lg);
+  }
+}
+
+.svgContainer {
+  position: relative;
+  height:50px;
+  top: 5px;
+  transform: rotate(180deg);
+}
+
+.svg { 
+  stroke: 'none';
+  fill: light-dark(var(--mantine-color-gray-1), var(--mantine-color-dark-5))
+  }
+
+.imageGrad {
+  position: relative;
+  top: -20px;
+  height: 20px;
+  background: transparent;
+  background: linear-gradient(180deg, transparent 0%, light-dark(var(--mantine-color-gray-1), var(--mantine-color-dark-5))100%);
+}
+
+.header {
+  height: 150px;
+  margin-bottom: 10px;
+  background: linear-gradient(180deg, light-dark(var(--mantine-color-gray-1), var(--mantine-color-dark-5)) 40%, transparent 100%);
+}
+
+.articleGrid {
+  margin-bottom: 5px;
+}
+
+.inner {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 24px;
+  padding-bottom: 16px;
+}
+
+.content {
+  scroll-margin-top: 100px;
+  max-width: 6000px;
+  margin-right: calc(var(--mantine-spacing-xl) * 3);
+
+  @media (max-width: $mantine-breakpoint-md) {
+    max-width: 100%;
+    margin-right: 0;
+  }
+}
+
+.cardTitle {
+  display: block;
+  margin-top: var(--mantine-spacing-md);
+  margin-bottom: 5px;
+}
+
+.title {
+  color: light-dark(var(--mantine-color-black), var(--mantine-color-white));
+  font-family:
+    Greycliff CF,
+    var(--mantine-font-family);
+  font-size: 44px;
+  line-height: 1.2;
+  font-weight: 900;
+
+
+  @media (max-width: $mantine-breakpoint-xs) {
+    font-size: 28px;
+  }
+}
+
+.control {
+  @media (max-width: $mantine-breakpoint-xs) {
+    flex: 1;
+  }
+}
+
+.image {
+  width: 376px;
+  height: 356px;
+
+  @media (max-width: $mantine-breakpoint-md) {
+    display: none;
+  }
+}
+
+.highlight {
+  position: relative;
+  background-color: var(--mantine-color-blue-light);
+  border-radius: var(--mantine-radius-sm);
+  padding: 4px 12px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 120px
+}
+
+.listButton {
+  display: flex;
+  padding-left: 10px;
+  justify-content: flex-start;
+
+}
