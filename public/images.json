@@ -1,0 +1,38 @@
+{
+    "ID": "O001",
+    "Color": {
+        "Black": {
+            "Asin": "B06XSFR3QH",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/81rJitGvYOL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81sYRNXL9HL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Y0COihZIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81Ot8Q1vEhL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91sSZw2aVIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81so-Fxe-HL._AC_SL1500_.jpg"
+            ]
+        },
+        "Army Green": {
+            "Asin": "B074DVYB22",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/817-LQFBkqL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81oi4wFPaUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81kof35NUCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/915jz9TUt+L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91hJsklsKIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/917CEoHIRLL._AC_SL1500_.jpg"
+            ]
+        },
+        "Navy": {
+            "Asin": "B078TCC47S",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/81w8JnDR-RL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/812NaFu-sBL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/719aTfManUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81JpBeaYDjL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/916JcQq6mVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91OztDpWCNL._AC_SL1500_.jpg"
+            ]
+        }
+    }
+}
