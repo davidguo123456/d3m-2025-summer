@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Box, Loader, LoadingOverlay, Overlay, Switch } from '@mantine/core';
+import { Box, LoadingOverlay, Switch } from '@mantine/core';
 import { ProductCard } from '@/components/ProductCard/ProductCard';
 
 export default function HomePage() {
@@ -33,8 +33,7 @@ export default function HomePage() {
 
   return (
     <Box style={{ position: 'relative', padding: '1rem', minHeight: '100vh' }}>
-      {true &&
-        <LoadingOverlay visible={loading} overlayProps={{ backgroundOpacity: 0.35, blur: 15 }} />}
+      <LoadingOverlay visible={loading} overlayProps={{ backgroundOpacity: 0.35, blur: 15 }} />
 
       <div
         style={{
