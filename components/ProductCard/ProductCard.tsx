@@ -38,27 +38,38 @@ export function ProductCard({
   const mainCanvasRef = useRef<HTMLCanvasElement | null>(null);
 
   useEffect(() => {
-    const fetchData = async () => {
-      const response = await fetch(jsonPath);
-      const data: ProductData = await response.json();
+  const fetchData = async () => {
+    const response = await fetch(jsonPath);
+    const data: ProductData & Record<string, any> = await response.json();
 
+    let imageUrls: string[] = [];
+
+    if (Object.keys(data.Color).length != 0 && typeof data.Color === 'object') {
       const seenColors = new Set<string>();
-      const uniqueUrls: string[] = [];
-
       for (const [color, value] of Object.entries(data.Color)) {
         if (!seenColors.has(color)) {
           seenColors.add(color);
-          uniqueUrls.push(value.Photo_url);
+          if (value?.Photo_url) {
+            imageUrls.push(value.Photo_url);
+          }
         }
       }
+    } else if (data.product_photo && Object.keys(data.product_photo).length != 0) {
+      imageUrls.push(data.product_photo);
+    } else if (data["Product Picture(s)"] && Object.keys(data["Product Picture(s)"]).length != 0) {
+      imageUrls.push(data["Product Picture(s)"]);
+    }
 
-      setPhotoUrls(uniqueUrls);
-      setMainImage(uniqueUrls[0]);
+    if (imageUrls.length > 0) {
+      setPhotoUrls(imageUrls);
+      setMainImage(imageUrls[0]);
       setSelectedIndex(0);
-    };
+    }
+  };
 
-    fetchData();
-  }, [jsonPath]);
+  fetchData();
+}, [jsonPath]);
+
 
   useEffect(() => {
     const loadAndProcessImages = async () => {
