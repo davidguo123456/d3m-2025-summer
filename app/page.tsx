@@ -1,47 +1,61 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { Box, Loader, Overlay, Switch } from '@mantine/core';
 import { ProductCard } from '@/components/ProductCard/ProductCard';
-import { Switch } from '@mantine/core';
-import classes from './page.module.css';
 
 export default function HomePage() {
   const [thumbCount, setThumbCount] = useState<number>(8);
   const [grayscale, setGrayscale] = useState<boolean>(false);
-  const [showOverlay, setShowOverlay] = useState<boolean>(false);
+  const [loading, setLoading] = useState<boolean>(true);
 
   const productJsonPaths = [
-    '../image_test_raw.json',
-    '../image_test_2.json',
-    '../image_test_3.json',
-    '../image_test_4.json',
-    '../image_test_5.json',
-    '../image_test_6.json',
-    '../image_test_7.json',
-    '../image_test_8.json',
-    '../image_test_9.json',
-    '../image_test_10.json',
-    '../image_test_11.json',
-    '../image_test_12.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_raw.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_2.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_3.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_4.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_5.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_6.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_7.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_8.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_9.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_10.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_11.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/image_test_12.json',
   ];
 
-  // Show loading overlay for 1 second whenever grayscale changes
+  // Show loading overlay for 1 second when grayscale toggles
   useEffect(() => {
-    setShowOverlay(true);
-    const timeout = setTimeout(() => setShowOverlay(false), 1200);
-    return () => clearTimeout(timeout);
+    setLoading(true);
+    const timer = setTimeout(() => setLoading(false), 1000);
+    return () => clearTimeout(timer);
   }, [grayscale]);
 
   return (
-    <div style={{ padding: '1rem' }}>
-      {showOverlay && (
-        <div className={classes.fullScreenOverlay}>
-          <div className={classes.spinner}/>
-        </div>
+    <Box style={{ position: 'relative', padding: '1rem', minHeight: '100vh' }}>
+      {loading && (
+        <Overlay backgroundOpacity={1} color="#fff" zIndex={999}>
+          <div
+            style={{
+              height: '100%',
+              display: 'flex',
+              justifyContent: 'center',
+              alignItems: 'center',
+            }}
+          >
+            <Loader size="xl" variant="dots" />
+          </div>
+        </Overlay>
       )}
 
-      {/* Controls */}
-      <div style={{ marginBottom: '1rem', display: 'flex', gap: '1rem', alignItems: 'center' }}>
+      <div
+        style={{
+          marginBottom: '1rem',
+          display: 'flex',
+          gap: '1rem',
+          alignItems: 'center',
+        }}
+      >
         <label>
           Thumbnails to show:{' '}
           <input
@@ -69,14 +83,9 @@ export default function HomePage() {
         }}
       >
         {productJsonPaths.map((path, index) => (
-          <ProductCard
-            key={index}
-            jsonPath={path}
-            thumbCount={thumbCount}
-            grayscale={grayscale}
-          />
+          <ProductCard key={index} jsonPath={path} thumbCount={thumbCount} grayscale={grayscale} />
         ))}
       </div>
-    </div>
+    </Box>
   );
 }
