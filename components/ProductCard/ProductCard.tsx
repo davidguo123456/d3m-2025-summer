@@ -143,6 +143,7 @@ export function ProductCard({
                 }`}
                 onClick={() => handleThumbnailClick(index)}
                 onKeyDown={() => handleThumbnailClick(index)}
+                role="presentation"
               >
                 <img src={thumb} alt={`Thumbnail ${index + 1}`} className={classes.thumbnail} />
               </div>
