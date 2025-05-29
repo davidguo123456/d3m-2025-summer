@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Box, Loader, Overlay, Switch } from '@mantine/core';
+import { Box, Loader, LoadingOverlay, Overlay, Switch } from '@mantine/core';
 import { ProductCard } from '@/components/ProductCard/ProductCard';
 
 export default function HomePage() {
@@ -27,26 +27,14 @@ export default function HomePage() {
   // Show loading overlay for 1 second when grayscale toggles
   useEffect(() => {
     setLoading(true);
-    const timer = setTimeout(() => setLoading(false), 1000);
+    const timer = setTimeout(() => setLoading(false), 1500);
     return () => clearTimeout(timer);
   }, [grayscale]);
 
   return (
     <Box style={{ position: 'relative', padding: '1rem', minHeight: '100vh' }}>
-      {loading && (
-        <Overlay backgroundOpacity={0.35} blur={15} zIndex={999}>
-          <div
-            style={{
-              height: '100%',
-              display: 'flex',
-              justifyContent: 'center',
-              alignItems: 'center',
-            }}
-          >
-            <Loader size="xl" variant="dots" />
-          </div>
-        </Overlay>
-      )}
+      {true &&
+        <LoadingOverlay visible={loading} overlayProps={{ backgroundOpacity: 0.35, blur: 15 }} />}
 
       <div
         style={{
@@ -73,7 +61,6 @@ export default function HomePage() {
           label="Grayscale"
         />
       </div>
-
       <div
         style={{
           display: 'grid',
