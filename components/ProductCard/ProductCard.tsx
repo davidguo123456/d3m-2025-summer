@@ -186,9 +186,6 @@ function drawToCanvas(img: HTMLImageElement, canvas: HTMLCanvasElement, grayscal
     return;
   }
 
-  ctx.fillStyle = 'white';
-  ctx.fillRect(0, 0, canvas.width, canvas.height);
-
   ctx.drawImage(img, 0, 0);
 
   if (grayscale) {
