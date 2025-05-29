@@ -42,9 +42,9 @@ export function ProductCard({
     const response = await fetch(jsonPath);
     const data: ProductData & Record<string, any> = await response.json();
 
-    let imageUrls: string[] = [];
+    const imageUrls: string[] = [];
 
-    if (Object.keys(data.Color).length != 0 && typeof data.Color === 'object') {
+    if (Object.keys(data.Color).length !== 0 && typeof data.Color === 'object') {
       const seenColors = new Set<string>();
       for (const [color, value] of Object.entries(data.Color)) {
         if (!seenColors.has(color)) {
@@ -54,9 +54,9 @@ export function ProductCard({
           }
         }
       }
-    } else if (data.product_photo && Object.keys(data.product_photo).length != 0) {
+    } else if (data.product_photo && Object.keys(data.product_photo).length !== 0) {
       imageUrls.push(data.product_photo);
-    } else if (data["Product Picture(s)"] && Object.keys(data["Product Picture(s)"]).length != 0) {
+    } else if (data["Product Picture(s)"] && Object.keys(data["Product Picture(s)"]).length !== 0) {
       imageUrls.push(data["Product Picture(s)"]);
     }
 
