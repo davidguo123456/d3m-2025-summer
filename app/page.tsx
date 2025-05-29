@@ -10,18 +10,18 @@ export default function HomePage() {
   const [loading, setLoading] = useState<boolean>(true);
 
   const productJsonPaths = [
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_raw.json',
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_2.json',
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_3.json',
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_4.json',
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_5.json',
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_6.json',
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_7.json',
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_8.json',
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_9.json',
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_10.json',
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_11.json',
-    'https://davidguo123456.github.io/d3m-2025-summer/image_test_12.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_1.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_2.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_3.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_4.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_5.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_6.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_7.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_8.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_9.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_10.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_11.json',
+    'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_12.json',
   ];
 
   // Show loading overlay for 1 second when grayscale toggles

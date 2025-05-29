@@ -1,0 +1,158 @@
+{
+    "ID": "S0011",
+    "ASIN": "B0BJHJ53VN",
+    "Product URL": "https://www.amazon.ca/dp/B0BJHJ53VN",
+    "Product Name": "Reebok unisex-adult Bb 4000 Ii Sneaker",
+    "Product Brand": "Visit the Reebok Store",
+    "Product Description": "Product description will go here once we have it. This is a placeholder requiring further enrichment. Make this a little longer with more characters.",
+    "About Product": [
+        "Bullet point goes here"
+    ],
+    "Product Detail": {
+        "Care instructions": "Hand Wash",
+        "Sole material": "Rubber",
+        "Outer material": "Leather",
+        "Closure type": "Lace-Up"
+    },
+    "Price": "$81.78",
+    "Color": {
+        "Core Black/Ftwr White/Pure Grey 7": {
+            "asin": "B0BJHMNHYM",
+            "Photo_url": "https://m.media-amazon.com/images/I/41ahEZQfc7L.jpg"
+        },
+        "Ftwr White/Reebok Rubber Gum-02/Pure Grey 3": {
+            "asin": "B0B4BTGH4W",
+            "Photo_url": "https://m.media-amazon.com/images/I/31gEOdZvkAL.jpg"
+        },
+        "Black/Solar Acid Yellow/Ftwr White": {
+            "asin": "B0BJW399HB",
+            "Photo_url": "https://m.media-amazon.com/images/I/21ETsSFbUIL.jpg"
+        },
+        "Chalk/Dark Brown/Chalk": {
+            "asin": "B0C2JFMCDJ",
+            "Photo_url": "https://m.media-amazon.com/images/I/315JtiidgYL.jpg"
+        },
+        "Chalk/Varsity Green /Vintage Chalk": {
+            "asin": "B0BJW5GD2G",
+            "Photo_url": "https://m.media-amazon.com/images/I/31lzrUCOaSL.jpg"
+        },
+        "Ftwwht/Cblack/Purgry": {
+            "asin": "B0BCGXTN81",
+            "Photo_url": "https://m.media-amazon.com/images/I/31gvfCapn3L.jpg"
+        },
+        "Ftwr White/Chalk/Hoops Blue": {
+            "asin": "B0BJW7XZ5S",
+            "Photo_url": "https://m.media-amazon.com/images/I/21AlWNASTbL.jpg"
+        },
+        "Ftwr White/Cold Grey 3/Varsity Green": {
+            "asin": "B0BJW49DDJ",
+            "Photo_url": "https://m.media-amazon.com/images/I/31giDeD+k0L.jpg"
+        },
+        "White/Pure Grey": {
+            "asin": "B0BK2HQYDR",
+            "Photo_url": "https://m.media-amazon.com/images/I/31XgW4pqo-L.jpg"
+        },
+        "Steely Fog /Cold Grey 3/Classic Maroon": {
+            "asin": "B0BJW53CDY",
+            "Photo_url": "https://m.media-amazon.com/images/I/41CrZV8wwxL.jpg"
+        },
+        "Stucco/Ftwr White/Retro Gold": {
+            "asin": "B0BJW2QBK5",
+            "Photo_url": "https://m.media-amazon.com/images/I/319BV9UqGxL.jpg"
+        },
+        "Ftwr White/Chalk/Drkgrn": {
+            "asin": "B0BCH1WNDD",
+            "Photo_url": "https://m.media-amazon.com/images/I/417017SF7wL.jpg"
+        },
+        "Ftwr White/Dgtblu/Ftwr White": {
+            "asin": "B0BCGZSK1Z",
+            "Photo_url": "https://m.media-amazon.com/images/I/31CNBFslJUL.jpg"
+        },
+        "Ftwr White/Pure Grey/Vector Red": {
+            "asin": "B0BCH174XW",
+            "Photo_url": "https://m.media-amazon.com/images/I/41CeTiUQduL.jpg"
+        },
+        "Ftwr White/Vector Red/Ftwr White": {
+            "asin": "B0BCGWTSDD",
+            "Photo_url": "https://m.media-amazon.com/images/I/41751NdaLzL.jpg"
+        },
+        "Batik Blue/Blue Slate/Gable Grey": {
+            "asin": "B0BYB5QSM7",
+            "Photo_url": "https://m.media-amazon.com/images/I/41CyL1USjUL.jpg"
+        },
+        "Core Black/Chalk/Pure Grey": {
+            "asin": "B0BCGYCJQ6",
+            "Photo_url": "https://m.media-amazon.com/images/I/410HG6AU8kL.jpg"
+        },
+        "Ftwwht/Vecred/Vecblu": {
+            "asin": "B0B4BVX7LG",
+            "Photo_url": "https://m.media-amazon.com/images/I/417L9EQVU1L.jpg"
+        },
+        "Vegan/Vintage Chalk/Black/Vector Red": {
+            "asin": "B0B4BVMRQL",
+            "Photo_url": "https://m.media-amazon.com/images/I/41cSRj1a-LL.jpg"
+        },
+        "Chalk/Radiant Ochre/Black": {
+            "asin": "B0BJW61HB5",
+            "Photo_url": "https://m.media-amazon.com/images/I/31Tpkc5zF1L.jpg"
+        },
+        "Cblack/Radaqu/Ftwwht": {
+            "asin": "B0BCH1T8LN",
+            "Photo_url": "https://m.media-amazon.com/images/I/41WZ955MXyL.jpg"
+        },
+        "Pure Grey/Dark Green/Pure Grey": {
+            "asin": "B0C2JC54Y4",
+            "Photo_url": "https://m.media-amazon.com/images/I/31u8yXZmiLL.jpg"
+        },
+        "Pure Grey/Vector Navy/White": {
+            "asin": "B0B4CR3BK6",
+            "Photo_url": "https://m.media-amazon.com/images/I/41eeujwoogL.jpg"
+        },
+        "Chalk/Weatheredwhite/Vectorred": {
+            "asin": "B0CNTXSMQJ",
+            "Photo_url": "https://m.media-amazon.com/images/I/318VIRH0ESL.jpg"
+        },
+        "Retro Gold /Shocking Orange /Ftwr White": {
+            "asin": "B0BJW73DMY",
+            "Photo_url": "https://m.media-amazon.com/images/I/41F+BA486gL.jpg"
+        },
+        "Pure Grey 5/Ftwr White/Grout": {
+            "asin": "B0BJW4XR8S",
+            "Photo_url": "https://m.media-amazon.com/images/I/41ah1wmkPZL.jpg"
+        },
+        "White/Classic Teal/Fiery Orange": {
+            "asin": "B0BK2JWR3S",
+            "Photo_url": "https://m.media-amazon.com/images/I/41sJfPE5QyL.jpg"
+        },
+        "Vintage Chalk /Chalk/Hoops Blue": {
+            "asin": "B0BJW3N5XQ",
+            "Photo_url": "https://m.media-amazon.com/images/I/316mPzUJ-+L.jpg"
+        },
+        "White/Pure Grey/Glen Green": {
+            "asin": "B0B4BSZZL6",
+            "Photo_url": "https://m.media-amazon.com/images/I/418JU2pthzL.jpg"
+        },
+        "Chalk/Dbrown/Chalk": {
+            "asin": "B0C2JCY5V4",
+            "Photo_url": "https://m.media-amazon.com/images/I/315JtiidgYL.jpg"
+        },
+        "Core Black Ftwr White Pure Grey 7": {
+            "asin": "B0BGBMRJBW",
+            "Photo_url": "https://m.media-amazon.com/images/I/31pkg6miuWL.jpg"
+        },
+        "Vintage Chalk/Classic Burgundy/Black": {
+            "asin": "B0B4BR212P",
+            "Photo_url": "https://m.media-amazon.com/images/I/41OUwvnvLkL.jpg"
+        }
+    },
+    "Product Picture(s)": "https://m.media-amazon.com/images/I/71Hj7I9ZKnL._AC_SL1500_.jpg",
+    "Reviews": [
+        {
+            "Reviewer Name": "Calixte",
+            "Review Rating": 4.0,
+            "Review Title": "Bon",
+            "Review Body": "Exactement ce \u00e0 quoi je m\u2019attendais ! Je recommande",
+            "Review Image(s)": []
+        }
+    ]
+}

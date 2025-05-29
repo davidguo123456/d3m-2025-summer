@@ -1,0 +1,92 @@
+{
+    "ID": "S003",
+    "ASIN": "B0CKML2NP2",
+    "Product URL": "https://www.amazon.ca/dp/B0CKML2NP2",
+    "Product Name": "adidas Unisex-Adult Samba Indoor Soccer Shoe",
+    "Product Brand": "Visit the adidas Store",
+    "Product Description": "When your skills need to shine on indoor courts, lace up adidas Samba boots. With decades of football heritage behind them, they'll keep you comfortable with a soft leather upper featuring suede overlays for added abrasion resistance. A rubber outsole provides biting grip to help you change direction on a dime, and an EVA insole helps smooth out every sprint.",
+    "About Product": [
+        "Regular fit",
+        "Lace closure",
+        "Leather upper with suede overlays",
+        "Synthetic lining",
+        "EVA insole",
+        "Rubber outsole for indoor surfaces"
+    ],
+    "Product Detail": {
+        "Care instructions": "Machine Wash",
+        "Sole material": "Rubber",
+        "Outer material": "Suede",
+        "Closure type": "Lace-Up"
+    },
+    "Price": "$69.70",
+    "Color": {
+        "Black/White/Vivid Red": {
+            "asin": "B0CKML2NP2",
+            "Photo_url": "https://m.media-amazon.com/images/I/41-cwW-8KEL.jpg"
+        },
+        "White/Black/Vivid Red": {
+            "asin": "B0CKMKR7XH",
+            "Photo_url": "https://m.media-amazon.com/images/I/31a5F2wwe6L.jpg"
+        }
+    },
+    "Product Picture(s)": "https://m.media-amazon.com/images/I/71QMbnDxWUL._AC_SL1500_.jpg",
+    "Reviews": [
+        {
+            "Reviewer Name": "CC",
+            "Review Rating": 5.0,
+            "Review Title": "My second pair of Sambas!",
+            "Review Body": "I currently own a white pair of sambas and then saw the black ones listed on Amazon. The listing indicates that the size is unisex and I puchased size 6 which I believe is in men's sizing. I wear 8 - 8 1/2 US ladies shoe and found the size 6 suitable. I haven't worn them out yet and do anticipate that these will stretch out. In my own experience, the shoe does stretch out quite a bit so just something to be aware of when you purchase these shoes (Ex. If they already feel quite loose prior to being stretched out, you may want to size down). These shoes are great for walking, not too sure about long distances as the sole of the shoe is thin. I don't believe the insole can be removed so something to be mindful of if you need to slip on custom orthotics or insoles. These are cute and fashionable shoes to wear and go with most things including jeans, pants and skirts.",
+            "Review Image(s)": []
+        },
+        {
+            "Reviewer Name": "Majuste",
+            "Review Rating": 5.0,
+            "Review Title": "Great product.",
+            "Review Body": "The quality is more than I expected.",
+            "Review Image(s)": []
+        },
+        {
+            "Reviewer Name": "Vatsal Patel",
+            "Review Rating": 5.0,
+            "Review Title": "Good",
+            "Review Body": "Good",
+            "Review Image(s)": []
+        },
+        {
+            "Reviewer Name": "Zee",
+            "Review Rating": 5.0,
+            "Review Title": "Comfort",
+            "Review Body": "Beautiful looking and very comfortable",
+            "Review Image(s)": []
+        },
+        {
+            "Reviewer Name": "steffanie h.",
+            "Review Rating": 5.0,
+            "Review Title": "Non soccer players love these now.",
+            "Review Body": "Hey!!!I used to be able to get these on sale at adidas for a significant savings. Not anymore!The classic Samba.",
+            "Review Image(s)": []
+        },
+        {
+            "Reviewer Name": "Greg Tansley",
+            "Review Rating": 5.0,
+            "Review Title": "Perfect",
+            "Review Body": "Perfect fit and great feel on and off the ball.",
+            "Review Image(s)": []
+        },
+        {
+            "Reviewer Name": "Looks is great.  The sizes are way off.  I'm usually and 8 in all shoes.  The 6.5 is still too big.  I should have gotten a 6.  Size down two sizes if your a woman's size.  They are gorgeous shoes though.",
+            "Review Rating": 4.0,
+            "Review Title": "Women size down two sizes.",
+            "Review Body": "They are too big. Unisex is not unisizing.",
+            "Review Image(s)": []
+        },
+        {
+            "Reviewer Name": "Amazon Customer",
+            "Review Rating": 5.0,
+            "Review Title": "Very nice",
+            "Review Body": "It's good quality",
+            "Review Image(s)": []
+        }
+    ]
+}
