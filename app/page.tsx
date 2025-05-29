@@ -34,7 +34,7 @@ export default function HomePage() {
   return (
     <Box style={{ position: 'relative', padding: '1rem', minHeight: '100vh' }}>
       {loading && (
-        <Overlay backgroundOpacity={1} color="#fff" zIndex={999}>
+        <Overlay backgroundOpacity={0.35} blur={15} zIndex={999}>
           <div
             style={{
               height: '100%',

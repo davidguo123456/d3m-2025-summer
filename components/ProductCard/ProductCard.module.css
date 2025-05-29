@@ -30,14 +30,14 @@
 
 .thumbnailGrid {
   display: grid;
-  grid-template-rows: repeat(4, 50px);
+  grid-template-rows: repeat(4, 45px);
   grid-auto-flow: column;
   gap: 7px;
 }
 
 .thumbnailWrapper {
-  width: 50px;
-  height: 50px;
+  width: 45px;
+  height: 45px;
   border-radius: 4px;
   overflow: hidden;
   border: 1px solid #ccc;
