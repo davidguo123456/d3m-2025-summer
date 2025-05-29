@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
-import { Container, Stack } from '@mantine/core';
 import Pica from 'pica';
+import { Container, Stack } from '@mantine/core';
 import classes from './ProductCard.module.css';
 
 const pica = Pica();
@@ -62,7 +62,9 @@ export function ProductCard({
 
   useEffect(() => {
     const loadAndProcessImages = async () => {
-      if (!mainImage) return;
+      if (!mainImage) {
+        return;
+      }
 
       const mainImg = await loadImage(mainImage);
       drawToCanvas(mainImg, mainCanvasRef.current!, grayscale);
@@ -91,7 +93,9 @@ export function ProductCard({
         finalCanvas.width = THUMB_SIZE;
         finalCanvas.height = THUMB_SIZE;
         const ctx = finalCanvas.getContext('2d');
-        if (!ctx) continue;
+        if (!ctx) {
+          continue;
+        }
 
         ctx.fillStyle = 'white';
         ctx.fillRect(0, 0, THUMB_SIZE, THUMB_SIZE);
@@ -138,6 +142,7 @@ export function ProductCard({
                   index === selectedIndex ? classes.selected : ''
                 }`}
                 onClick={() => handleThumbnailClick(index)}
+                onKeyDown={() => handleThumbnailClick(index)}
               >
                 <img src={thumb} alt={`Thumbnail ${index + 1}`} className={classes.thumbnail} />
               </div>
@@ -155,7 +160,7 @@ function applyGrayscale(ctx: CanvasRenderingContext2D, width: number, height: nu
 
   for (let i = 0; i < data.length; i += 4) {
     const avg = 0.299 * data[i] + 0.587 * data[i + 1] + 0.114 * data[i + 2];
-    data[i] = data[i + 1] = data[i + 2] = avg;
+    data.fill(avg, i, i + 3);
   }
 
   ctx.putImageData(imageData, 0, 0);
@@ -171,16 +176,14 @@ function loadImage(url: string): Promise<HTMLImageElement> {
   });
 }
 
-function drawToCanvas(
-  img: HTMLImageElement,
-  canvas: HTMLCanvasElement,
-  grayscale: boolean
-) {
+function drawToCanvas(img: HTMLImageElement, canvas: HTMLCanvasElement, grayscale: boolean) {
   canvas.width = img.width;
   canvas.height = img.height;
 
   const ctx = canvas.getContext('2d');
-  if (!ctx) return;
+  if (!ctx) {
+    return;
+  }
 
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   ctx.drawImage(img, 0, 0);

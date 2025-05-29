@@ -36,7 +36,7 @@ export default function HomePage() {
     <div style={{ padding: '1rem' }}>
       {showOverlay && (
         <div className={classes.fullScreenOverlay}>
-          <div className={classes.spinner}></div>
+          <div className={classes.spinner}/>
         </div>
       )}
 
