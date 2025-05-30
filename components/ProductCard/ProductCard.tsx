@@ -20,6 +20,7 @@ type ProductCardProps = {
   thumbCount?: number;
   grayscale?: boolean;
   onLoad?: () => void;
+  cardTitle?: string;
 };
 
 const THUMB_SIZE = 50;
@@ -29,6 +30,7 @@ export function ProductCard({
   thumbCount = 8,
   grayscale = false,
   onLoad,
+  cardTitle,
 }: ProductCardProps) {
   const [photoUrls, setPhotoUrls] = useState<string[]>([]);
   const [mainImage, setMainImage] = useState<string | null>(null);
@@ -142,7 +144,10 @@ export function ProductCard({
       <Container py="md">
         <div className={classes.productGrid}>
           <div className={classes.mainImageWrapper}>
-            <canvas ref={mainCanvasRef} className={classes.mainImage} />
+            <div className={classes.mainImageBox}>
+              <canvas ref={mainCanvasRef} className={classes.mainImage} />
+            </div>
+            {cardTitle && <div className={classes.cardTitle}>{cardTitle}</div>}
           </div>
 
           <div className={classes.thumbnailGrid}>

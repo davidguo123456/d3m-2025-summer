@@ -15,15 +15,26 @@
 
 .mainImageWrapper {
   width: 200px;
-  height: 200px;
   overflow: hidden;
   border-radius: 8px;
   border: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mainImageBox {
+  width: 200px;
+  height: 200px;
+  border-bottom: 1px solid #ddd;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
 }
 
 .mainImage {
-  width: 100%;
   height: 100%;
+  width: 100%;
   object-fit: contain;
   display: block;
 }
@@ -58,4 +69,11 @@
 
 .selected {
   border: 2px solid #228be6;
+}
+
+.cardTitle {
+  text-align: center;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #555;
 }
