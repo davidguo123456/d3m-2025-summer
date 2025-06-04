@@ -9,10 +9,11 @@ type ProductInfoProps = {
 };
 
 export function ProductInfoComponent({ path }: ProductInfoProps) {
-  const [description, setDescription] = useState<string | null>(null);
+  const [description, setDescription] = useState<string[] | null>(null);
   const [about, setAbout] = useState<string[] | null>(null);
-  // TODO: DO THIS PART ONCE THE METADATA IS FINALIZED
-  const review = 'This is also missing, this is a placeholder.';
+  const [rating, setRating] = useState<number | null>(null);
+  const [reviews, setReviews] = useState<string[] | null>(null);
+  const [details, setDetails] = useState<Record<string, string> | null>(null);
 
   useEffect(() => {
     const fetchProductInfo = async () => {
@@ -22,6 +23,9 @@ export function ProductInfoComponent({ path }: ProductInfoProps) {
 
         setDescription(data['Product Description'] || data.product_description || null);
         setAbout(data['About Product'] || data.about_product || null);
+        setRating(parseFloat(data['Product Rating']) || null);
+        setReviews(data['Reviews']?.length ? data['Reviews'] : null);
+        setDetails(data['Product Detail'] || null);
       } catch (error) {
         // eslint-disable-next-line no-console
         console.error('Failed to load product info:', error);
@@ -37,8 +41,7 @@ export function ProductInfoComponent({ path }: ProductInfoProps) {
         <Text fw={500} mb={4}>
           Rating
         </Text>
-        {/* need to change this to get an acc val */}
-        <Rating value={0} readOnly />
+        <Rating value={rating || 0} readOnly />
       </Box>
 
       {description && description.length > 0 && (
@@ -46,9 +49,11 @@ export function ProductInfoComponent({ path }: ProductInfoProps) {
           <Text fw={500} mb={4}>
             Description
           </Text>
-          <Text size="sm" c="dimmed" className={classes.textWrap}>
-            {description}
-          </Text>
+          <List size="sm" spacing="xs" c="dimmed" className={classes.listWrap}>
+            {description.map((line, idx) => (
+              <List.Item key={idx}>{line}</List.Item>
+            ))}
+          </List>
         </Box>
       )}
 
@@ -65,14 +70,31 @@ export function ProductInfoComponent({ path }: ProductInfoProps) {
         </Box>
       )}
 
-      {review && review.length > 0 && (
+      {details && (
+        <Box className={classes.padding}>
+          <Text fw={500} mb={4}>
+            Product Details
+          </Text>
+          <List size="sm" spacing="xs" c="dimmed" className={classes.listWrap}>
+            {Object.entries(details).map(([key, value]) => (
+              <List.Item key={key}>
+                <strong>{key}:</strong> {value}
+              </List.Item>
+            ))}
+          </List>
+        </Box>
+      )}
+
+      {reviews && reviews.length > 0 && (
         <Box className={classes.padding}>
           <Text fw={500} mb={4}>
             Reviewer Consensus
           </Text>
-          <Text size="sm" c="dimmed" className={classes.textWrap}>
-            {review}
-          </Text>
+          <List size="sm" spacing="xs" c="dimmed" className={classes.listWrap}>
+            {reviews.map((review, idx) => (
+              <List.Item key={idx}>{review}</List.Item>
+            ))}
+          </List>
         </Box>
       )}
     </div>
