@@ -24,7 +24,7 @@ export function ProductInfoComponent({ path }: ProductInfoProps) {
         setDescription(data['Product Description'] || data.product_description || null);
         setAbout(data['About Product'] || data.about_product || null);
         setRating(parseFloat(data['Product Rating']) || null);
-        setReviews(data['Reviews']?.length ? data['Reviews'] : null);
+        setReviews(data.Reviews?.length ? data.Reviews : null);
         setDetails(data['Product Detail'] || null);
       } catch (error) {
         // eslint-disable-next-line no-console
