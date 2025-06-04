@@ -1,0 +1,53 @@
+{
+    "ID": "O001",
+    "ASIN": "B07CK61PMD",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Clothing",
+        "Outerwear",
+        "Coats & Jackets",
+        "Lightweight Jackets",
+        "Cotton"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B07CK61PMD",
+    "Product Name": "Wantdo Men's Cotton Lightweight Jacket Military Jacket Front Zip Jacket",
+    "Product Brand": "Visit the Wantdo Store",
+    "Product Rating": "4.4",
+    "Product Description": null,
+    "About Product": [
+        "Lightweight cotton jacket made of 100% breathable cotton with a stylish design.",
+        "Features 5 multifunctional pockets and windproof zipper closure with adjustable cuffs.",
+        "Ideal for casual wear, making it suitable for various age groups and occasions.",
+        "Keywords: stylish, functional, versatile"
+    ],
+    "Product Detail": {
+        "Fabric type": "100% Cotton",
+        "Care instructions": "Machine Wash"
+    },
+    "Color": {
+        "Black": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/81rJitGvYOL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81sYRNXL9HL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Y0COihZIL._AC_SL1500_.jpg"
+            ]
+        },
+        "Army Green": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/817-LQFBkqL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81oi4wFPaUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81kof35NUCL._AC_SL1500_.jpg"
+            ]
+        },
+        "Navy": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/81w8JnDR-RL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/812NaFu-sBL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/719aTfManUL._AC_SL1500_.jpg"
+            ]
+        }
+    },
+    "Product Photo": "https://m.media-amazon.com/images/I/81rJitGvYOL._AC_SL1500_.jpg",
+    "Reviews": "Overall, customers find the Wantdo jacket to be stylish and comfortable, with many praising its design and fit. Positive reviews highlight its practicality, effective windproofing, and suitability for casual wear, although some concerns were raised about sizing and durability, particularly regarding the snap closures. Most reviewers recommend it for its quality and affordability."
+}
