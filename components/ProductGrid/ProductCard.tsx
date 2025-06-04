@@ -1,6 +1,8 @@
+'use client';
+
 import { useEffect, useRef, useState } from 'react';
 import Pica from 'pica';
-import { Container, Stack } from '@mantine/core';
+import { Box, Container, Group, Stack, Title } from '@mantine/core';
 import classes from './ProductCard.module.css';
 
 const pica = Pica();
@@ -40,38 +42,40 @@ export function ProductCard({
   const mainCanvasRef = useRef<HTMLCanvasElement | null>(null);
 
   useEffect(() => {
-  const fetchData = async () => {
-    const response = await fetch(jsonPath);
-    const data: ProductData & Record<string, any> = await response.json();
+    const fetchData = async () => {
+      const response = await fetch(jsonPath);
+      const data: ProductData & Record<string, any> = await response.json();
 
-    const imageUrls: string[] = [];
+      const imageUrls: string[] = [];
 
-    if (Object.keys(data.Color).length !== 0 && typeof data.Color === 'object') {
-      const seenColors = new Set<string>();
-      for (const [color, value] of Object.entries(data.Color)) {
-        if (!seenColors.has(color)) {
-          seenColors.add(color);
-          if (value?.Photo_url) {
-            imageUrls.push(value.Photo_url);
+      if (Object.keys(data.Color).length !== 0 && typeof data.Color === 'object') {
+        const seenColors = new Set<string>();
+        for (const [color, value] of Object.entries(data.Color)) {
+          if (!seenColors.has(color)) {
+            seenColors.add(color);
+            if (value?.Photo_url) {
+              imageUrls.push(value.Photo_url);
+            }
           }
         }
+      } else if (data.product_photo && Object.keys(data.product_photo).length !== 0) {
+        imageUrls.push(data.product_photo);
+      } else if (
+        data['Product Picture(s)'] &&
+        Object.keys(data['Product Picture(s)']).length !== 0
+      ) {
+        imageUrls.push(data['Product Picture(s)']);
       }
-    } else if (data.product_photo && Object.keys(data.product_photo).length !== 0) {
-      imageUrls.push(data.product_photo);
-    } else if (data["Product Picture(s)"] && Object.keys(data["Product Picture(s)"]).length !== 0) {
-      imageUrls.push(data["Product Picture(s)"]);
-    }
 
-    if (imageUrls.length > 0) {
-      setPhotoUrls(imageUrls);
-      setMainImage(imageUrls[0]);
-      setSelectedIndex(0);
-    }
-  };
+      if (imageUrls.length > 0) {
+        setPhotoUrls(imageUrls);
+        setMainImage(imageUrls[0]);
+        setSelectedIndex(0);
+      }
+    };
 
-  fetchData();
-}, [jsonPath]);
-
+    fetchData();
+  }, [jsonPath]);
 
   useEffect(() => {
     const loadAndProcessImages = async () => {
@@ -140,33 +144,33 @@ export function ProductCard({
   };
 
   return (
-    <Stack gap="s" className={classes.wrapper}>
-      <Container py="md">
-        <div className={classes.productGrid}>
-          <div className={classes.mainImageWrapper}>
-            <div className={classes.mainImageBox}>
-              <canvas ref={mainCanvasRef} className={classes.mainImage} />
-            </div>
-            {cardTitle && <div className={classes.cardTitle}>{cardTitle}</div>}
-          </div>
+    <Stack gap="md" className={classes.wrapper}>
+      <Group align="flex-start" wrap="nowrap">
+        <Stack gap="xs" className={classes.mainImageWrapper}>
+          <Title size="md" className={classes.cardTitle}>
+            {cardTitle}
+          </Title>
+          <Box className={classes.mainImageBox}>
+            <canvas ref={mainCanvasRef} className={classes.mainImage} />
+          </Box>
+        </Stack>
+      </Group>
 
-          <div className={classes.thumbnailGrid}>
-            {thumbs.slice(0, thumbCount).map((thumb, index) => (
-              <div
-                key={index}
-                className={`${classes.thumbnailWrapper} ${
-                  index === selectedIndex ? classes.selected : ''
-                }`}
-                onClick={() => handleThumbnailClick(index)}
-                onKeyDown={() => handleThumbnailClick(index)}
-                role="presentation"
-              >
-                <img src={thumb} alt={`Thumbnail ${index + 1}`} className={classes.thumbnail} />
-              </div>
-            ))}
-          </div>
-        </div>
-      </Container>
+      <Group gap="xs" className={classes.thumbnailGrid} wrap="wrap">
+        {thumbs.slice(0, thumbCount).map((thumb, index) => (
+          <Box
+            key={index}
+            className={`${classes.thumbnailWrapper} ${
+              index === selectedIndex ? classes.selected : ''
+            }`}
+            onClick={() => handleThumbnailClick(index)}
+            onKeyDown={() => handleThumbnailClick(index)}
+            role="presentation"
+          >
+            <img src={thumb} alt={`Thumbnail ${index + 1}`} className={classes.thumbnail} />
+          </Box>
+        ))}
+      </Group>
     </Stack>
   );
 }

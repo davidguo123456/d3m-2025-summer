@@ -5,8 +5,8 @@ import { ColorSchemeScript, MantineProvider } from '@mantine/core';
 import { theme } from '../theme';
 
 export const metadata = {
-  title: 'David Guo',
-  description: 'I am a undergraduate student studying Machine Learning at the University of Toronto. My experience is primarily with neural network models and generative AI using Python. I also dabble with frontend frameworks ocassionally! Mainly React, Vue, and Next.js.',
+  title: 'D3M: Fashion Recommendation',
+  description: '',
 };
 
 export default function RootLayout({ children }: { children: any }) {
