@@ -90,11 +90,9 @@ export function ProductInfoComponent({ path }: ProductInfoProps) {
           <Text fw={500} mb={4}>
             Reviewer Consensus
           </Text>
-          <List size="sm" spacing="xs" c="dimmed" className={classes.listWrap}>
-            {reviews.map((review, idx) => (
-              <List.Item key={idx}>{review}</List.Item>
-            ))}
-          </List>
+          <Text size="sm" c="dimmed">
+            {reviews}
+          </Text>
         </Box>
       )}
     </div>
