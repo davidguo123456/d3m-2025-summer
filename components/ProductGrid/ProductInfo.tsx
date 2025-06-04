@@ -41,7 +41,7 @@ export function ProductInfoComponent({ path }: ProductInfoProps) {
         <Text fw={500} mb={4}>
           Rating
         </Text>
-        <Rating value={rating || 0} readOnly />
+        <Rating value={rating || 0} readOnly fractions={5} />
       </Box>
 
       {description && description.length > 0 && (
