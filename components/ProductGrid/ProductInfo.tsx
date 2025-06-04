@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Box, List, Rating, Stack, Text, Title } from '@mantine/core';
+import { Box, List, Rating, Text } from '@mantine/core';
 import classes from './ProductInfo.module.css';
 
 type ProductInfoProps = {
@@ -20,9 +20,10 @@ export function ProductInfoComponent({ path }: ProductInfoProps) {
         const response = await fetch(path);
         const data = await response.json();
 
-        setDescription(data['Product Description'] || data['product description'] || null);
-        setAbout(data['About Product'] || data['about_product'] || null);
+        setDescription(data['Product Description'] || data.product_description || null);
+        setAbout(data['About Product'] || data.about_product || null);
       } catch (error) {
+        // eslint-disable-next-line no-console
         console.error('Failed to load product info:', error);
       }
     };

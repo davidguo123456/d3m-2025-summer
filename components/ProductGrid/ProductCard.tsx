@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import Pica from 'pica';
-import { Box, Container, Group, Stack, Title } from '@mantine/core';
+import { Box, Group, Stack, Title } from '@mantine/core';
 import classes from './ProductCard.module.css';
 
 const pica = Pica();
