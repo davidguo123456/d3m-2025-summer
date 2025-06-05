@@ -1,23 +1,25 @@
-// Converts a string seed to a 32-bit unsigned integer hash
+// Hash string seed into a 32-bit integer
 function hashSeed(seed: string): number {
-  let h = 0;
+  let h = 2166136261 >>> 0;
   for (let i = 0; i < seed.length; i++) {
-    h = Math.imul(31, h) + seed.charCodeAt(i);
-    h |= 0; // Convert to 32-bit signed integer
+    h ^= seed.charCodeAt(i);
+    h = Math.imul(h, 16777619);
   }
-  return h >>> 0; // Convert to unsigned
+  return h >>> 0;
 }
 
-// Returns a seeded pseudo-random number generator (0 <= x < 1)
+// Improved PRNG using Mulberry32
 function seededRandomGenerator(seed: string): () => number {
-  let x = hashSeed(seed);
+  let a = hashSeed(seed);
   return function (): number {
-    x ^= x << 13;
-    x ^= x >>> 17;
-    x ^= x << 5;
-    return (x >>> 0) / 4294967296;
+    a |= 0;
+    a = a + 0x6D2B79F5 | 0;
+    let t = Math.imul(a ^ (a >>> 15), 1 | a);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
   };
 }
+
 
 // Shuffle an array deterministically based on a seed
 export function shuffleArray<T>(array: T[], seed: string): T[] {
