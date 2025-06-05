@@ -1,0 +1,67 @@
+{
+    "ID": "O0030",
+    "ASIN": "B0D57CB797",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Sport Specific Clothing",
+        "Outdoor Recreation",
+        "Men",
+        "Jackets",
+        "Down Jackets"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B0D57CB797",
+    "Product Name": "THE NORTH FACE Men's Junction Insulated Jacket",
+    "Product Brand": "Visit the THE NORTH FACE Store",
+    "Product Rating": "4.5",
+    "Product Description": [
+        "75%-100% recycled materials for sustainability.",
+        "Designed for easy disassembly and recycling.",
+        "Secure zip pockets for convenience.",
+        "Key words: sustainable, circular design, versatile, durable"
+    ],
+    "About Product": [
+        "Eco-friendly jacket made from 100% recycled materials.",
+        "Lightweight with 100g Heatseeker insulation for warmth.",
+        "Water-resistant with Durable Water-Repellent finish.",
+        "Key words: recycled, insulation, water-resistant, eco-friendly, outdoor"
+    ],
+    "Product Detail": {
+        "Fabric type": "100% Recycled Polyester Plain Weave With non-PFC Durable Water-Repellent (non-PFC DWR) Finish",
+        "Care instructions": "Machine Wash",
+        "Origin": "Imported"
+    },
+    "Color": {
+        "Tnf Black/Tnf Black Block Camo Print": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51fCZMT2JeL._AC_SL1200_.jpg",
+                "https://m.media-amazon.com/images/I/51o1rfQG98L._AC_SL1200_.jpg",
+                "https://m.media-amazon.com/images/I/51VpQKIXpOL._AC_SL1200_.jpg"
+            ]
+        },
+        "Smoked Pearl": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71YiKfPXVTL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61yfCAljK6L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61QFo+5-NIL._AC_SL1500_.jpg"
+            ]
+        },
+        "Shady Blue": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71Z+mADZ3iL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61pK+eMb9ML._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/7147E5SYgXL._AC_SL1500_.jpg"
+            ]
+        },
+        "Forest Olive": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61OzCrX3wTL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61RwTHJl01L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61qCTAbIiDL._AC_SL1500_.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/71YiKfPXVTL._AC_SL1500_.jpg"
+    ],
+    "Reviews": "The product received a positive review highlighting its quality and suitability for outdoor use."
+}

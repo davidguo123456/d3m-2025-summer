@@ -1,0 +1,102 @@
+{
+    "ID": "O0029",
+    "ASIN": "B09GPZ8BD4",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Sport Specific Clothing",
+        "Outdoor Recreation",
+        "Men",
+        "Jackets",
+        "Waterproof Jackets"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B09GPZ8BD4",
+    "Product Name": "THE NORTH FACE Men's Antora Waterproof Jacket (Standard and Big Size)",
+    "Product Brand": "Visit the THE NORTH FACE Store",
+    "Product Rating": "4.6",
+    "Product Description": null,
+    "About Product": [
+        "Material: DryVent 2L, 100% recycled polyester",
+        "Fully sealed seams for durability",
+        "Regular fit, hip length",
+        "Key words: waterproof, breathable, eco-friendly, comfortable"
+    ],
+    "Product Detail": {
+        "Fabric type": "Recycled polyester",
+        "Care instructions": "Machine Wash, Hand Wash Only"
+    },
+    "Color": {
+        "Forest Olive/Tnf Black-npf": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71g9HFxvVeL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61zRE7ZE4rL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61C-IctvkRL._AC_SL1500_.jpg"
+            ]
+        },
+        "Utility Brown/Tnf Black": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71ESpFsXczL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61+vP14+2oL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/614qoyUQ85L._AC_SL1500_.jpg"
+            ]
+        },
+        "Black": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61BkJhRWRRL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/614hu5ycEUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61EHgnmFrdL._AC_SL1500_.jpg"
+            ]
+        },
+        "Tnf Black/Lunar Slate": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/511ze2EA6DL._AC_SL1080_.jpg",
+                "https://m.media-amazon.com/images/I/51BK4YcWcxL._AC_SL1080_.jpg"
+            ]
+        },
+        "Lichen Teal/Tnf Black": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71hjlnPWilL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71O0otrJ9tL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71F+yoAZMBL._AC_SL1500_.jpg"
+            ]
+        },
+        "Tnf Black": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61TmSBzJCOL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/6151Zm+BKlL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61WYx-SvT7L._AC_SL1500_.jpg"
+            ]
+        },
+        "Shady Blue/Tnf Black": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71dcXkZcH0L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61I6ChTSxUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61HhwAsHYBL._AC_SL1500_.jpg"
+            ]
+        },
+        "Navy Camo Texture Print/Tnf Black": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71je7KEWAUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81+ZOg2F+9L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81+hIU-83kL._AC_SL1500_.jpg"
+            ]
+        },
+        "Summit Navy/Tnf Black": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61uqW5PIkyL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61OL0t2jAuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/614AfFixvrL._AC_SL1500_.jpg"
+            ]
+        },
+        "Tnf Black/Tnf Black Tnf Lowercase Print": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/718LwJeixfL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71EPSSuowQL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81gfXYHMNDL._AC_SL1500_.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/61BkJhRWRRL._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Customers praise the jacket for its quality and comfort."
+}

@@ -1,0 +1,137 @@
+{
+    "ID": "O0027",
+    "ASIN": "B06XQ11924",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Sport Specific Clothing",
+        "Outdoor Recreation",
+        "Men",
+        "Jackets",
+        "Down Jackets"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B06XQ11924",
+    "Product Name": "Mountain Warehouse Seasons Mens Puffer Jacket - Lightweight Coat",
+    "Product Brand": "Visit the Mountain Warehouse Store",
+    "Product Rating": "4.2",
+    "Product Description": [
+        "100% Polyamide fabric for durability.",
+        "Machine washable for easy care.",
+        "Lightweight design for comfort.",
+        "Key words: durable, easy care, lightweight"
+    ],
+    "About Product": [
+        "Thermal tested to -30 \u00b0C for warmth.",
+        "Water-resistant with DWR treatment.",
+        "Includes two side pockets.",
+        "2-year warranty for quality assurance.",
+        "Key words: thermal, water-resistant, lightweight, insulated"
+    ],
+    "Product Detail": {
+        "Fabric type": "100% Polyamide",
+        "Care instructions": "Machine Wash"
+    },
+    "Color": {
+        "Navy": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/713avv+XOSL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71UdhkhAW3L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61bCnkHNWQL._AC_SL1500_.jpg"
+            ]
+        },
+        "Charcoal": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/710LIJLP2JL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71EffRMKP5L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/6126SXwwC+L._AC_SL1500_.jpg"
+            ]
+        },
+        "Navy (03)": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/713avv+XOSL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71UdhkhAW3L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61bCnkHNWQL._AC_SL1500_.jpg"
+            ]
+        },
+        "Grey": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/613TJ7eV6VL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61brxTta91L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71jgPn6AzzL._AC_SL1500_.jpg"
+            ]
+        },
+        "Black": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61qowUG9oeL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/611ZddgBW6L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61xF-saZDtL._AC_SL1500_.jpg"
+            ]
+        },
+        "Dark Grey": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61DSiapVjaL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61EVfzV30AL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61Fug2FxGSL._AC_SL1500_.jpg"
+            ]
+        },
+        "Dark Khaki": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71orW2TbP3L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61CKm+UgYsL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61E8JdjH5bL._AC_SL1500_.jpg"
+            ]
+        },
+        "Black Camo": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/81VhGkeZfiL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/812R4MbncRL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81uU-Nn0DcL._AC_SL1500_.jpg"
+            ]
+        },
+        "Blue": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71HlovAGdxL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71rEsD4z3LL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/615EKSyDvKL._AC_SL1500_.jpg"
+            ]
+        },
+        "Medium Grey": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61FEXIXVu4L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71+qTj9BJ1L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61Rlt842YhL._AC_SL1500_.jpg"
+            ]
+        },
+        "Gold": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71ShxRUNWIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71+uXO+bOjL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61DSF3LptGL._AC_SL1500_.jpg"
+            ]
+        },
+        "Green": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61mBOxFgYkL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71vMnJr6vLL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61a1wqMk-BL._AC_SL1500_.jpg"
+            ]
+        },
+        "Berry": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71Ky4rZoLdL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61DumlAAlBL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61YQR9-1RGL._AC_SL1500_.jpg"
+            ]
+        },
+        "Rust": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71wYIdQ3XYL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71XWP0yE4RL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61FRHEXgo9L._AC_SL1500_.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/61qowUG9oeL._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Overall, customers appreciate the jacket's warmth, lightweight design, and value for money, though some have noted issues with stitching quality and a negative experience with a used item being sent. Many recommend it for outdoor activities and cold weather."
+}

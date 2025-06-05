@@ -3,18 +3,18 @@
 import SeekerSessionPage from '@/components/SeekerSessionPage/SeekerSessionPage';
 
 const productJsonPaths = [
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_1.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_2.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_3.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_4.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_5.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_6.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_7.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_8.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_9.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_10.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_11.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_test_12.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_1.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_2.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_3.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_1.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_2.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_3.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_1.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_2.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_3.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_1.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_2.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/outer_3.json',
 ];
 
 export default function Page() {

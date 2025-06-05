@@ -1,0 +1,102 @@
+{
+    "ID": "O0033",
+    "ASIN": "B08GY2NC4B",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Clothing",
+        "Outerwear",
+        "Coats & Jackets",
+        "Wool & Blends"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B08GY2NC4B",
+    "Product Name": "FTCayanz Men's Trench Coat Wool Blend Slim Fit Top Coat Single Breasted Business Overcoat",
+    "Product Brand": "Brand: FTCayanz",
+    "Product Rating": "4.2",
+    "Product Description": [
+        "Available colors: black, dark blue, gray, burgundy.",
+        "Made from high-quality wool blend fabric.",
+        "Suitable for various occasions: work, parties, daily wear.",
+        "Key words: stylish, trench coat, casual, elegant"
+    ],
+    "About Product": [
+        "Classic stand collar and single-breasted design.",
+        "High-quality wool blend for warmth and comfort.",
+        "Available in four stylish colors.",
+        "Key words: wool coat, winter jacket, men's fashion, peacoat"
+    ],
+    "Product Detail": {
+        "Fabric type": "100% Wool",
+        "Care instructions": "Machine Wash, Hand Wash Only",
+        "Closure type": "Button",
+        "Outer material": "50% Wool, 50% Polyester; Lining: 100% Polyester"
+    },
+    "Color": {
+        "Black": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/519HBpO-19L._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/71P5YmyuvrL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/410bJp6VQzL._AC_SL1002_.jpg"
+            ]
+        },
+        "Navy": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51pVCm7iV2L._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/71P5YmyuvrL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/515STQ4V2XL._AC_SL1002_.jpg"
+            ]
+        },
+        "Wine-fleece": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51yTjmGV94L._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61V3KORaGpL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/41Zkg00YDIL._AC_SL1002_.jpg"
+            ]
+        },
+        "Navy-fleece": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51T7lhFQtLL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61LP7G-Su+L._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61BMLUg4T0L._AC_SL1002_.jpg"
+            ]
+        },
+        "Black-fleece": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41BZxkFoF+L._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/71WnXzk6VGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/410bJp6VQzL._AC_SL1002_.jpg"
+            ]
+        },
+        "Gray": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/6118LpJ1jGL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/71P5YmyuvrL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/515STQ4V2XL._AC_SL1002_.jpg"
+            ]
+        },
+        "Gray-fleece": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51TNnfZkcYL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/71P5YmyuvrL._AC_SL1500_.jpg"
+            ]
+        },
+        "Khaki": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/615ckX8vZzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/41o1iXc3uCL._AC_.jpg",
+                "https://m.media-amazon.com/images/I/71WnXzk6VGL._AC_SL1500_.jpg"
+            ]
+        },
+        "Wine": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51yw9rB-TWL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/71P5YmyuvrL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/51QbcxXR1dL._AC_SL1002_.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/519HBpO-19L._AC_SL1002_.jpg"
+    ],
+    "Reviews": "Customers praise the coat's excellent quality and stylish design, noting its great value for the price. Many express satisfaction with its appearance and comfort, indicating a strong likelihood of purchasing again."
+}
