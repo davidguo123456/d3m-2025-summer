@@ -31,6 +31,17 @@
         "Care instructions": "Machine Wash",
         "Origin": "Imported"
     },
+    "Color": {
+        "Navy Blue": {
+            "Photo_url": []
+        },
+        "Black": {
+            "Photo_url": []
+        },
+        "Red": {
+            "Photo_url": []
+        }
+    },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/51bt4HMI4uL._AC_SL1200_.jpg"
     ],

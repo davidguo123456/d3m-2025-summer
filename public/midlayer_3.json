@@ -25,6 +25,26 @@
         "Closure type": "Pull On",
         "Weave type": "Rib"
     },
+    "Color": {
+        "White-brown": {
+            "Photo_url": []
+        },
+        "Navy Blue": {
+            "Photo_url": []
+        },
+        "White": {
+            "Photo_url": []
+        },
+        "Black": {
+            "Photo_url": []
+        },
+        "Brown": {
+            "Photo_url": []
+        },
+        "Khaki": {
+            "Photo_url": []
+        }
+    },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/7133LyEfxBL._AC_SL1500_.jpg"
     ],

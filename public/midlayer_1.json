@@ -29,6 +29,41 @@
         "Closure type": "Pull On",
         "Weave type": "Knit"
     },
+    "Color": {
+        "Dark Olive": {
+            "Photo_url": []
+        },
+        "Black": {
+            "Photo_url": []
+        },
+        "Mustard Yellow": {
+            "Photo_url": []
+        },
+        "Red": {
+            "Photo_url": []
+        },
+        "Navy": {
+            "Photo_url": []
+        },
+        "Off-white": {
+            "Photo_url": []
+        },
+        "Oxblood": {
+            "Photo_url": []
+        },
+        "Dark Green": {
+            "Photo_url": []
+        },
+        "Camel": {
+            "Photo_url": []
+        },
+        "Navy/White Stripe": {
+            "Photo_url": []
+        },
+        "Dark Blue": {
+            "Photo_url": []
+        }
+    },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/8111zIPB-gL._AC_SL1500_.jpg"
     ],

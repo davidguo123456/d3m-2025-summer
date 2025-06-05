@@ -25,6 +25,32 @@
         "Closure type": "Button",
         "Sleeve type": "Long Sleeve"
     },
+    "Color": {
+        "Dark Blue": {
+            "Photo_url": []
+        },
+        "Dark Grey": {
+            "Photo_url": []
+        },
+        "Light Grey": {
+            "Photo_url": []
+        },
+        "Khaki": {
+            "Photo_url": []
+        },
+        "Red": {
+            "Photo_url": []
+        },
+        "Grey Blue": {
+            "Photo_url": []
+        },
+        "Black": {
+            "Photo_url": []
+        },
+        "Grey Khaki": {
+            "Photo_url": []
+        }
+    },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/713goe7XCjL._AC_SL1500_.jpg"
     ],
