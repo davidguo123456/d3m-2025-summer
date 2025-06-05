@@ -1,0 +1,58 @@
+{
+    "ID": "M0013",
+    "ASIN": "B077H1PKNJ",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Clothing",
+        "Sweaters",
+        "Cardigans"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B077H1PKNJ",
+    "Product Name": "LemonGirl Mens Casual Slim Full Zip Knitted Cardigan Sweater with Pocked",
+    "Product Brand": "Brand: LemonGirl",
+    "Product Rating": "4.2",
+    "Product Description": null,
+    "About Product": [
+        "Available in multiple sizes for a perfect fit.",
+        "Made from warm, cozy cotton and polyester.",
+        "Versatile for various occasions: work, sports, daily wear.",
+        "Key words: cardigan, warm, stylish, versatile, comfortable"
+    ],
+    "Product Detail": {
+        "Fabric type": "100% Polyester",
+        "Care instructions": "Machine Wash, Hand Wash",
+        "Closure type": "Zipper",
+        "Weave type": "Knitted"
+    },
+    "Color": {
+        "Red": {
+            "Photo_url": []
+        },
+        "Bluegray": {
+            "Photo_url": []
+        },
+        "Purplered": {
+            "Photo_url": []
+        },
+        "Coffee": {
+            "Photo_url": []
+        },
+        "Black": {
+            "Photo_url": []
+        },
+        "Gray": {
+            "Photo_url": []
+        },
+        "Beige": {
+            "Photo_url": []
+        },
+        "Deepgray": {
+            "Photo_url": []
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/71JZumI5AsL._AC_SL1198_.jpg"
+    ],
+    "Reviews": "Overall, customers appreciate the warmth and style of the sweater, noting its good quality. However, many mention sizing issues, with some finding it too small. The product is generally well-received, but potential buyers should consider ordering a size up."
+}

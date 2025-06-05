@@ -1,0 +1,52 @@
+{
+    "ID": "M009",
+    "ASIN": "B0BBH3F6PB",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Clothing",
+        "Sweaters",
+        "Pullovers"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B0BBH3F6PB",
+    "Product Name": "COOFANDY Men V Neck Dress Sweater Long Sleeve Slim Fit Fashion Pullover Sweaters",
+    "Product Brand": "Visit the COOFANDY Store",
+    "Product Rating": "4.1",
+    "Product Description": null,
+    "About Product": [
+        "Soft, durable polyester for comfort and style.",
+        "Slim fit design, perfect for layering.",
+        "Versatile for casual and business occasions.",
+        "Key words: sweater, v neck, slim fit, versatile"
+    ],
+    "Product Detail": {
+        "Fabric type": "100% Polyester",
+        "Care instructions": "Machine Wash",
+        "Closure type": "Pull On",
+        "Weave type": "Rib"
+    },
+    "Color": {
+        "White-brown": {
+            "Photo_url": []
+        },
+        "Navy Blue": {
+            "Photo_url": []
+        },
+        "White": {
+            "Photo_url": []
+        },
+        "Black": {
+            "Photo_url": []
+        },
+        "Brown": {
+            "Photo_url": []
+        },
+        "Khaki": {
+            "Photo_url": []
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/7133LyEfxBL._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Customers appreciate the fit and comfort, with many praising its quality and style. Some concerns about material quality were noted, but overall, the sweater is well-received for its versatility and value."
+}

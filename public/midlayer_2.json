@@ -1,0 +1,177 @@
+{
+    "ID": "M003",
+    "ASIN": "B0F42VS77H",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Clothing",
+        "Hoodies & Sweatshirts",
+        "Hoodies"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B0F42VS77H",
+    "Product Name": "Hanes Men\u2019s Ultimate Cotton Heavyweight Pullover Hoodie SweatshirtHoody",
+    "Product Brand": "Visit the Hanes Store",
+    "Product Rating": "4.2",
+    "Product Description": [
+        "Soft, cozy hoodie made from American-sourced cotton.",
+        "Double-needle stitching for durability and shape retention.",
+        "Features ribbed cuffs, hem, and a front kangaroo pocket.",
+        "Key words: warm, casual, layering, quality, classic"
+    ],
+    "About Product": [
+        "EcoSmart fleece made from up to 5% recycled fibers.",
+        "Classic sporty hoodie silhouette for everyday wear.",
+        "Pill-resistant fleece stays soft and warm.",
+        "Key words: fleece, hoodie, comfortable, durable, eco-friendly"
+    ],
+    "Product Detail": {
+        "Fabric type": "50% Cotton, 50% Polyester",
+        "Care instructions": "Machine Wash",
+        "Closure type": "Pull On",
+        "Neck style": "Hooded Neck"
+    },
+    "Color": {
+        "Gold": {
+            "asin": "B0721C1H5F",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41b1SHjUxwL.jpg"
+            ]
+        },
+        "Kelly Green": {
+            "asin": "B072MRCL7T",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/412JbaOGRbL.jpg"
+            ]
+        },
+        "Orange": {
+            "asin": "B072K69L62",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41zC-5j3NqL.jpg"
+            ]
+        },
+        "Purple": {
+            "asin": "B071WWY3TW",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41RaS6Ge-+L.jpg"
+            ]
+        },
+        "Cardinal": {
+            "asin": "B071WWY29Z",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/410FmJatxNL.jpg"
+            ]
+        },
+        "Deep Forest": {
+            "asin": "B00JUM3Y16",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41hXihkbvzL.jpg"
+            ]
+        },
+        "Deep Royal": {
+            "asin": "B00JUM3SPI",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41cnlKJHXEL.jpg"
+            ]
+        },
+        "Light Blue": {
+            "asin": "B00JUM42Z8",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/417Nu0TpW5L.jpg"
+            ]
+        },
+        "Light Steel": {
+            "asin": "B00JUM3BTQ",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/517Np8LgX+L.jpg"
+            ]
+        },
+        "Safety Orange": {
+            "asin": "B072K657K7",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/418-tEMwKRL.jpg"
+            ]
+        },
+        "Charcoal Heather": {
+            "asin": "B01L8JK11Y",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41KscgS9w-L.jpg"
+            ]
+        },
+        "Deep Red": {
+            "asin": "B00JUM3LIW",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41psZ+pHgLL.jpg"
+            ]
+        },
+        "Denim Blue": {
+            "asin": "B074V67M8F",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41oiElF6vpL.jpg"
+            ]
+        },
+        "Maroon": {
+            "asin": "B074V6DNGH",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31NM0CS3k3L.jpg"
+            ]
+        },
+        "Navy": {
+            "asin": "B00JUM362S",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41fEIpt90oL.jpg"
+            ]
+        },
+        "Smoke Grey": {
+            "asin": "B00JUM48CA",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41-b2N-lEcL.jpg"
+            ]
+        },
+        "White": {
+            "asin": "B074VGNTVF",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41upeFL8QBL.jpg"
+            ]
+        },
+        "Ash": {
+            "asin": "B074V6DNGF",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41t0biRR9PL.jpg"
+            ]
+        },
+        "Black": {
+            "asin": "B00JUM31F0",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31Gghb718ML.jpg"
+            ]
+        },
+        "Lime": {
+            "asin": "B074V6Q1DR",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41miIpIjjaL.jpg"
+            ]
+        },
+        "Pale Pink": {
+            "asin": "B071JYV6MZ",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31NTgexqoDL.jpg"
+            ]
+        },
+        "Safety Green": {
+            "asin": "B071GCRXPW",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41tR9YfgjJL.jpg"
+            ]
+        },
+        "Yellow": {
+            "asin": "B072K69V3V",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41WVn4Cw0TL.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/71tMUuile8L._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Overall, customers appreciate the comfort and quality of the hoodie, noting its cozy feel and good fit. However, some mention sizing issues, particularly that it runs smaller than expected. A few reviews express dissatisfaction with the fabric composition not matching the description, but many find it a great value for the price."
+}

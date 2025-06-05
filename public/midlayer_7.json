@@ -1,0 +1,46 @@
+{
+    "ID": "M0016",
+    "ASIN": "B0B124JXMX",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Clothing"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B0B124JXMX",
+    "Product Name": "UNeedVog Men's Cardigan Sweaters Knitted Blazer Button Down Knitwear Casual Jacket Jumpers",
+    "Product Brand": "Brand: UNeedVog",
+    "Product Rating": null,
+    "Product Description": [
+        "Premium soft fabric with cable knit technology.",
+        "Ribbed cuffs and hem for a classic fit.",
+        "Suitable for various occasions and styles.",
+        "Key words: hooded sweater, casual, versatile, comfortable"
+    ],
+    "About Product": [
+        "Soft, warm, and durable fabric.",
+        "Classic button-down design with hood.",
+        "Versatile for casual and formal occasions.",
+        "Key words: cardigan, men's fashion, warm, stylish"
+    ],
+    "Product Detail": {
+        "Fabric type": "100% Polyester",
+        "Care instructions": "Machine Wash",
+        "Closure type": "Button",
+        "Weave type": "Ribbed"
+    },
+    "Color": {
+        "Black": {
+            "Photo_url": []
+        },
+        "Coffee": {
+            "Photo_url": []
+        },
+        "Light Brown": {
+            "Photo_url": []
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/61han1hY2eL._AC_SL1500_.jpg"
+    ],
+    "Reviews": null
+}

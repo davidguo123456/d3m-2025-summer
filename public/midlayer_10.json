@@ -1,0 +1,176 @@
+{
+    "ID": "M0028",
+    "ASIN": "B07MKCGGL3",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Clothing",
+        "Tops, Tees & Shirts"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B07MKCGGL3",
+    "Product Name": "LONGBIDA Men Slim Fit Lightweight Long Sleeve Pullover Top Turtleneck T-Shirt",
+    "Product Brand": "Visit the LONGBIDA Store",
+    "Product Rating": "4",
+    "Product Description": [
+        "Available sizes: 34\" to 46\".",
+        "Choose a size up for a looser fit.",
+        "Model is 6'2\", wearing size L.",
+        "Key words: sizing, fit, model, casual"
+    ],
+    "About Product": [
+        "65% polyester, 35% cotton, machine washable.",
+        "Stylish turtleneck, slim fit, lightweight thermal.",
+        "Versatile for casual or semi-formal occasions.",
+        "Key words: turtleneck, slim fit, lightweight, casual, versatile"
+    ],
+    "Product Detail": {
+        "Fabric type": "65% Polyester, 35% Cotton",
+        "Care instructions": "Machine Wash",
+        "Closure type": "Pull On",
+        "Neck style": "Turtle Neck"
+    },
+    "Color": {
+        "Black": {
+            "asin": "B0CM8LVG3T",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31ViIvKCoSL.jpg"
+            ]
+        },
+        "Dark Grey": {
+            "asin": "B0CHW7X3GY",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41Yanfh7xBL.jpg"
+            ]
+        },
+        "Pink": {
+            "asin": "B0CMZ8CT6B",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31G0H1R3DIL.jpg"
+            ]
+        },
+        "Red": {
+            "asin": "B0CM8BGZ7D",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/412C2jHo5cL.jpg"
+            ]
+        },
+        "White": {
+            "asin": "B0CM92X85H",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31Y77rPi+fL.jpg"
+            ]
+        },
+        "Army Green": {
+            "asin": "B08KGJGX2H",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/315lV5SfTFL.jpg"
+            ]
+        },
+        "Beige": {
+            "asin": "B08P45PQZZ",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31rF+rTNX3L.jpg"
+            ]
+        },
+        "Blue Black": {
+            "asin": "B0CCDFWWZQ",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41EauHOp6VL.jpg"
+            ]
+        },
+        "Coffee": {
+            "asin": "B08P44DGX7",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41qD03gseqL.jpg"
+            ]
+        },
+        "Green": {
+            "asin": "B08KGFQ4H8",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31gHosfRIeL.jpg"
+            ]
+        },
+        "Light Purple": {
+            "asin": "B0B4RN1K6Q",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/314mE-FgyPL.jpg"
+            ]
+        },
+        "Navy": {
+            "asin": "B08KGJ3W14",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31qcOP9+GKL.jpg"
+            ]
+        },
+        "Neon Green": {
+            "asin": "B0B4R85CYN",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31nXqk1SQuL.jpg"
+            ]
+        },
+        "Peacock Blue": {
+            "asin": "B0CBLZH1FX",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41j1Yy6VcDL.jpg"
+            ]
+        },
+        "Royal Blue": {
+            "asin": "B08KGDT1GF",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31HWikoDEsL.jpg"
+            ]
+        },
+        "Shamrock Green": {
+            "asin": "B0CBM1FL5S",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41rkaUIEM3L.jpg"
+            ]
+        },
+        "Sky Blue": {
+            "asin": "B0B4R76MQZ",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31HMjw-lFML.jpg"
+            ]
+        },
+        "Wine Red": {
+            "asin": "B08KGG23NX",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31891n4TbQL.jpg"
+            ]
+        },
+        "Yellow": {
+            "asin": "B08P44J5JY",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41GBsnSHezL.jpg"
+            ]
+        },
+        "Bright Yellow": {
+            "asin": "B09KZVDPH1",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31MoUotjbjL.jpg"
+            ]
+        },
+        "Gray": {
+            "asin": "B08QRM74SG",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41HoUSauNXL.jpg"
+            ]
+        },
+        "Light Blue": {
+            "asin": "B0B4R5T9P2",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31e7TEZ19wL.jpg"
+            ]
+        },
+        "Red & Black": {
+            "asin": "B0BJVJFX8Z",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/411GpqQPVRL.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/61yKpU3IofL._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Overall, customers appreciate the fit and quality, though some experienced sizing issues and minor quality control problems. Many noted the stylish appearance, while a few expressed disappointment with color accuracy and fabric quality."
+}
