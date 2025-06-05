@@ -25,65 +25,6 @@
         "Closure type": "Pull On",
         "Weave type": "Rib"
     },
-    "Color": {
-        "Classic White": {
-            "Photo_url": []
-        },
-        "Navy": {
-            "Photo_url": []
-        },
-        "Classic Light Blue": {
-            "Photo_url": []
-        },
-        "Red": {
-            "Photo_url": []
-        },
-        "Classic Burgundy": {
-            "Photo_url": []
-        },
-        "Blue": {
-            "Photo_url": []
-        },
-        "Classic Black": {
-            "Photo_url": []
-        },
-        "Black": {
-            "Photo_url": []
-        },
-        "Gray": {
-            "Photo_url": []
-        },
-        "Classic Hunter Green": {
-            "Photo_url": []
-        },
-        "Classic Grey": {
-            "Photo_url": []
-        },
-        "Brown": {
-            "Photo_url": []
-        },
-        "Classic Khaki": {
-            "Photo_url": []
-        },
-        "Classic Coffee": {
-            "Photo_url": []
-        },
-        "White": {
-            "Photo_url": []
-        },
-        "Classic Navy": {
-            "Photo_url": []
-        },
-        "Light Blue": {
-            "Photo_url": []
-        },
-        "Classic Red": {
-            "Photo_url": []
-        },
-        "Hunter Green": {
-            "Photo_url": []
-        }
-    },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/616TC36AdsL._AC_SL1500_.jpg"
     ],
