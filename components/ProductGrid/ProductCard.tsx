@@ -48,7 +48,7 @@ export function ProductCard({
 
       const imageUrls: string[] = [];
 
-      if (Object.keys(data.Color).length !== 0 && typeof data.Color === 'object') {
+      if (data.Color && Object.keys(data.Color).length !== 0 && typeof data.Color === 'object') {
         const seenColors = new Set<string>();
         for (const [color, value] of Object.entries(data.Color)) {
           if (!seenColors.has(color)) {
@@ -65,6 +65,11 @@ export function ProductCard({
         Object.keys(data['Product Picture(s)']).length !== 0
       ) {
         imageUrls.push(data['Product Picture(s)']);
+      } else if (
+        data['Product Photo'] &&
+        Object.keys(data['Product Photo']).length !== 0
+      ) {
+        imageUrls.push(data['Product Photo']);
       }
 
       if (imageUrls.length > 0) {

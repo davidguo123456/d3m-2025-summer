@@ -19,18 +19,18 @@ export const A_PATHS = [
 
 //Midlayers
 export const B_PATHS = [
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_1.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_2.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_3.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_4.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_5.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_6.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_7.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_8.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_9.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_10.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_11.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/mid_12.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_1.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_2.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_3.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_4.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_5.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_6.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_7.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_8.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_9.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_10.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_11.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/midlayer_12.json',
 ];
 
 //Shoes
