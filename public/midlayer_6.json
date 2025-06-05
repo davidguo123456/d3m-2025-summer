@@ -25,32 +25,7 @@
         "Closure type": "Zipper",
         "Weave type": "Knitted"
     },
-    "Color": {
-        "Red": {
-            "Photo_url": []
-        },
-        "Bluegray": {
-            "Photo_url": []
-        },
-        "Purplered": {
-            "Photo_url": []
-        },
-        "Coffee": {
-            "Photo_url": []
-        },
-        "Black": {
-            "Photo_url": []
-        },
-        "Gray": {
-            "Photo_url": []
-        },
-        "Beige": {
-            "Photo_url": []
-        },
-        "Deepgray": {
-            "Photo_url": []
-        }
-    },
+    "Color": {},
     "Product Photo": [
         "https://m.media-amazon.com/images/I/71JZumI5AsL._AC_SL1198_.jpg"
     ],
