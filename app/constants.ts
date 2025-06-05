@@ -1,4 +1,4 @@
-export const GRAYSCALE = true;
+export const GRAYSCALE = false;
 export const THUMB_COUNT = 8;
 
 export const PRODUCT_JSON_PATHS = [
