@@ -1,102 +1,139 @@
 {
-    "ID": "O0029",
-    "ASIN": "B09GPZ8BD4",
-    "Categories": [
-        "Clothing, Shoes & Accessories",
-        "Sport Specific Clothing",
-        "Outdoor Recreation",
-        "Men",
-        "Jackets",
-        "Waterproof Jackets"
-    ],
-    "Product URL": "https://www.amazon.ca/dp/B09GPZ8BD4",
-    "Product Name": "THE NORTH FACE Men's Antora Waterproof Jacket (Standard and Big Size)",
-    "Product Brand": "Visit the THE NORTH FACE Store",
-    "Product Rating": "4.6",
+    "ID": "O0022",
+    "ASIN": "B0D9TFM2LP",
+    "Categories": [],
+    "Product URL": "https://www.amazon.ca/dp/B0D9TFM2LP",
+    "Product Name": "Mr.Stream Men's Cotton Plaid Fleece Lined Work Snap Casual Sherpa Flannel Shirt Jackets",
+    "Product Brand": "Visit the Mr.Stream Store",
+    "Product Rating": "4.4",
     "Product Description": null,
     "About Product": [
-        "Material: DryVent 2L, 100% recycled polyester",
-        "Fully sealed seams for durability",
-        "Regular fit, hip length",
-        "Key words: waterproof, breathable, eco-friendly, comfortable"
+        "US sizes; order based on size measurement.",
+        "Warm, comfortable for outdoor activities.",
+        "Classic flannel jacket with Western styling.",
+        "Thick outer material, smooth inner sleeves.",
+        "Key words: flannel, jacket, warm, outdoor, comfortable"
     ],
     "Product Detail": {
-        "Fabric type": "Recycled polyester",
-        "Care instructions": "Machine Wash, Hand Wash Only"
+        "Fabric type": "SHELL: 100% Cotton . LINING: 100% Polyester",
+        "Care instructions": "Machine Wash"
     },
     "Color": {
-        "Forest Olive/Tnf Black-npf": {
+        "Gray": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/71g9HFxvVeL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61zRE7ZE4rL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61C-IctvkRL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81jdYgPL0qL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81cvUzgTgmL._AC_SL1500_.jpg"
             ]
         },
-        "Utility Brown/Tnf Black": {
+        "Red Coffee": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/71ESpFsXczL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61+vP14+2oL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/614qoyUQ85L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81eVNMfPWRL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81+0Mo2lB4L._AC_SL1500_.jpg"
             ]
         },
-        "Black": {
+        "Dark Blue": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/61BkJhRWRRL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/614hu5ycEUL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61EHgnmFrdL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71REugLaN9L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71AR82iZkhL._AC_SL1500_.jpg"
             ]
         },
-        "Tnf Black/Lunar Slate": {
+        "Dark Blue 2": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/511ze2EA6DL._AC_SL1080_.jpg",
-                "https://m.media-amazon.com/images/I/51BK4YcWcxL._AC_SL1080_.jpg"
+                "https://m.media-amazon.com/images/I/71VclCPlOPL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81yXVOFFDrL._AC_SL1500_.jpg"
             ]
         },
-        "Lichen Teal/Tnf Black": {
+        "Coffee": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/71hjlnPWilL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71O0otrJ9tL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71F+yoAZMBL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81mfZJW1MGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/814OmXUAsCL._AC_SL1500_.jpg"
             ]
         },
-        "Tnf Black": {
+        "Blue": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/61TmSBzJCOL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/6151Zm+BKlL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61WYx-SvT7L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/91iuWwIulzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91UQNFeB8OL._AC_SL1500_.jpg"
             ]
         },
-        "Shady Blue/Tnf Black": {
+        "Brown 2": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/71dcXkZcH0L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61I6ChTSxUL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61HhwAsHYBL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81ygbatQP2L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81K5ypRCGyL._AC_SL1500_.jpg"
             ]
         },
-        "Navy Camo Texture Print/Tnf Black": {
+        "Red": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/71je7KEWAUL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81+ZOg2F+9L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81+hIU-83kL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81FsLxQBdxL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81WH8Ihf2zL._AC_SL1500_.jpg"
             ]
         },
-        "Summit Navy/Tnf Black": {
+        "Green": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/61uqW5PIkyL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61OL0t2jAuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/614AfFixvrL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/817r2gb3yCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81IIrgUL0yL._AC_SL1500_.jpg"
             ]
         },
-        "Tnf Black/Tnf Black Tnf Lowercase Print": {
+        "Dark Green": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/718LwJeixfL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71EPSSuowQL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81gfXYHMNDL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81d2uGDcraL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81mHvSfq4DL._AC_SL1500_.jpg"
+            ]
+        },
+        "Gray 2": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/81-d89KYOIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/811HP8fwMwL._AC_SL1500_.jpg"
+            ]
+        },
+        "Khaki": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/91UmjjJoHFL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81nPT4wOPoL._AC_SL1500_.jpg"
+            ]
+        },
+        "Dark Green 2": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/81veJAm2e3L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81EjvViZyIL._AC_SL1500_.jpg"
+            ]
+        },
+        "Brown": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/81hOZCQYxhL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/815WKJezNML._AC_SL1500_.jpg"
+            ]
+        },
+        "Red 2": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/81vqcQy4FXL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81eW8PvnGUL._AC_SL1500_.jpg"
+            ]
+        },
+        "Coffee 2": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/81vsHnkBcTL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81P9dgHQC-L._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
-        "https://m.media-amazon.com/images/I/61BkJhRWRRL._AC_SL1500_.jpg"
+        "https://m.media-amazon.com/images/I/81hOZCQYxhL._AC_SL1500_.jpg"
     ],
-    "Reviews": "Customers praise the jacket for its quality and comfort."
+    "Reviews": "Customers appreciate the warmth, fit, and style of the jacket, noting its comfort and durability. Some mention it feels more like a heavy shirt than a jacket and suggest improvements like additional pockets. Overall, the sentiment is positive, with many satisfied with their purchase."
 }

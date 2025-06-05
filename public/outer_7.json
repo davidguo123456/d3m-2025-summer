@@ -1,139 +1,50 @@
 {
-    "ID": "O0022",
-    "ASIN": "B0D9TFM2LP",
-    "Categories": [],
-    "Product URL": "https://www.amazon.ca/dp/B0D9TFM2LP",
-    "Product Name": "Mr.Stream Men's Cotton Plaid Fleece Lined Work Snap Casual Sherpa Flannel Shirt Jackets",
-    "Product Brand": "Visit the Mr.Stream Store",
-    "Product Rating": "4.4",
-    "Product Description": null,
-    "About Product": [
-        "US sizes; order based on size measurement.",
-        "Warm, comfortable for outdoor activities.",
-        "Classic flannel jacket with Western styling.",
-        "Thick outer material, smooth inner sleeves.",
-        "Key words: flannel, jacket, warm, outdoor, comfortable"
+    "ID": "O0015",
+    "ASIN": "B0DFMRWTYN",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Clothing",
+        "Outerwear",
+        "Coats & Jackets",
+        "Lightweight Jackets",
+        "Denim"
     ],
-    "Product Detail": {
-        "Fabric type": "SHELL: 100% Cotton . LINING: 100% Polyester",
-        "Care instructions": "Machine Wash"
-    },
+    "Product URL": "https://www.amazon.ca/dp/B0DFMRWTYN",
+    "Product Name": "Men's Flannel Lined Denim Washed Work Shirt Jacket, Fall Winter Utility Jean Shacket",
+    "Product Brand": "Visit the ZENTHACE Store",
+    "Product Rating": "4.6",
+    "Product Description": [
+        "Medium-wash denim jacket with warm flannel lining.",
+        "Timeless design pairs well with any outfit.",
+        "Includes multiple pockets for convenience.",
+        "Machine washable for easy care. Key words: medium-wash, timeless, pockets, machine washable"
+    ],
+    "About Product": [
+        "Durable 100% cotton with heavy-duty snap fasteners.",
+        "Multiple pockets for easy storage and access.",
+        "Warm flannel lining and corduroy collar.",
+        "Versatile for all seasons and occasions. Key words: denim jacket, flannel lined, durable, versatile"
+    ],
+    "Product Detail": null,
     "Color": {
-        "Gray": {
+        "Indigo": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/81jdYgPL0qL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81cvUzgTgmL._AC_SL1500_.jpg"
-            ]
-        },
-        "Red Coffee": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81eVNMfPWRL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81+0Mo2lB4L._AC_SL1500_.jpg"
-            ]
-        },
-        "Dark Blue": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/71REugLaN9L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71AR82iZkhL._AC_SL1500_.jpg"
-            ]
-        },
-        "Dark Blue 2": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/71VclCPlOPL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81yXVOFFDrL._AC_SL1500_.jpg"
-            ]
-        },
-        "Coffee": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81mfZJW1MGL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/814OmXUAsCL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81IcpCF7owL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71en7iy-YlL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71ol5FRDZHL._AC_SL1500_.jpg"
             ]
         },
         "Blue": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/91iuWwIulzL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/91UQNFeB8OL._AC_SL1500_.jpg"
-            ]
-        },
-        "Brown 2": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81ygbatQP2L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81K5ypRCGyL._AC_SL1500_.jpg"
-            ]
-        },
-        "Red": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81FsLxQBdxL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81WH8Ihf2zL._AC_SL1500_.jpg"
-            ]
-        },
-        "Green": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/817r2gb3yCL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81IIrgUL0yL._AC_SL1500_.jpg"
-            ]
-        },
-        "Dark Green": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81d2uGDcraL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81mHvSfq4DL._AC_SL1500_.jpg"
-            ]
-        },
-        "Gray 2": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81-d89KYOIL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/811HP8fwMwL._AC_SL1500_.jpg"
-            ]
-        },
-        "Khaki": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/91UmjjJoHFL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81nPT4wOPoL._AC_SL1500_.jpg"
-            ]
-        },
-        "Dark Green 2": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81veJAm2e3L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81EjvViZyIL._AC_SL1500_.jpg"
-            ]
-        },
-        "Brown": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81hOZCQYxhL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71uRlGAexuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/815WKJezNML._AC_SL1500_.jpg"
-            ]
-        },
-        "Red 2": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81vqcQy4FXL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81eW8PvnGUL._AC_SL1500_.jpg"
-            ]
-        },
-        "Coffee 2": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81vsHnkBcTL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81jFZhxyg8L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81P9dgHQC-L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/817y5R9njyL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81JamyCrphL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81+q40A-FUL._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
-        "https://m.media-amazon.com/images/I/81hOZCQYxhL._AC_SL1500_.jpg"
+        "https://m.media-amazon.com/images/I/817y5R9njyL._AC_SL1500_.jpg"
     ],
-    "Reviews": "Customers appreciate the warmth, fit, and style of the jacket, noting its comfort and durability. Some mention it feels more like a heavy shirt than a jacket and suggest improvements like additional pockets. Overall, the sentiment is positive, with many satisfied with their purchase."
+    "Reviews": "Customers praise the jacket's quality, warmth, and comfort. Many appreciate the ample pocket space and versatility for different weather conditions. Positive experiences with customer service were noted, highlighting the seller's graciousness."
 }

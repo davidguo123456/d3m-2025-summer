@@ -1,50 +1,109 @@
 {
-    "ID": "O0015",
-    "ASIN": "B0DFMRWTYN",
+    "ID": "O006",
+    "ASIN": "B08J6MMYL5",
     "Categories": [
         "Clothing, Shoes & Accessories",
         "Men",
         "Clothing",
         "Outerwear",
         "Coats & Jackets",
-        "Lightweight Jackets",
-        "Denim"
+        "Wool & Blends"
     ],
-    "Product URL": "https://www.amazon.ca/dp/B0DFMRWTYN",
-    "Product Name": "Men's Flannel Lined Denim Washed Work Shirt Jacket, Fall Winter Utility Jean Shacket",
-    "Product Brand": "Visit the ZENTHACE Store",
-    "Product Rating": "4.6",
+    "Product URL": "https://www.amazon.ca/dp/B08J6MMYL5",
+    "Product Name": "Pretifeel Mens Trench Coat Slim Fit Double Breasted Long Jacket Notched Lapel Belt Fall Windproof Coat",
+    "Product Brand": "Brand: Pretifeel",
+    "Product Rating": "4.1",
     "Product Description": [
-        "Medium-wash denim jacket with warm flannel lining.",
-        "Timeless design pairs well with any outfit.",
-        "Includes multiple pockets for convenience.",
-        "Machine washable for easy care. Key words: medium-wash, timeless, pockets, machine washable"
+        "Durable and elegant trench coat for all seasons.",
+        "Available in multiple colors and sizes.",
+        "Machine or hand washable for easy care.",
+        "Key words: trench coat, casual wear, outdoor, quality"
     ],
     "About Product": [
-        "Durable 100% cotton with heavy-duty snap fasteners.",
-        "Multiple pockets for easy storage and access.",
-        "Warm flannel lining and corduroy collar.",
-        "Versatile for all seasons and occasions. Key words: denim jacket, flannel lined, durable, versatile"
+        "High quality windproof twill fabric for comfort.",
+        "Classic double-breasted design with waist belt.",
+        "Suitable for casual, outdoor, and work occasions.",
+        "Easy to match with various outfits.",
+        "Key words: windproof, thermal, stylish, versatile, comfortable"
     ],
-    "Product Detail": null,
+    "Product Detail": {
+        "Fabric type": "65% Polyester, 35% Cotton",
+        "Care instructions": "Hand Wash Only"
+    },
     "Color": {
-        "Indigo": {
+        "Gray": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/81IcpCF7owL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71en7iy-YlL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71ol5FRDZHL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/51ztNipYNBL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/71w0VO7dyOL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/818FieEbKVL._AC_SL1500_.jpg"
             ]
         },
-        "Blue": {
+        "Black": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/817y5R9njyL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81JamyCrphL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81+q40A-FUL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61tpGinbsIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/510JCRLkL0L._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/51B+POqAvcL._AC_SL1000_.jpg"
+            ]
+        },
+        "Dark Gray": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51THPcj+NsL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/711vD0V2OlL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71IY0Ft9O1L._AC_SL1500_.jpg"
+            ]
+        },
+        "Brown": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51SMorIyv-L._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/71S7Y3H99UL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/7102iLDy24L._AC_SL1500_.jpg"
+            ]
+        },
+        "Wine Red": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51+gQed765L._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/51uHu--fn7L._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/41YXghbcFWL._AC_SL1000_.jpg"
+            ]
+        },
+        "Clear,green": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61d1TfInorL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/51Us8pII12L._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/71a85THyIIL._AC_SL1500_.jpg"
+            ]
+        },
+        "Army Green": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51ya6aDy-vL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/81qJB+LJ55L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81fANv28R5L._AC_SL1500_.jpg"
+            ]
+        },
+        "Navy Blue": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51rOJlTup-L._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/71YqNiJ2lyL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Jp0DaFiCL._AC_SL1500_.jpg"
+            ]
+        },
+        "Khaki": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51ya6aDy-vL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/81qJB+LJ55L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81fANv28R5L._AC_SL1500_.jpg"
+            ]
+        },
+        "Dark Green": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/51CpNSWHzIL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/71T6XyWUyWL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71MoqH4YJDL._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
-        "https://m.media-amazon.com/images/I/817y5R9njyL._AC_SL1500_.jpg"
+        "https://m.media-amazon.com/images/I/51ya6aDy-vL._AC_SL1000_.jpg"
     ],
-    "Reviews": "Customers praise the jacket's quality, warmth, and comfort. Many appreciate the ample pocket space and versatility for different weather conditions. Positive experiences with customer service were noted, highlighting the seller's graciousness."
+    "Reviews": "Overall, customers appreciate the stylish design and fit of the jacket, noting its good quality for the price. Some mentioned the material could be thinner and not waterproof, while a few expressed concerns about durability. Positive feedback highlights its elegance and functionality."
 }

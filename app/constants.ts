@@ -1,7 +1,8 @@
 export const GRAYSCALE = false;
 export const THUMB_COUNT = 8;
 
-export const PRODUCT_JSON_PATHS = [
+//Outerwear
+export const A_PATHS = [
   'https://davidguo123456.github.io/d3m-2025-summer/outer_1.json',
   'https://davidguo123456.github.io/d3m-2025-summer/outer_2.json',
   'https://davidguo123456.github.io/d3m-2025-summer/outer_3.json',
@@ -14,4 +15,36 @@ export const PRODUCT_JSON_PATHS = [
   'https://davidguo123456.github.io/d3m-2025-summer/outer_10.json',
   'https://davidguo123456.github.io/d3m-2025-summer/outer_11.json',
   'https://davidguo123456.github.io/d3m-2025-summer/outer_12.json',
+];
+
+//Midlayers
+export const B_PATHS = [
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_1.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_2.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_3.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_4.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_5.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_6.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_7.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_8.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_9.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_10.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_11.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/mid_12.json',
+];
+
+//Shoes
+export const C_PATHS = [
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_1.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_2.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_3.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_4.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_5.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_6.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_7.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_8.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_9.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_10.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_11.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/shoes_12.json',
 ];

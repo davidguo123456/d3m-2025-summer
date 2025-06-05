@@ -1,77 +1,54 @@
 {
-    "ID": "O0013",
-    "ASIN": "B09P7QNHL8",
+    "ID": "O005",
+    "ASIN": "B0B52HSV18",
     "Categories": [
         "Clothing, Shoes & Accessories",
         "Men",
         "Clothing",
         "Outerwear",
         "Coats & Jackets",
-        "Fleece"
+        "Leather & Faux Leather",
+        "Faux Leather"
     ],
-    "Product URL": "https://www.amazon.ca/dp/B09P7QNHL8",
-    "Product Name": "MAGNIVIT Men's Cotton Cargo Jacket Winter Sherpa Fleece Lined Work Jacket Coats with 5 Pockets",
-    "Product Brand": "Visit the MAGNIVIT Store",
-    "Product Rating": "4.4",
-    "Product Description": null,
+    "Product URL": "https://www.amazon.ca/dp/B0B52HSV18",
+    "Product Name": "Levi's Mens Faux Leather Motorcycle JacketJacket",
+    "Product Brand": "Visit the Levi's Store",
+    "Product Rating": "4.6",
+    "Product Description": [
+        "Classic faux leather with buffalo plaid lining.",
+        "Zipper front closure and detailed cuffs.",
+        "Multiple pockets including interior snap pocket.",
+        "Key words: motorcycle jacket, faux leather, plaid lining"
+    ],
     "About Product": [
-        "Material: Full Cotton shell, Polyester lining for comfort.",
-        "Features: Fleece lined, button closure, adjustable cuffs.",
-        "5 pockets for convenient storage of essentials.",
-        "Stylish design for various occasions.",
-        "Key words: warm, stylish, comfortable, practical, versatile"
+        "Asymmetrical zipper with snap-down lapels and epaulettes.",
+        "Faux leather for versatile seasonal wear.",
+        "Multiple pockets for convenience.",
+        "Key words: stylish, versatile, comfortable, durable"
     ],
     "Product Detail": {
-        "Fabric type": "Shell:full Cotton; Lining:full Polyester",
+        "Fabric type": "100% Polyurethane",
         "Care instructions": "Machine Wash",
         "Origin": "Imported"
     },
     "Color": {
-        "Coffee": {
+        "Black Multi Zip": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/81upKM0MgHL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71n5Rrxig2L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71H2sWo4XcL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81EoXdfrL-L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81GP9UWSiFL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81exxuKHDxL._AC_SL1500_.jpg"
             ]
         },
-        "Dark Grey": {
+        "New Black": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/81weNrJdopL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71rv98Bw2mL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71jfePJN9RL._AC_SL1500_.jpg"
-            ]
-        },
-        "Black": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81wF7VRHX1L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71FqmYLI38L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61KiYZQ-XrL._AC_SL1500_.jpg"
-            ]
-        },
-        "Navy Blue": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81bEChWDagL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71+BfOg2dCL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61lYjSjBFiL._AC_SL1500_.jpg"
-            ]
-        },
-        "Khaki": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81SWSfKg4nL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71c6JmOXGtL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71Q9gq1gDGL._AC_SL1500_.jpg"
-            ]
-        },
-        "Army Green": {
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/81VO2bkrd2L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/711tOUYISGL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71fNNuOGMlL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/8107IstG2RL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81o-EyE8MnL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81q2uoYEAsL._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
-        "https://m.media-amazon.com/images/I/81VO2bkrd2L._AC_SL1500_.jpg"
+        "https://m.media-amazon.com/images/I/81EoXdfrL-L._AC_SL1500_.jpg"
     ],
-    "Reviews": "Customers praise the coat's quality, fit, and warmth, noting it is stylish and practical. Many recommend sizing up for a better fit, and overall, it is considered a great value for the price."
+    "Reviews": "Customers appreciate the fit and comfort, noting good quality and value. Some experienced sizing issues."
 }
