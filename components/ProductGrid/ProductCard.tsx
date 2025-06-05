@@ -46,7 +46,7 @@ export function ProductCard({
       const response = await fetch(jsonPath);
       const data: ProductData & Record<string, any> = await response.json();
 
-      const imageUrls: string[] = [];
+      let imageUrls: string[] = [];
 
       if (data.Color && Object.keys(data.Color).length !== 0 && typeof data.Color === 'object') {
         const seenColors = new Set<string>();
@@ -58,19 +58,25 @@ export function ProductCard({
             }
           }
         }
-      } else if (data.product_photo && Object.keys(data.product_photo).length !== 0) {
-        imageUrls.push(data.product_photo);
-      } else if (
-        data['Product Picture(s)'] &&
-        Object.keys(data['Product Picture(s)']).length !== 0
-      ) {
-        imageUrls.push(data['Product Picture(s)']);
-      } else if (
-        data['Product Photo'] &&
-        Object.keys(data['Product Photo']).length !== 0
-      ) {
-        imageUrls.push(data['Product Photo']);
       }
+      if (imageUrls.length === 0) {
+        if (data.product_photo && Object.keys(data.product_photo).length !== 0) {
+          imageUrls.push(data.product_photo);
+        } else if (
+          data['Product Picture(s)'] &&
+          Object.keys(data['Product Picture(s)']).length !== 0
+        ) {
+          imageUrls.push(data['Product Picture(s)']);
+        } else if (
+          data['Product Photo'] &&
+          Object.keys(data['Product Photo']).length !== 0
+        ) {
+          imageUrls.push(data['Product Photo']);
+        }
+      }
+      imageUrls = imageUrls.filter(item => !Array.isArray(item) || item.length > 0);
+
+      console.log(imageUrls)
 
       if (imageUrls.length > 0) {
         setPhotoUrls(imageUrls);
@@ -165,9 +171,8 @@ export function ProductCard({
         {thumbs.slice(0, thumbCount).map((thumb, index) => (
           <Box
             key={index}
-            className={`${classes.thumbnailWrapper} ${
-              index === selectedIndex ? classes.selected : ''
-            }`}
+            className={`${classes.thumbnailWrapper} ${index === selectedIndex ? classes.selected : ''
+              }`}
             onClick={() => handleThumbnailClick(index)}
             onKeyDown={() => handleThumbnailClick(index)}
             role="presentation"
