@@ -59,6 +59,7 @@ export function ProductCard({
           }
         }
       }
+      imageUrls = imageUrls.filter(item => !Array.isArray(item) || item.length > 0);
       if (imageUrls.length === 0) {
         if (data.product_photo && Object.keys(data.product_photo).length !== 0) {
           imageUrls.push(data.product_photo);
@@ -74,8 +75,7 @@ export function ProductCard({
           imageUrls.push(data['Product Photo']);
         }
       }
-      imageUrls = imageUrls.filter(item => !Array.isArray(item) || item.length > 0);
-
+      
       console.log(imageUrls)
 
       if (imageUrls.length > 0) {
