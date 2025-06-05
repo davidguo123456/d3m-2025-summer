@@ -1,69 +1,125 @@
 {
     "ID": "O0017",
-    "ASIN": "B0CWDLL3MJ",
+    "ASIN": "B0CCRD8X4R",
     "Categories": [
         "Clothing, Shoes & Accessories",
-        "Women",
+        "Men",
         "Clothing",
         "Outerwear",
         "Coats & Jackets",
-        "Leather & Faux Leather",
-        "Faux Leather"
+        "Lightweight Jackets",
+        "Varsity Jackets"
     ],
-    "Product URL": "https://www.amazon.ca/dp/B0CWDLL3MJ",
-    "Product Name": "Womens Letterman Baseball Bomber Jacket Casual Wool & Faux Leather Collage/High School Oversize Varsity Jacket",
-    "Product Brand": "Brand: UGFashions",
-    "Product Rating": null,
-    "Product Description": [
-        "Classic charm meets contemporary style.",
-        "Versatile oversized design for confident wear.",
-        "Timeless piece that enhances your wardrobe.",
-        "Key words: varsity jacket, bomber jacket, women's outerwear"
-    ],
+    "Product URL": "https://www.amazon.ca/dp/B0CCRD8X4R",
+    "Product Name": "COOFANDY Men's Varsity Baseball Jacket Casual Letterman Jacket Lightweight Bomber Jacket",
+    "Product Brand": "Visit the COOFANDY Store",
+    "Product Rating": "4",
+    "Product Description": null,
     "About Product": [
-        "High-quality wool and faux leather blend.",
-        "Soft viscose lining for comfort.",
-        "Ribbed cuffs and waist for a snug fit.",
-        "Chic round collar for a stylish look.",
-        "Key words: varsity jacket, women's fashion, stylish outerwear"
+        "Stylish unisex baseball jacket with contrast colors.",
+        "High-quality fabric for durability and comfort.",
+        "Slim fit design with quality buttons and gentle neck cut.",
+        "Key words: baseball jacket, unisex, stylish, durable"
     ],
     "Product Detail": {
-        "Fabric type": "Wool + Faux Leather",
-        "Care instructions": "Dry Clean Only",
-        "Origin": "Imported"
+        "Fabric type": "100% Cotton",
+        "Care instructions": "Machine Wash, Hand Wash Only"
     },
     "Color": {
-        "Black & Red Varsity": {
+        "Pure Red": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/41ybZqRffeL._AC_.jpg",
-                "https://m.media-amazon.com/images/I/51xpEbh9iVL._AC_.jpg",
-                "https://m.media-amazon.com/images/I/41dkbjtxD+L._AC_.jpg"
+                "https://m.media-amazon.com/images/I/61+BNEpBUgL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61Q081NzNeL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81PnRevUI2L._AC_SL1500_.jpg"
             ]
         },
-        "Red & White Varsity": {
+        "Black": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/41PVcbrbuOL._AC_.jpg",
-                "https://m.media-amazon.com/images/I/51NOGmpeUIL._AC_.jpg",
-                "https://m.media-amazon.com/images/I/41tSNSAtvLL._AC_.jpg"
+                "https://m.media-amazon.com/images/I/71724wx9uIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71agLYaEm6L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71POtnlisBL._AC_SL1500_.jpg"
             ]
         },
-        "Navy Blue Varsity": {
+        "Dark Gray": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/41JIpFE7JkL._AC_.jpg",
-                "https://m.media-amazon.com/images/I/41aTyH5-IdL._AC_.jpg",
-                "https://m.media-amazon.com/images/I/41ZM8Sgp6ZL._AC_.jpg"
+                "https://m.media-amazon.com/images/I/718vRiuNQOS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71ta7u5ksyS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/713FcaeFqVL._AC_SL1500_.jpg"
             ]
         },
-        "Black Varsity": {
+        "Navy/Yellow": {
             "Photo_url": [
-                "https://m.media-amazon.com/images/I/41m1CD2fy7L._AC_.jpg",
-                "https://m.media-amazon.com/images/I/41VtLKv6-kL._AC_.jpg",
-                "https://m.media-amazon.com/images/I/51Pdu-Bi8-L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61OiZ+02RoL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61e9Ojaqz3L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71FHsF2lEYL._AC_SL1500_.jpg"
+            ]
+        },
+        "Red": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/710+wL4nQ1L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71RWqJ5g5IL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71evDY8G6dL._AC_SL1500_.jpg"
+            ]
+        },
+        "Bright Red": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61VKH3YfAKL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61PNuB-7tYL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/612VKIARiKL._AC_SL1500_.jpg"
+            ]
+        },
+        "Navy/Burgundy": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71y+drqyPTL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61b5PDEJYJL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/512CNmSb3PL._AC_SL1500_.jpg"
+            ]
+        },
+        "Green": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61cr0T4WrJL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/6150Z9PMytL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61ipRzuXgVL._AC_SL1500_.jpg"
+            ]
+        },
+        "Purple": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61gU1E49nZL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/611VWqMAuuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61lsdpHiFIL._AC_SL1500_.jpg"
+            ]
+        },
+        "Navy/Gray": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71cD-hKgQCS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71BdkkSHldS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71rNi4vNw+L._AC_SL1500_.jpg"
+            ]
+        },
+        "Pitch-black": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/71Ge2xabSuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/715NQQKkvzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71RwPVZr2xL._AC_SL1500_.jpg"
+            ]
+        },
+        "Black/Red": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61tjb5QhVlL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61BBDWWYpzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/818DqxaFY9L._AC_SL1500_.jpg"
+            ]
+        },
+        "Navy": {
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/61yaGuzLBTL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61XOMl1IeTL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61-LeRoWZzL._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
-        "https://m.media-amazon.com/images/I/41ybZqRffeL._AC_.jpg"
+        "https://m.media-amazon.com/images/I/71724wx9uIL._AC_SL1500_.jpg"
     ],
-    "Reviews": null
+    "Reviews": "Overall, customers appreciate the jacket's stylish design and vibrant colors, noting its lightweight feel and decent fit. However, some express disappointment regarding the thin material and quality inconsistencies compared to previous purchases."
 }
