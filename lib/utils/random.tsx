@@ -27,6 +27,5 @@ export function shuffleArray<T>(array: T[], seed: string): T[] {
     const j = Math.floor(random() * (i + 1));
     [result[i], result[j]] = [result[j], result[i]];
   }
-  if (array === result) console.log('didnt work')
   return result;
 }
