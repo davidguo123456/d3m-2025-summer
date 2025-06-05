@@ -1,5 +1,5 @@
 export const GRAYSCALE = true;
-export const THUMB_COUNT = 8;
+export const THUMB_COUNT = 0;
 
 //Outerwear
 export const A_PATHS = [
