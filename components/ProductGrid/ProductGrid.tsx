@@ -18,10 +18,10 @@ export default function ProductGrid({
   InfoComponent,
 }: ProductGridProps) {
   return (
-    <Box>
-      <SimpleGrid cols={cols} m="xl">
+    <div style={{ display: 'flex', alignItems: 'center' }}>
+      <SimpleGrid cols={cols} m="md" w="100%">
         {productJsonPaths.map((path, index) => (
-          <Box key={index} style={{ display: 'flex', gap: '1rem' }}>
+          <Box key={index} style={{ display: 'flex' }}>
             <ProductCard
               jsonPath={path}
               thumbCount={thumbCount}
@@ -32,6 +32,6 @@ export default function ProductGrid({
           </Box>
         ))}
       </SimpleGrid>
-    </Box>
+    </div>
   );
 }
