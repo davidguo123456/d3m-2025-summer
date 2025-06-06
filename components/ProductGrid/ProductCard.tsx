@@ -59,7 +59,7 @@ export function ProductCard({
           }
         }
       }
-      imageUrls = imageUrls.filter(item => !Array.isArray(item) || item.length > 0);
+      imageUrls = imageUrls.filter((item) => !Array.isArray(item) || item.length > 0);
       if (imageUrls.length === 0) {
         if (data.product_photo && Object.keys(data.product_photo).length !== 0) {
           imageUrls.push(data.product_photo);
@@ -68,15 +68,12 @@ export function ProductCard({
           Object.keys(data['Product Picture(s)']).length !== 0
         ) {
           imageUrls.push(data['Product Picture(s)']);
-        } else if (
-          data['Product Photo'] &&
-          Object.keys(data['Product Photo']).length !== 0
-        ) {
+        } else if (data['Product Photo'] && Object.keys(data['Product Photo']).length !== 0) {
           imageUrls.push(data['Product Photo']);
         }
       }
-      
-      console.log(imageUrls)
+
+      console.log(imageUrls);
 
       if (imageUrls.length > 0) {
         setPhotoUrls(imageUrls);
@@ -157,30 +154,33 @@ export function ProductCard({
   return (
     <Stack gap="md" className={classes.wrapper}>
       <Group align="flex-start" wrap="nowrap">
-        <Stack gap="xs" className={classes.mainImageWrapper}>
+        <div className={classes.mainImageWrapper}>
           <Title size="md" className={classes.cardTitle}>
             {cardTitle}
           </Title>
           <Box className={classes.mainImageBox}>
             <canvas ref={mainCanvasRef} className={classes.mainImage} />
           </Box>
-        </Stack>
+        </div>
       </Group>
 
-      <Group gap="xs" className={classes.thumbnailGrid} wrap="wrap">
-        {thumbs.slice(0, thumbCount).map((thumb, index) => (
-          <Box
-            key={index}
-            className={`${classes.thumbnailWrapper} ${index === selectedIndex ? classes.selected : ''
+      {thumbCount > 0 && (
+        <Group gap="xs" className={classes.thumbnailGrid} wrap="wrap">
+          {thumbs.slice(0, thumbCount).map((thumb, index) => (
+            <Box
+              key={index}
+              className={`${classes.thumbnailWrapper} ${
+                index === selectedIndex ? classes.selected : ''
               }`}
-            onClick={() => handleThumbnailClick(index)}
-            onKeyDown={() => handleThumbnailClick(index)}
-            role="presentation"
-          >
-            <img src={thumb} alt={`Thumbnail ${index + 1}`} className={classes.thumbnail} />
-          </Box>
-        ))}
-      </Group>
+              onClick={() => handleThumbnailClick(index)}
+              onKeyDown={() => handleThumbnailClick(index)}
+              role="presentation"
+            >
+              <img src={thumb} alt={`Thumbnail ${index + 1}`} className={classes.thumbnail} />
+            </Box>
+          ))}
+        </Group>
+      )}
     </Stack>
   );
 }
