@@ -35,7 +35,7 @@ export default function SeekerSessionPage({
         thumbCount={THUMB_COUNT}
       />
 
-      <Title order={5} c="dimmed" mt="md" className={classes.sessionCode}>
+      <Title order={5} c="dimmed" className={classes.sessionCode}>
         Session code: {sessionCode}
       </Title>
     </Box>

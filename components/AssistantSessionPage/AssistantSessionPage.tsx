@@ -38,7 +38,7 @@ export default function AssistantSessionPage({
         InfoComponent={(path) => <ProductInfoComponent path={path} />}
       />
 
-      <Title order={5} c="dimmed" mt="md" className={classes.sessionCode}>
+      <Title order={5} c="dimmed" className={classes.sessionCode}>
         Session code: {sessionCode}
       </Title>
     </Box>
