@@ -48,32 +48,16 @@ export function ProductCard({
 
       let imageUrls: string[] = [];
 
-      if (data.Color && Object.keys(data.Color).length !== 0 && typeof data.Color === 'object') {
-        const seenColors = new Set<string>();
-        for (const [color, value] of Object.entries(data.Color)) {
-          if (!seenColors.has(color)) {
-            seenColors.add(color);
-            if (value?.Photo_url) {
-              imageUrls.push(value.Photo_url);
-            }
-          }
-        }
+      if (data.product_photo && Object.keys(data.product_photo).length !== 0) {
+        imageUrls.push(data.product_photo);
+      } else if (
+        data['Product Picture(s)'] &&
+        Object.keys(data['Product Picture(s)']).length !== 0
+      ) {
+        imageUrls.push(data['Product Picture(s)']);
+      } else if (data['Product Photo'] && Object.keys(data['Product Photo']).length !== 0) {
+        imageUrls.push(data['Product Photo']);
       }
-      imageUrls = imageUrls.filter((item) => !Array.isArray(item) || item.length > 0);
-      if (imageUrls.length === 0) {
-        if (data.product_photo && Object.keys(data.product_photo).length !== 0) {
-          imageUrls.push(data.product_photo);
-        } else if (
-          data['Product Picture(s)'] &&
-          Object.keys(data['Product Picture(s)']).length !== 0
-        ) {
-          imageUrls.push(data['Product Picture(s)']);
-        } else if (data['Product Photo'] && Object.keys(data['Product Photo']).length !== 0) {
-          imageUrls.push(data['Product Photo']);
-        }
-      }
-
-      console.log(imageUrls);
 
       if (imageUrls.length > 0) {
         setPhotoUrls(imageUrls);
