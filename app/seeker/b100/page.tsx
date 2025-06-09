@@ -9,7 +9,7 @@ export default function Page() {
   const sessionCode = usePathname().split('/').at(-1) ?? '';
   return (
     <SeekerSessionPage
-      category={'b'}
+      category="b"
       sessionCode={sessionCode}
       productJsonPaths={shuffleArray(B_PATHS, sessionCode)}
     />

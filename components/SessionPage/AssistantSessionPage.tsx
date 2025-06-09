@@ -31,7 +31,9 @@ export default function AssistantSessionPage({
 
   const goTo = (index: number) => {
     const letter = sequence[index];
-    if (letter) router.push(getRoute(letter));
+    if (letter) {
+      router.push(getRoute(letter));
+    }
   };
 
   return (
