@@ -1,0 +1,51 @@
+{
+    "ID": "S004",
+    "ASIN": "B0C5NSFCNW",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B0C5NSFCNW",
+    "Product Name": "Columbia Camper",
+    "Product Brand": "Visit the Columbia Store",
+    "Product Rating": "4.4",
+    "Product Description": [
+        "Comfortable clothing and gear for all weather",
+        "Designed for protection and comfort",
+        "High-quality materials for durability",
+        "Key words: clothing, gear, comfort, protection"
+    ],
+    "About Product": [
+        "Non-marking Omni-Grip traction rubber",
+        "Molded rubber outsole for durability",
+        "Lightweight cushioning from sustainable materials",
+        "Suede upper with stretch gore",
+        "Key words: traction, comfort, sustainability, durability"
+    ],
+    "Product Detail": {
+        "Care instructions": "Hand Wash Only",
+        "Sole material": "Synthetic Rubber",
+        "Outer material": "Rubber",
+        "Closure type": "Pull-On"
+    },
+    "Color": {
+        "Black/Dark Grey": {
+            "Photo_url": []
+        },
+        "Mud/Warp Red": {
+            "Photo_url": []
+        },
+        "Peatmoss/Bright Orange": {
+            "Photo_url": []
+        },
+        "Grill/Storm": {
+            "Photo_url": []
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/61QiIvBNX3L._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Overall, customers praise the comfort and quality of the shoes, with many noting a perfect fit. However, some found the width too narrow, leading to returns. A few expressed disappointment with visible defects, contrasting with the generally positive feedback."
+}

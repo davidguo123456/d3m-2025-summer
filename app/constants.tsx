@@ -48,3 +48,5 @@ export const C_PATHS = [
   'https://davidguo123456.github.io/d3m-2025-summer/shoes_11.json',
   'https://davidguo123456.github.io/d3m-2025-summer/shoes_12.json',
 ];
+
+export const ROLES = { assistant: 'assistant', seeker: 'seeker' };

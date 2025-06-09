@@ -1,11 +1,17 @@
 'use client';
 
-import AssistantSessionPage from '@/components/AssistantSessionPage/AssistantSessionPage';
-import { B_PATHS } from '@/app/constants';
-import { shuffleArray } from '@/lib/utils/random';
 import { usePathname } from 'next/navigation';
+import { B_PATHS } from '@/app/constants';
+import AssistantSessionPage from '@/components/SessionPage/AssistantSessionPage';
+import { shuffleArray } from '@/lib/utils/random';
 
 export default function Page() {
   const sessionCode = usePathname().split('/').at(-1) ?? '';
-  return <AssistantSessionPage sessionCode={sessionCode} productJsonPaths={shuffleArray(B_PATHS, sessionCode)} />;
+  return (
+    <AssistantSessionPage
+      category="b"
+      sessionCode={sessionCode}
+      productJsonPaths={shuffleArray(B_PATHS, sessionCode)}
+    />
+  );
 }

@@ -1,0 +1,20 @@
+.sessionCode {
+    text-align: center;
+}
+
+.navigationRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.backButton {
+    margin: 15px;
+    margin-bottom: 0px;
+}
+
+.nextButton {
+    margin: 15px;
+    margin-bottom: 0px;
+}

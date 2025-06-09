@@ -1,0 +1,124 @@
+{
+    "ID": "S001",
+    "ASIN": "B07B3W9QFP",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Shoes",
+        "Athletic",
+        "Fitness & Cross Training"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B07B3W9QFP",
+    "Product Name": "New Balance Mens 608 V5 Casual Comfort",
+    "Product Brand": "Visit the New Balance Store",
+    "Product Rating": "4.5",
+    "Product Description": [
+        "Classic trainer for all-day comfort",
+        "Premium PU insert for support",
+        "Low-top design for easy wear",
+        "Key words: trainer, comfort, classic, supportive"
+    ],
+    "About Product": [
+        "Available in 3 widths",
+        "ABZORB midsole for impact absorption",
+        "Flexible IMEVA midsole cushioning",
+        "Leather upper for durability",
+        "Key words: comfort, support, trainer, durable"
+    ],
+    "Product Detail": {
+        "Fabric type": "100% Leather",
+        "Care instructions": "Machine Wash",
+        "Sole material": "Rubber",
+        "Shaft height": "Low-top"
+    },
+    "Color": {
+        "White/Navy": {
+            "asin": "B07B422CBG",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41X6IsgSFIL.jpg"
+            ]
+        },
+        "Black/Black": {
+            "asin": "B07B429J9L",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31HKZb8PQgL.jpg"
+            ]
+        },
+        "Black/White": {
+            "asin": "B07F21V85C",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41pQ-LnSZvL.jpg"
+            ]
+        },
+        "Chocolate Brown/White": {
+            "asin": "B07F222DBJ",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41If9Sbi5HS.jpg"
+            ]
+        },
+        "Team Away Grey/Castlerock": {
+            "asin": "B07F21HV7C",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/310s-nNCRjL.jpg"
+            ]
+        },
+        "White/Team Royal": {
+            "asin": "B07B41TQTC",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41MRakfdkOL.jpg"
+            ]
+        },
+        "White/White": {
+            "asin": "B07B41T9KZ",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31SoKXpbDQL.jpg"
+            ]
+        },
+        "Pigment/Gunmetal": {
+            "asin": "B07VSXF9WY",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/418wOvAI4yL.jpg"
+            ]
+        },
+        "White/Black": {
+            "asin": "B07YZQZLMN",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41hxO02YjSL.jpg"
+            ]
+        },
+        "Orca/Gunmetal/Orca": {
+            "asin": "B089DDQLQZ",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/4155Nw9ztvL.jpg"
+            ]
+        },
+        "White/Red": {
+            "asin": "B08CZY7RZ9",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41PnzCv+A7L.jpg"
+            ]
+        },
+        "White": {
+            "asin": "B07F7DC5SV",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41GANfpoLJL.jpg"
+            ]
+        },
+        "Grey Dark": {
+            "asin": "B089DCHZQS",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/4155Nw9ztvL.jpg"
+            ]
+        },
+        "White/Pink": {
+            "asin": "B07B414Q8H",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31LgiuxtSpL.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/61p6oqRqYQL._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Overall, customers find the shoes comfortable and supportive, especially for daily walking. Many recommend ordering wider sizes due to a narrow fit. Some users experienced discomfort after extended wear, but overall satisfaction is high, with several praising the quality and value."
+}

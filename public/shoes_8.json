@@ -1,0 +1,78 @@
+{
+    "ID": "S0017",
+    "ASIN": "B0D4625H5K",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Shoes",
+        "Athletic",
+        "Running",
+        "Track & Field & Cross Country",
+        "Cross-Country"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B0D4625H5K",
+    "Product Name": "ASICS Men's Gel-Venture 10 Trail Running Shoes",
+    "Product Brand": "Visit the ASICS Store",
+    "Product Rating": "4.4",
+    "Product Description": [
+        "Modified for better cushioning and comfort",
+        "Advanced traction for road and trail surfaces",
+        "Lace-up closure with pull tabs for easy entry",
+        "Key words: cushioning, traction, comfort, versatile"
+    ],
+    "About Product": [
+        "Breathable mesh upper for comfort",
+        "Eco-friendly sockliner reduces water and carbon usage",
+        "Rearfoot GEL technology for impact absorption",
+        "AMPLIFOAM cushioning enhances comfort",
+        "Key words: cushioning, breathable, eco-friendly, traction"
+    ],
+    "Product Detail": {
+        "Sole material": "Rubber",
+        "Outer material": "Polyester",
+        "Closure type": "Lace-Up",
+        "Water resistance level": "Not Water Resistant"
+    },
+    "Color": {
+        "Black/Rainy Lake": {
+            "asin": "B0D462GML8",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41-2cSZSlIL.jpg"
+            ]
+        },
+        "Saxon Green/Black": {
+            "asin": "B0D464WPS4",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41lk7X+94ML.jpg"
+            ]
+        },
+        "White Sage/Black": {
+            "asin": "B0D462JMFL",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/414yBgfKEZL.jpg"
+            ]
+        },
+        "Monument Blue/Black": {
+            "asin": "B0F19CJ56P",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/413lBQtNv8L.jpg"
+            ]
+        },
+        "Black/Graphite Grey": {
+            "asin": "B0D4628S4N",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31DugG33fYL.jpg"
+            ]
+        },
+        "Midnight/Black": {
+            "asin": "B0D463789N",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41RTae-LtVL.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/61ubr+J0GhL._AC_SL1200_.jpg"
+    ],
+    "Reviews": "Customers praise the comfort, fit, and versatility for various activities, with many recommending the shoe as an excellent alternative for hiking and exercise."
+}

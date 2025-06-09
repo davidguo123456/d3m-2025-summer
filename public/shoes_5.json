@@ -1,0 +1,51 @@
+{
+    "ID": "S006",
+    "ASIN": "B007DIXY28",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Women",
+        "Shoes",
+        "Boots"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B007DIXY28",
+    "Product Name": "Blundstone womens Round Toe Chelsea Boots Fashion Boot",
+    "Product Brand": "Visit the Blundstone Store",
+    "Product Rating": "4.6",
+    "Product Description": [
+        "Premium leather upper with soft lining",
+        "Elastic gore for easy on/off",
+        "Shock Protection System for reduced stress",
+        "Key words: leather, lightweight, weatherproof, traction"
+    ],
+    "About Product": [
+        "Legendary Blundstone comfort",
+        "Poron XRD insole reduces joint impact",
+        "Removable footbed for convenience",
+        "Quality leather exterior, soft interior",
+        "Key words: comfort, durable, stylish, easy wear"
+    ],
+    "Product Detail": {
+        "Fabric type": "Leather",
+        "Sole material": "Synthetic",
+        "Shaft height": "6 Inches",
+        "Shaft circumference": "10 Inches"
+    },
+    "Color": {
+        "Rustic Black": {
+            "Photo_url": []
+        },
+        "Rustic Brown": {
+            "Photo_url": []
+        },
+        "Black": {
+            "Photo_url": []
+        },
+        "Walnut": {
+            "Photo_url": []
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/71z8I5WD2BL._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Customers praise the comfort, durability, and style of these boots, noting they fit true to size and require no breaking in. Many have purchased multiple pairs, highlighting their long-lasting quality and satisfaction."
+}

@@ -1,0 +1,87 @@
+{
+    "ID": "S002",
+    "ASIN": "B08CFPVBTW",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Shoes",
+        "Fashion Sneakers"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B08CFPVBTW",
+    "Product Name": "Under Armour Mens Charged Assert 9 Running Shoes Running Shoe",
+    "Product Brand": "Visit the Under Armour Store",
+    "Product Rating": "4.5",
+    "Product Description": [
+        "Built for speed and comfort",
+        "Solid rubber outsole for durability",
+        "10mm offset for neutral runners",
+        "Key words: running, gym, lightweight, support"
+    ],
+    "About Product": [
+        "Lightweight mesh upper for breathability",
+        "Durable leather overlays for stability",
+        "EVA sockliner for comfort",
+        "Charged Cushioning for responsiveness",
+        "Key words: running shoes, breathable, comfortable, durable"
+    ],
+    "Product Detail": {
+        "Care instructions": "Machine Wash",
+        "Sole material": "Rubber",
+        "Shaft height": "Low-top",
+        "Outer material": "Mesh"
+    },
+    "Color": {
+        "Black (002)/Black": {
+            "Photo_url": []
+        },
+        "Red (600)/White": {
+            "Photo_url": []
+        },
+        "Victory Blue/Halo Grey": {
+            "Photo_url": []
+        },
+        "Blue Note (402)/White": {
+            "Photo_url": []
+        },
+        "Academy Blue (400)/White": {
+            "Photo_url": []
+        },
+        "Black (007)/Metallic Gold": {
+            "Photo_url": []
+        },
+        "Black/White": {
+            "Photo_url": []
+        },
+        "Mod Gray (101)/White": {
+            "Photo_url": []
+        },
+        "Black (004)/White": {
+            "Photo_url": []
+        },
+        "Mod Gray (101)/Black": {
+            "Photo_url": []
+        },
+        "Black/Blaze/Orange": {
+            "Photo_url": []
+        },
+        "White (108)/Black": {
+            "Photo_url": []
+        },
+        "White/Black": {
+            "Photo_url": []
+        },
+        "(119) Pitch Gray/Capri/Black": {
+            "Photo_url": []
+        },
+        "Black (005)/Blaze Orange": {
+            "Photo_url": []
+        },
+        "Pitch Gray (109)/Black": {
+            "Photo_url": []
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/41iQsLmIeDL._AC_SL1000_.jpg"
+    ],
+    "Reviews": "Customers praise the comfort, fit, and support of these shoes, noting their suitability for both running and everyday wear. Many highlight the responsive cushioning and breathable design, making them ideal for long periods of use. Some users recommend sizing up for a better fit."
+}
