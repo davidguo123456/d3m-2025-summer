@@ -46,7 +46,7 @@ export function ProductCard({
       const response = await fetch(jsonPath);
       const data: ProductData & Record<string, any> = await response.json();
 
-      let imageUrls: string[] = [];
+      const imageUrls: string[] = [];
 
       if (data.product_photo && Object.keys(data.product_photo).length !== 0) {
         imageUrls.push(data.product_photo);
