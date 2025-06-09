@@ -46,7 +46,7 @@ export default function AssistantSessionPage({
           leftSection={<ArrowLeft size={16} />}
         >
           {currentIndex > 0
-            ? `Back to ${sequence[currentIndex - 1].toUpperCase()}${urlSuffix}`
+            ? `Back to Category ${sequence[currentIndex - 1].toUpperCase()}`
             : 'Back to Homepage'}
         </Button>
 
@@ -57,7 +57,7 @@ export default function AssistantSessionPage({
             className={classes.nextButton}
             rightSection={<ArrowRight size={16} />}
           >
-            Next Category: {sequence[currentIndex + 1].toUpperCase()}
+            Go to Category {sequence[currentIndex + 1].toUpperCase()}
           </Button>
         )}
       </Box>

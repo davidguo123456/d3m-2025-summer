@@ -45,7 +45,7 @@ export default function SeekerSessionPage({
           leftSection={<ArrowLeft size={16} />}
         >
           {currentIndex > 0
-            ? `Back to ${sequence[currentIndex - 1].toUpperCase()}${urlSuffix}`
+            ? `Back to Category ${sequence[currentIndex - 1].toUpperCase()}`
             : 'Back to Homepage'}
         </Button>
 
@@ -56,7 +56,7 @@ export default function SeekerSessionPage({
             className={classes.nextButton}
             rightSection={<ArrowRight size={16} />}
           >
-            Next Category: {sequence[currentIndex + 1].toUpperCase()}
+            Go to Category {sequence[currentIndex + 1].toUpperCase()}
           </Button>
         )}
       </Box>
@@ -68,8 +68,7 @@ export default function SeekerSessionPage({
       />
 
       <Title order={5} c="dimmed" className={classes.sessionCode}>
-        Session: {category}
-        {sessionCode}
+        Session: {sessionCode}
       </Title>
     </Box>
   );

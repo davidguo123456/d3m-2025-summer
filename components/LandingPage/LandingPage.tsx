@@ -15,13 +15,18 @@ export function LandingPage() {
     e.preventDefault();
 
     const isRoleValid = role.trim().length > 0;
-    const isCodeValid = code.trim().length > 0;
+    const isCodeValid = /^[a-zA-Z]{3}[0-9]{3}$/.test(code.trim());
 
     setRoleError(!isRoleValid);
     setCodeError(!isCodeValid);
 
     if (isRoleValid && isCodeValid) {
-      router.push(`/${role.toLowerCase()}/${code.toLowerCase()}/`);
+      const trimmedCode = code.trim().toLowerCase();
+      const letters = trimmedCode.slice(0, 3);
+      const digits = trimmedCode.slice(3);
+      const firstLetter = letters[0];
+
+      router.push(`/${role.toLowerCase()}/${firstLetter}${digits}?seq=${letters}`);
     }
   };
 
@@ -58,11 +63,11 @@ export function LandingPage() {
           <TextInput
             label="Session code:"
             description="Please enter your session code."
-            placeholder="<*****>"
+            placeholder="eg: abc123"
             value={code}
             onChange={handleCodeChange}
             radius="md"
-            error={codeError ? 'Session code is required' : false}
+            error={codeError ? 'Code must be 3 letters followed by 3 digits' : false}
             className={classes.padded}
           />
 
