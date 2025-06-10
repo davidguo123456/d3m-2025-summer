@@ -2,9 +2,6 @@
 const nextConfig = {
   output: 'export',
   reactStrictMode: true,
-  experimental: {
-    missingSuspenseWithCSRBailout: false,
-  },
 };
 
 module.exports = nextConfig;
