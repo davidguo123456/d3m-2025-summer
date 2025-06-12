@@ -1,46 +1,71 @@
 {
     "ID": "M0016",
-    "ASIN": "B0B124JXMX",
+    "ASIN": "B0DHZXFYQD",
     "Categories": [
         "Clothing, Shoes & Accessories",
         "Men",
-        "Clothing"
+        "Clothing",
+        "Sweaters",
+        "Cardigans"
     ],
-    "Product URL": "https://www.amazon.ca/dp/B0B124JXMX",
-    "Product Name": "UNeedVog Men's Cardigan Sweaters Knitted Blazer Button Down Knitwear Casual Jacket Jumpers",
-    "Product Brand": "Brand: UNeedVog",
-    "Product Rating": null,
-    "Product Description": [
-        "Premium soft fabric with cable knit technology.",
-        "Ribbed cuffs and hem for a classic fit.",
-        "Suitable for various occasions and styles.",
-        "Key words: hooded sweater, casual, versatile, comfortable"
-    ],
+    "Product URL": "https://www.amazon.ca/dp/B0DHZXFYQD",
+    "Product Name": "KALLSPIN Men's Thick Wool Blend Cable Knit Shawl Collar Cardigan Sweater Regular Fit Button Down Knitwear",
+    "Product Brand": "Visit the KALLSPIN Store",
+    "Product Rating": "4.8",
+    "Product Description": null,
     "About Product": [
-        "Soft, warm, and durable fabric.",
-        "Classic button-down design with hood.",
-        "Versatile for casual and formal occasions.",
-        "Key words: cardigan, men's fashion, warm, stylish"
+        "Luxurious wool blend for warmth and softness.",
+        "Elegant shawl collar for added style and warmth.",
+        "Classic cable knit design adds texture to outfits.",
+        "Versatile button-down front for easy wear.",
+        "Key words: wool blend, shawl collar, cable knit, versatile"
     ],
     "Product Detail": {
-        "Fabric type": "100% Polyester",
+        "Fabric type": "20% Wool, 15% Acrylic, 15% Nylon, 50% Polyester",
         "Care instructions": "Machine Wash",
         "Closure type": "Button",
-        "Weave type": "Ribbed"
+        "Weave type": "Knit"
     },
     "Color": {
         "Black": {
-            "Photo_url": []
+            "asin": "B0DHZSRX4X",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41Ryp3USB6L.jpg"
+            ]
         },
-        "Coffee": {
-            "Photo_url": []
+        "Brown": {
+            "asin": "B0DHZR9PM4",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41ixZFw3vxL.jpg"
+            ]
         },
-        "Light Brown": {
-            "Photo_url": []
+        "Burgundy Red": {
+            "asin": "B0DHZVM2RR",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41ekfVhP+oL.jpg"
+            ]
+        },
+        "Charcoal": {
+            "asin": "B0DHZS9JWQ",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41WjgIpl1HL.jpg"
+            ]
+        },
+        "Light Grey": {
+            "asin": "B0DHZQ8XG8",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41flwjD2AJL.jpg"
+            ]
+        },
+        "Navy Blue": {
+            "asin": "B0DHZQBGY8",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41VmRepPe8L.jpg"
+            ]
         }
     },
     "Product Photo": [
-        "https://m.media-amazon.com/images/I/61han1hY2eL._AC_SL1500_.jpg"
+        "https://m.media-amazon.com/images/I/714iFz8peoL._AC_SL1500_.jpg"
     ],
-    "Reviews": null
+    "Reviews": "Customers appreciate the softness, warmth, and stylish design of the cardigan. Many highlight its versatility for various occasions and the quality of the fabric. Some mention sizing concerns, suggesting to size up for a looser fit. Overall, the sentiment is very positive, with users recommending it for its comfort and classic look."
 }
