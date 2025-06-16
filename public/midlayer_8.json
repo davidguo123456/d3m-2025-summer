@@ -15,15 +15,15 @@
     "Product Brand": "Brand: Helly Hansen",
     "Product Rating": "4.3",
     "Product Description": [
-        "Ideal for sailing, camping, and casual wear.",
-        "Quick-dry lining and hip length for comfort.",
-        "Embroider-friendly design with multiple pockets.",
-        "Key words: sailing, camping, casual, quick-dry, pockets"
+        "Ideal for various outdoor activities and weather conditions.",
+        "Features adjustable cuffs and hem for comfort.",
+        "Embroider-friendly design for customization.",
+        "Key words: outdoor, sailing, camping, hiking, casual"
     ],
     "About Product": [
         "Fleece-lined, waterproof, windproof, breathable jacket.",
         "Fully seam sealed with durable water repellency.",
-        "Insulated with Polartec fleece, adjustable cuffs and hem.",
+        "Insulated with Polartec fleece and quick-dry lining.",
         "Key words: fleece-lined, waterproof, windproof, breathable, insulated"
     ],
     "Product Detail": {
@@ -31,9 +31,55 @@
         "Care instructions": "Machine Wash",
         "Origin": "Imported"
     },
-    "Color": {},
+    "Color": {
+        "222 Alert Red": {
+            "Photo_url": []
+        },
+        "Green": {
+            "Photo_url": []
+        },
+        "162 Red": {
+            "Photo_url": []
+        },
+        "597 Navy": {
+            "Photo_url": []
+        },
+        "Blue": {
+            "Photo_url": []
+        },
+        "603 North Sea Blue": {
+            "Photo_url": []
+        },
+        "812 Stone Grey": {
+            "Photo_url": []
+        },
+        "853 Grey Fog": {
+            "Photo_url": []
+        },
+        "402 Azid Lime": {
+            "Photo_url": []
+        },
+        "556 Blue Mirage": {
+            "Photo_url": []
+        },
+        "563 Olympian Blue": {
+            "Photo_url": []
+        },
+        "606 Deep Fjord": {
+            "Photo_url": []
+        },
+        "995 Graphite Blue": {
+            "Photo_url": []
+        },
+        "990 Black": {
+            "Photo_url": []
+        },
+        "Navy": {
+            "Photo_url": []
+        }
+    },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/71qYB9d3m+L._AC_SL1500_.jpg"
     ],
-    "Reviews": "Customers praise the jacket's quality, fit, and warmth, noting it is perfect for various activities. Many appreciate the fleece lining and waterproof features, while some mention sizing adjustments. Overall, it is highly recommended for its comfort and functionality."
+    "Reviews": "Overall, the jacket receives high praise for its warmth, waterproof capabilities, and stylish design. Many users highlight its comfort and functionality in cold and wet conditions, although some note sizing issues, suggesting to consider trying it on before purchase."
 }

@@ -18,33 +18,46 @@
         "Medium-wash denim jacket with warm flannel lining.",
         "Timeless design pairs well with any outfit.",
         "Includes multiple pockets for convenience.",
-        "Machine washable for easy care. Key words: medium-wash, timeless, pockets, machine washable"
+        "Key words: denim, flannel, pockets, versatile"
     ],
     "About Product": [
-        "Durable 100% cotton with heavy-duty snap fasteners.",
-        "Multiple pockets for easy storage and access.",
-        "Warm flannel lining and corduroy collar.",
-        "Versatile for all seasons and occasions. Key words: denim jacket, flannel lined, durable, versatile"
+        "Durable 100% cotton with heavy-duty metal snaps.",
+        "Ample storage with multiple pockets for essentials.",
+        "Flannel lining and corduroy collar for warmth.",
+        "Versatile for various weather and activities.",
+        "Key words: denim jacket, flannel lined, durable, versatile"
     ],
-    "Product Detail": null,
+    "Product Detail": {
+        "Fabric type": "100% Cotton",
+        "Care instructions": "Machine Wash",
+        "Origin": "Imported"
+    },
     "Color": {
         "Indigo": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/81IcpCF7owL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71en7iy-YlL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71ol5FRDZHL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71ol5FRDZHL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81+D7xIzYUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91KxaQtw2TL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/911YlLHTurL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71pEs2mNvqL._AC_SL1500_.jpg"
             ]
         },
         "Blue": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/817y5R9njyL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/81JamyCrphL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81+q40A-FUL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81+q40A-FUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/816IF3n6+DL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81t83NW-WNL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81X5QCOJBvL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71pEs2mNvqL._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/817y5R9njyL._AC_SL1500_.jpg"
     ],
-    "Reviews": "Customers praise the jacket's quality, warmth, and comfort. Many appreciate the ample pocket space and versatility for different weather conditions. Positive experiences with customer service were noted, highlighting the seller's graciousness."
+    "Reviews": "Overall, customers are highly satisfied with the jacket's quality, warmth, and functionality. Many appreciate the ample pocket space and the comfortable fit, making it suitable for various weather conditions. Positive experiences with customer service were also noted, highlighting the seller's graciousness in resolving issues."
 }

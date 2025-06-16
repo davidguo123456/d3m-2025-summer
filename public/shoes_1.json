@@ -13,17 +13,16 @@
     "Product Brand": "Visit the New Balance Store",
     "Product Rating": "4.5",
     "Product Description": [
-        "Classic trainer for all-day comfort",
-        "Premium PU insert for support",
-        "Low-top design for easy wear",
-        "Key words: trainer, comfort, classic, supportive"
+        "Classic trainer with premium PU insert for comfort.",
+        "ABZORB midsole absorbs impact effectively.",
+        "IMEVA midsole offers firm yet flexible cushioning.",
+        "Key words: trainer, comfort, support, durable"
     ],
     "About Product": [
-        "Available in 3 widths",
-        "ABZORB midsole for impact absorption",
-        "Flexible IMEVA midsole cushioning",
-        "Leather upper for durability",
-        "Key words: comfort, support, trainer, durable"
+        "Available in 3 widths.",
+        "Internal midsole shank for added support.",
+        "Leather upper for durability.",
+        "Key words: cushioning, support, stability, quality"
     ],
     "Product Detail": {
         "Fabric type": "100% Leather",
@@ -120,5 +119,5 @@
     "Product Photo": [
         "https://m.media-amazon.com/images/I/61p6oqRqYQL._AC_SL1500_.jpg"
     ],
-    "Reviews": "Overall, customers find the shoes comfortable and supportive, especially for daily walking. Many recommend ordering wider sizes due to a narrow fit. Some users experienced discomfort after extended wear, but overall satisfaction is high, with several praising the quality and value."
+    "Reviews": "Overall, the reviews highlight the comfort and support of the shoes, with many users praising their fit and durability. Some mention the narrow fit, recommending wider sizes for better comfort. The shoes are generally seen as a good value for daily wear, especially for those who walk frequently."
 }

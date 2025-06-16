@@ -14,54 +14,66 @@
     "Product Brand": "Brand: Runcati",
     "Product Rating": "4.4",
     "Product Description": [
-        "Wool blend overcoat for timeless elegance.",
+        "Timeless wool blend trench coat for elegance.",
         "Double-breasted design with notched lapel.",
         "Perfect for formal and casual occasions.",
-        "Key words: trench coat, stylish, winter, men's fashion"
+        "Key words: trench coat, wool blend, double-breasted, elegant"
     ],
     "About Product": [
         "Premium fabric with smooth lining for comfort.",
-        "Full length with two front pockets.",
-        "Ideal for business and special events.",
+        "Full length with two front pockets and inner pocket.",
+        "Ideal for business wear and special events.",
         "Matches well with t-shirts or suits.",
-        "Key words: durable, classy, versatile, warm"
+        "Key words: quality, stylish, versatile, warm"
     ],
     "Product Detail": {
         "Fabric type": "100% Polyester",
-        "Care instructions": "Dry clean"
+        "Care instructions": "Machine Wash"
     },
     "Color": {
         "Navy Blue": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61+0cfBPfHL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71q1SZBlpPL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71Afsy6yHfL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71Afsy6yHfL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71gOHpwV7uL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71e1jynVR1L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61t87sJVX6L._AC_SL1500_.jpg"
             ]
         },
         "Army Green": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61nFsjvGXjL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71arsxYbYCL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71YdPf5UBfL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71YdPf5UBfL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71T-AOPU1zL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Kqj345V4L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61t87sJVX6L._AC_SL1500_.jpg"
             ]
         },
         "Coffee": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/610bTxBgzIL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/81BwTpL0I5L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71W3gERY84L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71W3gERY84L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81diE515LjL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71st9oQOeUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61t87sJVX6L._AC_SL1500_.jpg"
             ]
         },
         "Khaki": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61SRY8sAZwL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/81O9mJWIRKL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71ZjDgdeo1L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71ZjDgdeo1L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71txHWKZwcL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71lRioL6reL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61t87sJVX6L._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/61SRY8sAZwL._AC_SL1500_.jpg"
     ],
-    "Reviews": "Overall, customers appreciate the fit and material quality, though some find the pocket design uncomfortable."
+    "Reviews": "Overall, the reviews reflect a positive sentiment towards the coat's fit and material quality, though some users expressed discomfort with the pocket design."
 }

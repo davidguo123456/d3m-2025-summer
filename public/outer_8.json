@@ -16,10 +16,10 @@
     "Product Rating": "4",
     "Product Description": null,
     "About Product": [
-        "Stylish unisex baseball jacket with contrast colors.",
-        "High-quality fabric for durability and comfort.",
-        "Slim fit design with quality buttons and gentle neck cut.",
-        "Key words: baseball jacket, unisex, stylish, durable"
+        "Stylish unisex baseball jacket with trendy design.",
+        "High-quality fabric ensures durability and comfort.",
+        "Features a gentle neck cut and secure buttons.",
+        "Key words: baseball jacket, unisex, durable, stylish"
     ],
     "Product Detail": {
         "Fabric type": "100% Cotton",
@@ -30,96 +30,133 @@
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61+BNEpBUgL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/61Q081NzNeL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81PnRevUI2L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81PnRevUI2L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71JsJmVX3XL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71OVcMi6WuL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61OnJv1RS2L._AC_SL1000_.jpg"
             ]
         },
         "Black": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71724wx9uIL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71agLYaEm6L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71POtnlisBL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71POtnlisBL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/8111rCEQgbL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81wN1-diLDL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71pY8PAB-CL._AC_SL1500_.jpg"
             ]
         },
         "Dark Gray": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/718vRiuNQOS._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71ta7u5ksyS._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/713FcaeFqVL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/713FcaeFqVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71bc0fFi8yL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91vJ6xzHnbS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61OnJv1RS2L._AC_SL1000_.jpg"
             ]
         },
         "Navy/Yellow": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61OiZ+02RoL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/61e9Ojaqz3L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71FHsF2lEYL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71FHsF2lEYL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/714jE0Qq7oL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61OnJv1RS2L._AC_SL1000_.jpg"
             ]
         },
         "Red": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/710+wL4nQ1L._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71RWqJ5g5IL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71evDY8G6dL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71evDY8G6dL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81v1Vv9EjdL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71CgCIyPTAL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81-zp-cZb2L._AC_SL1500_.jpg"
             ]
         },
         "Bright Red": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61VKH3YfAKL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/61PNuB-7tYL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/612VKIARiKL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/612VKIARiKL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71AhSpyOWHS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Xve7Bs+jL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71RKvuLJuQL._AC_SL1500_.jpg"
             ]
         },
         "Navy/Burgundy": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71y+drqyPTL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/61b5PDEJYJL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/512CNmSb3PL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/512CNmSb3PL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71oK1biX+6L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71c8Ht2HJ9L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61OnJv1RS2L._AC_SL1000_.jpg"
             ]
         },
         "Green": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61cr0T4WrJL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/6150Z9PMytL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61ipRzuXgVL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61ipRzuXgVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61oA8lW6vsL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81oa-fAilqS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81Kf1nfK39S._AC_SL1500_.jpg"
             ]
         },
         "Purple": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61gU1E49nZL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/611VWqMAuuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61lsdpHiFIL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61lsdpHiFIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91-StIubeeL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61OnJv1RS2L._AC_SL1000_.jpg"
             ]
         },
         "Navy/Gray": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71cD-hKgQCS._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71BdkkSHldS._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71rNi4vNw+L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71rNi4vNw+L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71yTRI-8TGS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81vZE3vJ5LS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61OnJv1RS2L._AC_SL1000_.jpg"
             ]
         },
         "Pitch-black": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71Ge2xabSuL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/715NQQKkvzL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71RwPVZr2xL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71RwPVZr2xL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81J0+meZVlL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81l2a79+5PL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61OnJv1RS2L._AC_SL1000_.jpg"
             ]
         },
         "Black/Red": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61tjb5QhVlL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/61BBDWWYpzL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/818DqxaFY9L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/818DqxaFY9L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61KTD7zM9JL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71MvGV99ZdL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61OnJv1RS2L._AC_SL1000_.jpg"
             ]
         },
         "Navy": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61yaGuzLBTL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/61XOMl1IeTL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61-LeRoWZzL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61-LeRoWZzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71plNADeKBL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81PGoIxNp1L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61OnJv1RS2L._AC_SL1000_.jpg"
             ]
         }
     },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/71724wx9uIL._AC_SL1500_.jpg"
     ],
-    "Reviews": "Overall, customers appreciate the jacket's stylish design and vibrant colors, noting its lightweight feel and decent fit. However, some express disappointment regarding the thin material and quality inconsistencies compared to previous purchases."
+    "Reviews": "Overall, the jacket receives positive feedback for its stylish design and comfort. Many users appreciate its quality and fit, although some mention it is thinner than expected. A few reviews express disappointment regarding material differences in sleeves. Overall, it is seen as a good value for the price."
 }

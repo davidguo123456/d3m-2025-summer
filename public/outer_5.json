@@ -14,17 +14,17 @@
     "Product Brand": "Brand: Pretifeel",
     "Product Rating": "4.1",
     "Product Description": [
-        "Durable and elegant trench coat for all seasons.",
-        "Available in multiple colors and sizes.",
-        "Machine or hand washable for easy care.",
-        "Key words: trench coat, casual wear, outdoor, quality"
+        "Windproof thermal jacket with multiple pockets.",
+        "Suitable for all casual occasions.",
+        "Machine washable for easy care.",
+        "Key words: jacket, outdoor, casual, multi-pocket, thermal"
     ],
     "About Product": [
-        "High quality windproof twill fabric for comfort.",
-        "Classic double-breasted design with waist belt.",
-        "Suitable for casual, outdoor, and work occasions.",
+        "High quality windproof thermal fabric for comfort.",
+        "Classic double-breasted design with knee length.",
+        "Suitable for casual wear, outdoor activities, and travel.",
         "Easy to match with various outfits.",
-        "Key words: windproof, thermal, stylish, versatile, comfortable"
+        "Key words: windproof, thermal, stylish, versatile, durable"
     ],
     "Product Detail": {
         "Fabric type": "65% Polyester, 35% Cotton",
@@ -35,75 +35,111 @@
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/51ztNipYNBL._AC_SL1000_.jpg",
                 "https://m.media-amazon.com/images/I/71w0VO7dyOL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/818FieEbKVL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/818FieEbKVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71wqR0PqjsL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71cMGyaBYpL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg"
             ]
         },
         "Black": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61tpGinbsIL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/510JCRLkL0L._AC_SL1000_.jpg",
-                "https://m.media-amazon.com/images/I/51B+POqAvcL._AC_SL1000_.jpg"
+                "https://m.media-amazon.com/images/I/51B+POqAvcL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/41J-LhqNw6L._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/51Py91XxCbL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/81sVrzAZk7L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61X0QcXrPvL._AC_SL1049_.jpg"
             ]
         },
         "Dark Gray": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/51THPcj+NsL._AC_SL1000_.jpg",
                 "https://m.media-amazon.com/images/I/711vD0V2OlL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71IY0Ft9O1L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71IY0Ft9O1L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71fc74tUCyL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61v6sv0wOpL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg"
             ]
         },
         "Brown": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/51SMorIyv-L._AC_SL1000_.jpg",
                 "https://m.media-amazon.com/images/I/71S7Y3H99UL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/7102iLDy24L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/7102iLDy24L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71BtDYfthtL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71dv+JwRwsL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg"
             ]
         },
         "Wine Red": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/51+gQed765L._AC_SL1000_.jpg",
                 "https://m.media-amazon.com/images/I/51uHu--fn7L._AC_SL1000_.jpg",
-                "https://m.media-amazon.com/images/I/41YXghbcFWL._AC_SL1000_.jpg"
+                "https://m.media-amazon.com/images/I/41YXghbcFWL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/51-MHRkfsIL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/61X0QcXrPvL._AC_SL1049_.jpg"
             ]
         },
         "Clear,green": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61d1TfInorL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/51Us8pII12L._AC_SL1000_.jpg",
-                "https://m.media-amazon.com/images/I/71a85THyIIL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71a85THyIIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71bHg0zLbRL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71wo4cgu6UL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81wggPn1itL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61X0QcXrPvL._AC_SL1049_.jpg"
             ]
         },
         "Army Green": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/51ya6aDy-vL._AC_SL1000_.jpg",
                 "https://m.media-amazon.com/images/I/81qJB+LJ55L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81fANv28R5L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81fANv28R5L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uBSwWzOXL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hJgrZb9BL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg"
             ]
         },
         "Navy Blue": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/51rOJlTup-L._AC_SL1000_.jpg",
                 "https://m.media-amazon.com/images/I/71YqNiJ2lyL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71Jp0DaFiCL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71Jp0DaFiCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Q0nLEChmL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61JAGHkhTGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg"
             ]
         },
         "Khaki": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/51ya6aDy-vL._AC_SL1000_.jpg",
                 "https://m.media-amazon.com/images/I/81qJB+LJ55L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81fANv28R5L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81fANv28R5L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uBSwWzOXL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hJgrZb9BL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg"
             ]
         },
         "Dark Green": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/51CpNSWHzIL._AC_SL1000_.jpg",
                 "https://m.media-amazon.com/images/I/71T6XyWUyWL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71MoqH4YJDL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71MoqH4YJDL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/715Qr11J01L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61VSHs90TcL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hDpaCUjnL._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/51ya6aDy-vL._AC_SL1000_.jpg"
     ],
-    "Reviews": "Overall, customers appreciate the stylish design and fit of the jacket, noting its good quality for the price. Some mentioned the material could be thinner and not waterproof, while a few expressed concerns about durability. Positive feedback highlights its elegance and functionality."
+    "Reviews": "Overall, the reviews reflect a positive sentiment towards the jacket's style and functionality, with many praising its quality and fit. However, some users noted concerns about the material's durability and waterproof capabilities."
 }

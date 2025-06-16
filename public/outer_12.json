@@ -14,16 +14,16 @@
     "Product Brand": "Brand: FTCayanz",
     "Product Rating": "4.2",
     "Product Description": [
-        "Available colors: black, dark blue, gray, burgundy.",
-        "Made from high-quality wool blend fabric.",
-        "Suitable for various occasions: work, parties, daily wear.",
-        "Key words: stylish, trench coat, casual, elegant"
+        "Elegant wool blend fabric for all seasons.",
+        "Suitable for various occasions and layering.",
+        "Modern slim fit for a fashionable look.",
+        "Key words: trench coat, casual, formal, versatile"
     ],
     "About Product": [
-        "Classic stand collar and single-breasted design.",
-        "High-quality wool blend for warmth and comfort.",
-        "Available in four stylish colors.",
-        "Key words: wool coat, winter jacket, men's fashion, peacoat"
+        "Classic stand collar and long sleeve design.",
+        "High-quality wool blend for comfort.",
+        "Functional pockets for convenience.",
+        "Key words: winter coat, wool blend, business, stylish"
     ],
     "Product Detail": {
         "Fabric type": "100% Wool",
@@ -36,14 +36,22 @@
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/519HBpO-19L._AC_SL1002_.jpg",
                 "https://m.media-amazon.com/images/I/71P5YmyuvrL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/410bJp6VQzL._AC_SL1002_.jpg"
+                "https://m.media-amazon.com/images/I/410bJp6VQzL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/51rqP+bn7IL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/51EDFCDs-5L._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61m59ymqaKL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61ISah5IfbL._AC_SL1002_.jpg"
             ]
         },
         "Navy": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/51pVCm7iV2L._AC_SL1002_.jpg",
                 "https://m.media-amazon.com/images/I/71P5YmyuvrL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/515STQ4V2XL._AC_SL1002_.jpg"
+                "https://m.media-amazon.com/images/I/515STQ4V2XL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/51rqP+bn7IL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/51EDFCDs-5L._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61m59ymqaKL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61ISah5IfbL._AC_SL1002_.jpg"
             ]
         },
         "Wine-fleece": {
@@ -57,21 +65,30 @@
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/51T7lhFQtLL._AC_SL1002_.jpg",
                 "https://m.media-amazon.com/images/I/61LP7G-Su+L._AC_SL1002_.jpg",
-                "https://m.media-amazon.com/images/I/61BMLUg4T0L._AC_SL1002_.jpg"
+                "https://m.media-amazon.com/images/I/61BMLUg4T0L._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61MbqBgefrL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61Avo9Ub4SL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/616iFhBfkeL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61V3KORaGpL._AC_SL1002_.jpg"
             ]
         },
         "Black-fleece": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/41BZxkFoF+L._AC_SL1002_.jpg",
                 "https://m.media-amazon.com/images/I/71WnXzk6VGL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/410bJp6VQzL._AC_SL1002_.jpg"
+                "https://m.media-amazon.com/images/I/410bJp6VQzL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/51wNA+zd2PL._AC_SL1002_.jpg"
             ]
         },
         "Gray": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/6118LpJ1jGL._AC_SL1002_.jpg",
                 "https://m.media-amazon.com/images/I/71P5YmyuvrL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/515STQ4V2XL._AC_SL1002_.jpg"
+                "https://m.media-amazon.com/images/I/515STQ4V2XL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/51rqP+bn7IL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/51EDFCDs-5L._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61m59ymqaKL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61ISah5IfbL._AC_SL1002_.jpg"
             ]
         },
         "Gray-fleece": {
@@ -84,19 +101,28 @@
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/615ckX8vZzL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/41o1iXc3uCL._AC_.jpg",
-                "https://m.media-amazon.com/images/I/71WnXzk6VGL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71WnXzk6VGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/51IBNupW6WL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61rcVAwP2CL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/613zOIYocML._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61ZxSgruuQL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/41o1iXc3uCL._AC_.jpg"
             ]
         },
         "Wine": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/51yw9rB-TWL._AC_SL1002_.jpg",
                 "https://m.media-amazon.com/images/I/71P5YmyuvrL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/51QbcxXR1dL._AC_SL1002_.jpg"
+                "https://m.media-amazon.com/images/I/51QbcxXR1dL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/51rqP+bn7IL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/51EDFCDs-5L._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61m59ymqaKL._AC_SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61ISah5IfbL._AC_SL1002_.jpg"
             ]
         }
     },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/519HBpO-19L._AC_SL1002_.jpg"
     ],
-    "Reviews": "Customers praise the coat's excellent quality and stylish design, noting its great value for the price. Many express satisfaction with its appearance and comfort, indicating a strong likelihood of purchasing again."
+    "Reviews": "Customers praise the coat's excellent quality and stylish design, noting its appeal for various occasions. Many express satisfaction with the purchase, highlighting its value for the price."
 }

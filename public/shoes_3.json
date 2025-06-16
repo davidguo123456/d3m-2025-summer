@@ -12,17 +12,17 @@
     "Product Brand": "Visit the Columbia Store",
     "Product Rating": "4.4",
     "Product Description": [
-        "Comfortable clothing and gear for all weather",
-        "Designed for protection and comfort",
-        "High-quality materials for durability",
-        "Key words: clothing, gear, comfort, protection"
+        "Comfortable clothing and gear for all weather.",
+        "Built for comfort and protection.",
+        "Sustainable cushioning from bio-based materials.",
+        "Key words: clothing, gear, comfort, protection, sustainability"
     ],
     "About Product": [
-        "Non-marking Omni-Grip traction rubber",
-        "Molded rubber outsole for durability",
-        "Lightweight cushioning from sustainable materials",
-        "Suede upper with stretch gore",
-        "Key words: traction, comfort, sustainability, durability"
+        "Non-marking traction rubber for safety.",
+        "Molded rubber outsole for durability.",
+        "Techlite cushioning for lightweight support.",
+        "Suede upper with stretch for easy wear.",
+        "Key words: traction, durability, cushioning, suede"
     ],
     "Product Detail": {
         "Care instructions": "Hand Wash Only",
@@ -47,5 +47,5 @@
     "Product Photo": [
         "https://m.media-amazon.com/images/I/61QiIvBNX3L._AC_SL1500_.jpg"
     ],
-    "Reviews": "Overall, customers praise the comfort and quality of the shoes, with many noting a perfect fit. However, some found the width too narrow, leading to returns. A few expressed disappointment with visible defects, contrasting with the generally positive feedback."
+    "Reviews": "Overall, the reviews highlight the comfort and quality of the shoes, with many users praising their fit and construction. However, some customers noted issues with width and quality inconsistencies, leading to mixed experiences."
 }

@@ -15,11 +15,11 @@
     "Product Rating": "4.4",
     "Product Description": null,
     "About Product": [
-        "Material: Full Cotton shell, Polyester lining for comfort.",
-        "Features: Fleece lined, button closure, adjustable cuffs.",
-        "5 pockets for convenient storage of essentials.",
-        "Stylish design for various occasions.",
-        "Key words: warm, stylish, comfortable, practical, versatile"
+        "Soft cotton shell with polyester lining for comfort.",
+        "Fleece sherpa lining and button front closure.",
+        "5 pockets for convenient storage.",
+        "Suitable for autumn and winter outdoor activities.",
+        "Key words: warm, stylish, practical, comfortable, versatile"
     ],
     "Product Detail": {
         "Fabric type": "Shell:full Cotton; Lining:full Polyester",
@@ -31,47 +31,72 @@
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/81upKM0MgHL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71n5Rrxig2L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71H2sWo4XcL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71H2sWo4XcL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81nGd647PaL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71-Ajs4w3ZL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/8199GcvNTNL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81s9OTX+CkL._AC_SL1500_.jpg"
             ]
         },
         "Dark Grey": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/81weNrJdopL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71rv98Bw2mL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71jfePJN9RL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71jfePJN9RL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71K4MXXp5SL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/711nFi+8WVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81q16O3usgL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91rJ0UMoLxL._AC_SL1500_.jpg"
             ]
         },
         "Black": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/81wF7VRHX1L._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71FqmYLI38L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61KiYZQ-XrL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61KiYZQ-XrL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71P6zMWv8BL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71nReuU5qzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81VeuaXVgCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81YrezDaPzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71KpLdqATlL._AC_SL1500_.jpg"
             ]
         },
         "Navy Blue": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/81bEChWDagL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71+BfOg2dCL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61lYjSjBFiL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61lYjSjBFiL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71iFsHOLS7L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71upztCjuUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81wm9bWGP1L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91W+Oe8Bt8L._AC_SL1500_.jpg"
             ]
         },
         "Khaki": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/81SWSfKg4nL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71c6JmOXGtL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71Q9gq1gDGL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71Q9gq1gDGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81WItkCsdCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71azLbW1P2L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81TmGVFQ-ML._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91qQp3fzNLL._AC_SL1500_.jpg"
             ]
         },
         "Army Green": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/81VO2bkrd2L._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/711tOUYISGL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71fNNuOGMlL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71fNNuOGMlL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71KOO6q75aL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71cHCvIqMoL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81G0fEcHsIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91uiIrGtVuL._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/81VO2bkrd2L._AC_SL1500_.jpg"
     ],
-    "Reviews": "Customers praise the coat's quality, fit, and warmth, noting it is stylish and practical. Many recommend sizing up for a better fit, and overall, it is considered a great value for the price."
+    "Reviews": "Overall, the reviews highlight the coat's quality, warmth, and stylish design. Many customers appreciate its fit and practicality for winter use, while a few noted the button closure as a minor adjustment. The product is generally well-received, with several customers expressing satisfaction and recommending it."
 }

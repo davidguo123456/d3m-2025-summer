@@ -16,11 +16,11 @@
     "Product Rating": "4.4",
     "Product Description": null,
     "About Product": [
-        "100% breathable cotton for comfort.",
-        "Stylish design with stand-up collar.",
-        "5 multifunctional pockets for storage.",
-        "Windproof with adjustable cuffs.",
-        "Key words: casual, lightweight, stylish, functional, windproof"
+        "Lightweight cotton for breathability and comfort.",
+        "Stylish design with multifunctional pockets.",
+        "Windproof with adjustable cuffs and hem.",
+        "Ideal for casual and professional settings.",
+        "Key words: breathable, stylish, multifunctional, windproof"
     ],
     "Product Detail": {
         "Fabric type": "100% Cotton",
@@ -31,26 +31,35 @@
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/81rJitGvYOL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/81sYRNXL9HL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71Y0COihZIL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71Y0COihZIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81Ot8Q1vEhL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91sSZw2aVIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81so-Fxe-HL._AC_SL1500_.jpg"
             ]
         },
         "Army Green": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/817-LQFBkqL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/81oi4wFPaUL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81kof35NUCL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81kof35NUCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/915jz9TUt+L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91hJsklsKIL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/917CEoHIRLL._AC_SL1500_.jpg"
             ]
         },
         "Navy": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/81w8JnDR-RL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/812NaFu-sBL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/719aTfManUL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/719aTfManUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81JpBeaYDjL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/916JcQq6mVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91OztDpWCNL._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/81rJitGvYOL._AC_SL1500_.jpg"
     ],
-    "Reviews": "Overall, customers appreciate the jacket's fit, comfort, and quality, though some mention sizing issues and concerns about durability. Many highlight its stylish design and functionality, making it suitable for various occasions."
+    "Reviews": "Overall, the reviews reflect a positive sentiment towards the jacket's design, comfort, and quality. Many users appreciate its fit and functionality, although a few noted issues with sizing and durability of certain components. The jacket is recommended for various casual and outdoor activities."
 }

@@ -17,14 +17,13 @@
     "Product Description": [
         "Classic faux leather with buffalo plaid lining.",
         "Zipper front closure and detailed cuffs.",
-        "Multiple pockets including interior snap pocket.",
-        "Key words: motorcycle jacket, faux leather, plaid lining"
+        "Multiple pockets for convenience.",
+        "Key words: faux leather, motorcycle jacket, versatile, stylish"
     ],
     "About Product": [
-        "Asymmetrical zipper with snap-down lapels and epaulettes.",
-        "Faux leather for versatile seasonal wear.",
-        "Multiple pockets for convenience.",
-        "Key words: stylish, versatile, comfortable, durable"
+        "Asymmetrical zipper and snap-down lapels for style.",
+        "Faux leather is perfect for layering and seasonal transitions.",
+        "Key words: stylish, versatile, layering, men's fashion"
     ],
     "Product Detail": {
         "Fabric type": "100% Polyurethane",
@@ -36,19 +35,27 @@
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/81EoXdfrL-L._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/81GP9UWSiFL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81exxuKHDxL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81exxuKHDxL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71T1F7rTFWL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81EJ9VK-cQL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81SrtBh6XmL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/41az8fEt+5L._AC_SL1226_.jpg"
             ]
         },
         "New Black": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/8107IstG2RL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/81o-EyE8MnL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81q2uoYEAsL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81q2uoYEAsL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81iujPRulnL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81jDgh1DxzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/7181SM0PKtL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/41az8fEt+5L._AC_SL1226_.jpg"
             ]
         }
     },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/81EoXdfrL-L._AC_SL1500_.jpg"
     ],
-    "Reviews": "Customers appreciate the fit and comfort, noting good quality and value. Some experienced sizing issues."
+    "Reviews": "Overall, customers appreciate the comfort and quality of the jacket, noting its stylish design and versatility. Some have mentioned sizing issues, but many express satisfaction with the fit and value for money."
 }

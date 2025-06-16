@@ -13,15 +13,15 @@
     "Product Brand": "Brand: Amazon Essentials",
     "Product Rating": "4.5",
     "Product Description": [
-        "Customer feedback drives quality improvements.",
-        "Affordable, high-quality clothing for the family.",
-        "Designed for comfort and durability. Key words: quality, affordable, family, comfort"
+        "Fine-tuned for comfort and quality.",
+        "Durable and long-lasting for families.",
+        "Affordable without compromising on quality. Key words: quality, durable, affordable, family"
     ],
     "About Product": [
-        "Regular fit for comfort and ease.",
+        "Comfortable fit through shoulders and chest.",
         "100% cotton yarn for softness and stretch.",
-        "Classic crew neck, perfect for layering.",
-        "Ribbed details for added comfort. Key words: sweater, cotton, layering, comfort"
+        "Timeless crew neck design for layering.",
+        "Ribbed details for added comfort. Key words: comfortable, cotton, crew neck, layering"
     ],
     "Product Detail": {
         "Fabric type": "100% Cotton",
@@ -67,5 +67,5 @@
     "Product Photo": [
         "https://m.media-amazon.com/images/I/8111zIPB-gL._AC_SL1500_.jpg"
     ],
-    "Reviews": "Customers praise the sweater's comfort, quality, and fit, often noting its softness and stylish design. Many appreciate the value for money, with some mentioning the need to roll up sleeves for a better fit. Overall, the feedback is overwhelmingly positive, highlighting satisfaction with the product's performance and appearance."
+    "Reviews": "Overall, customers express high satisfaction with the sweater's quality, comfort, and value. Many appreciate its softness and durability, with several noting it as a great buy for layering. Some reviews mention minor fit issues, particularly with sleeve length, but overall, the sentiment is overwhelmingly positive."
 }

@@ -13,18 +13,13 @@
     "Product Name": "Mountain Warehouse Seasons Mens Puffer Jacket - Lightweight Coat",
     "Product Brand": "Visit the Mountain Warehouse Store",
     "Product Rating": "4.2",
-    "Product Description": [
-        "100% Polyamide fabric for durability.",
-        "Machine washable for easy care.",
-        "Lightweight design for comfort.",
-        "Key words: durable, easy care, lightweight"
-    ],
+    "Product Description": null,
     "About Product": [
-        "Thermal tested to -30 \u00b0C for warmth.",
-        "Water-resistant with DWR treatment.",
-        "Includes two side pockets.",
+        "Thermal tested for extreme cold conditions.",
+        "Water-resistant fabric repels light rain.",
+        "Includes two convenient side pockets.",
         "2-year warranty for quality assurance.",
-        "Key words: thermal, water-resistant, lightweight, insulated"
+        "Key words: thermal, water-resistant, pockets, warranty, insulation"
     ],
     "Product Detail": {
         "Fabric type": "100% Polyamide",
@@ -35,103 +30,191 @@
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/713avv+XOSL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71UdhkhAW3L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61bCnkHNWQL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61bCnkHNWQL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61TFE0VcH5L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61iI1KZkHML._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71ve5IIeC3L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81pkpSo7uZL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71SPiMz-lGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61YQOyb1XSL._AC_SL1500_.jpg"
             ]
         },
         "Charcoal": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/710LIJLP2JL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71EffRMKP5L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/6126SXwwC+L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/6126SXwwC+L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61aYcWyLssL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/619lPHZ7fTL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61SbSqoX-tL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81-3vARPLUL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/712TdgnxcKL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61RISmYP3ML._AC_SL1500_.jpg"
             ]
         },
         "Navy (03)": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/713avv+XOSL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71UdhkhAW3L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61bCnkHNWQL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61bCnkHNWQL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61TFE0VcH5L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61iI1KZkHML._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71ve5IIeC3L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81pkpSo7uZL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71SPiMz-lGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61YQOyb1XSL._AC_SL1500_.jpg"
             ]
         },
         "Grey": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/613TJ7eV6VL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/61brxTta91L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71jgPn6AzzL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71jgPn6AzzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71bp5St-Y8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81p+BNfI2vL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/613TJ7eV6VL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61brxTta91L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71jgPn6AzzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71bp5St-Y8L._AC_SL1500_.jpg"
             ]
         },
         "Black": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61qowUG9oeL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/611ZddgBW6L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61xF-saZDtL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61xF-saZDtL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61I9MhiB4OL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71svUMzdd9L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81wdLQehnlL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71lCb6Y9PqL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71oaOMFl3YL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61qowUG9oeL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/51sHh3T-gaL._AC_SL1080_.jpg"
             ]
         },
         "Dark Grey": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61DSiapVjaL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/61EVfzV30AL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61Fug2FxGSL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61Fug2FxGSL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61bVBbK8FZL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81kdsq-VrlL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61DSiapVjaL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61EVfzV30AL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61Fug2FxGSL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61bVBbK8FZL._AC_SL1500_.jpg"
             ]
         },
         "Dark Khaki": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71orW2TbP3L._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/61CKm+UgYsL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61E8JdjH5bL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61E8JdjH5bL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61dUf7u4hzL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71vTu9E3VDL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81DWvqB63dL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/816erfheRqL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81U+pujKzxL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71orW2TbP3L._AC_SL1500_.jpg"
             ]
         },
         "Black Camo": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/81VhGkeZfiL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/812R4MbncRL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81uU-Nn0DcL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81uU-Nn0DcL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71z6unxX+UL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71PehgtmouL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71-rSJmQiiL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81gf1p79mJL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81VhGkeZfiL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/812R4MbncRL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/51sHh3T-gaL._AC_SL1080_.jpg"
             ]
         },
         "Blue": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71HlovAGdxL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71rEsD4z3LL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/615EKSyDvKL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/615EKSyDvKL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61UbFKK8jGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61O-3HYzYQL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71lPDa+pI8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71IVObAn27L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/714wVM2oIlL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/710D+Wre-tL._AC_SL1500_.jpg"
             ]
         },
         "Medium Grey": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61FEXIXVu4L._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71+qTj9BJ1L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61Rlt842YhL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61Rlt842YhL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61b8qlx1ZxL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81cYTDxUvrL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61FEXIXVu4L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71+qTj9BJ1L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61Rlt842YhL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61b8qlx1ZxL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/51sHh3T-gaL._AC_SL1080_.jpg"
             ]
         },
         "Gold": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71ShxRUNWIL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71+uXO+bOjL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61DSF3LptGL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61DSF3LptGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61OpiapDhfL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71vX0jjxTDL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91EmFpjAG7L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71X4ZEo8FFL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81Yxt9g18+L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/7140mRV3nqL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/51sHh3T-gaL._AC_SL1080_.jpg"
             ]
         },
         "Green": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61mBOxFgYkL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71vMnJr6vLL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61a1wqMk-BL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61a1wqMk-BL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61+xtzmS-xL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/611RNO+w4XL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Mktw3T8pL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81fh4uMN9EL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71G3j27QCML._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71snxPt2nFL._AC_SL1500_.jpg"
             ]
         },
         "Berry": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71Ky4rZoLdL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/61DumlAAlBL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61YQR9-1RGL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61YQR9-1RGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/615Z2du6smL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61mLCCTl-+L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/817xwsyWYeL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71AgLp6eCpL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71wMnlE-L0L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61CabrsjcOL._AC_SL1500_.jpg"
             ]
         },
         "Rust": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71wYIdQ3XYL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/71XWP0yE4RL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/61FRHEXgo9L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/61FRHEXgo9L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/613yjCXtgiL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61MCgGma8yL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/818wmNiBCxL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71MujIHvJSL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71nYYdkJ8-L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61j+v9jhUwL._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/61qowUG9oeL._AC_SL1500_.jpg"
     ],
-    "Reviews": "Overall, customers appreciate the jacket's warmth, lightweight design, and value for money, though some have noted issues with stitching quality and a negative experience with a used item being sent. Many recommend it for outdoor activities and cold weather."
+    "Reviews": "Overall, the reviews highlight the jacket's warmth, lightweight design, and durability, with many users expressing satisfaction with its performance in cold conditions. However, there are concerns about stitching quality and a negative experience with a used item being sent. Most reviewers recommend the jacket for its value and functionality."
 }

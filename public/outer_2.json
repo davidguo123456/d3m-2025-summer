@@ -15,11 +15,11 @@
     "Product Rating": "4.6",
     "Product Description": null,
     "About Product": [
-        "Waterproof with 5000mm outer shell and taped seams.",
-        "Breathable lining with 5000g/m2/24h rating.",
-        "Concealable hood and adjustable sleeves for comfort.",
+        "Waterproof outer shell with fully taped seams.",
+        "Breathable lining for comfort and durability.",
+        "Concealable hood and adjustable features.",
         "Roomy waterproof pockets for storage.",
-        "Key words: waterproof, windproof, breathable, adjustable, pockets"
+        "Key words: waterproof, breathable, durable, adjustable, pockets"
     ],
     "Product Detail": {
         "Fabric type": "100% Polyester",
@@ -31,54 +31,74 @@
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71lJRTpvDML._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/91AL-6ecc1L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81UTHvKUeyL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81UTHvKUeyL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/711n+7KgL8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71jfjCzYroL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uOkRX0SQL._AC_SL1500_.jpg"
             ]
         },
         "Amry Green": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71lJRTpvDML._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/91AL-6ecc1L._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/815C4+Om7zL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/815C4+Om7zL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/711n+7KgL8L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71jfjCzYroL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71uOkRX0SQL._AC_SL1500_.jpg"
             ]
         },
         "Black": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/618KBPIn-WL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/91aBofWr2SL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81JXWOr9ZsL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81JXWOr9ZsL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/710JplLdlCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hxKExIE+L._AC_SL1500_.jpg"
             ]
         },
         "Dark Grey": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61g4uGuQg2L._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/915Dx5DE4CL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/81TbJ6Lz76L._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/81TbJ6Lz76L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Ovb7TOy9L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71xVICt4i0L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71URjZXhmvL._AC_SL1500_.jpg"
             ]
         },
         "Grey": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71JzZupODNL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/91zWfJasvuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/815C4+Om7zL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/815C4+Om7zL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71UWNSMW-aL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71VBQqMGlLL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71URjZXhmvL._AC_SL1500_.jpg"
             ]
         },
         "Navy": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/61qWP6bRwtL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/91prVjpYeHL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/71KUBF6L8XL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/71KUBF6L8XL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71k1fa7tnqL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71JCfRezl+L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71ndM2u1gML._AC_SL1500_.jpg"
             ]
         },
         "Light Grey": {
             "Photo_url": [
                 "https://m.media-amazon.com/images/I/71JzZupODNL._AC_SL1500_.jpg",
                 "https://m.media-amazon.com/images/I/91zWfJasvuL._AC_SL1500_.jpg",
-                "https://m.media-amazon.com/images/I/815C4+Om7zL._AC_SL1500_.jpg"
+                "https://m.media-amazon.com/images/I/815C4+Om7zL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71UWNSMW-aL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71VBQqMGlLL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71URjZXhmvL._AC_SL1500_.jpg"
             ]
         }
     },
     "Product Photo": [
         "https://m.media-amazon.com/images/I/61qWP6bRwtL._AC_SL1500_.jpg"
     ],
-    "Reviews": "Customers praise the jacket's comfort, breathability, and waterproof features, noting its stylish design and functional pockets. Some suggest sizing up for a better fit."
+    "Reviews": "Overall, the reviews highlight the jacket's comfort, breathability, and waterproof features. Users appreciate its design and functionality, noting the effective storage options and the convenience of the hood. Some mention sizing adjustments, but the general sentiment is positive."
 }
