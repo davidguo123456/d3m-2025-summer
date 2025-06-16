@@ -1,72 +1,52 @@
 {
-    "ID": "M0016",
-    "ASIN": "B0DHZXFYQD",
-    "Categories": [
-        "Clothing, Shoes & Accessories",
-        "Men",
-        "Clothing",
-        "Sweaters",
-        "Cardigans"
-    ],
-    "Product URL": "https://www.amazon.ca/dp/B0DHZXFYQD",
-    "Product Name": "KALLSPIN Men's Thick Wool Blend Cable Knit Shawl Collar Cardigan Sweater Regular Fit Button Down Knitwear",
-    "Product Brand": "Visit the KALLSPIN Store",
-    "Product Rating": "4.8",
-    "Product Description": null,
-    "About Product": [
-        "Luxurious wool blend for warmth and softness.",
-        "Elegant shawl collar for added comfort.",
-        "Classic cable knit adds texture and style.",
-        "Versatile button-down front for easy wear.",
-        "Easy care and durable for long-lasting use.",
-        "Key words: wool blend, shawl collar, cable knit, versatile"
-    ],
-    "Product Detail": {
-        "Fabric type": "20% Wool, 15% Acrylic, 15% Nylon, 50% Polyester",
-        "Care instructions": "Machine Wash",
-        "Closure type": "Button",
-        "Weave type": "Knit"
+  "ID": "M0016",
+  "ASIN": "B0DHZXFYQD",
+  "Categories": ["Clothing, Shoes & Accessories", "Men", "Clothing", "Sweaters", "Cardigans"],
+  "Product URL": "https://www.amazon.ca/dp/B0DHZXFYQD",
+  "Product Name": "KALLSPIN Men's Thick Wool Blend Cable Knit Shawl Collar Cardigan Sweater Regular Fit Button Down Knitwear",
+  "Product Brand": "Visit the KALLSPIN Store",
+  "Product Rating": "4.8",
+  "Product Description": null,
+  "About Product": [
+    "Luxurious wool blend for warmth and softness.",
+    "Elegant shawl collar for added comfort.",
+    "Classic cable knit adds texture and style.",
+    "Versatile button-down front for easy wear.",
+    "Easy care and durable for long-lasting use.",
+    "Key words: wool blend, shawl collar, cable knit, versatile"
+  ],
+  "Product Detail": {
+    "Fabric type": "20% Wool, 15% Acrylic, 15% Nylon, 50% Polyester",
+    "Care instructions": "Machine Wash",
+    "Closure type": "Button",
+    "Weave type": "Knit"
+  },
+  "Color": {
+    "Black": {
+      "asin": "B0DHZSRX4X",
+      "Photo_url": ["https://m.media-amazon.com/images/I/41Ryp3USB6L.jpg"]
     },
-    "Color": {
-        "Black": {
-            "asin": "B0DHZSRX4X",
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/41Ryp3USB6L.jpg"
-            ]
-        },
-        "Brown": {
-            "asin": "B0DHZR9PM4",
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/41ixZFw3vxL.jpg"
-            ]
-        },
-        "Burgundy Red": {
-            "asin": "B0DHZVM2RR",
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/41ekfVhP+oL.jpg"
-            ]
-        },
-        "Charcoal": {
-            "asin": "B0DHZS9JWQ",
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/41WjgIpl1HL.jpg"
-            ]
-        },
-        "Light Grey": {
-            "asin": "B0DHZQ8XG8",
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/41flwjD2AJL.jpg"
-            ]
-        },
-        "Navy Blue": {
-            "asin": "B0DHZQBGY8",
-            "Photo_url": [
-                "https://m.media-amazon.com/images/I/41VmRepPe8L.jpg"
-            ]
-        }
+    "Brown": {
+      "asin": "B0DHZR9PM4",
+      "Photo_url": ["https://m.media-amazon.com/images/I/41ixZFw3vxL.jpg"]
     },
-    "Product Photo": [
-        "https://m.media-amazon.com/images/I/714iFz8peoL._AC_SL1500_.jpg"
-    ],
-    "Reviews": "Overall, customers appreciate the comfort, warmth, and stylish design of the cardigan. Many highlight its versatility for various occasions, while some note that it may not be as warm as expected. The quality and durability of the material are frequently praised, making it a popular choice among buyers."
+    "Burgundy Red": {
+      "asin": "B0DHZVM2RR",
+      "Photo_url": ["https://m.media-amazon.com/images/I/41ekfVhP+oL.jpg"]
+    },
+    "Charcoal": {
+      "asin": "B0DHZS9JWQ",
+      "Photo_url": ["https://m.media-amazon.com/images/I/41WjgIpl1HL.jpg"]
+    },
+    "Light Grey": {
+      "asin": "B0DHZQ8XG8",
+      "Photo_url": ["https://m.media-amazon.com/images/I/41flwjD2AJL.jpg"]
+    },
+    "Navy Blue": {
+      "asin": "B0DHZQBGY8",
+      "Photo_url": ["https://m.media-amazon.com/images/I/41VmRepPe8L.jpg"]
+    }
+  },
+  "Product Photo": ["https://davidguo123456.github.io/d3m-2025-summer/B0DHZXFYQD.jpg"],
+  "Reviews": "Overall, customers appreciate the comfort, warmth, and stylish design of the cardigan. Many highlight its versatility for various occasions, while some note that it may not be as warm as expected. The quality and durability of the material are frequently praised, making it a popular choice among buyers."
 }

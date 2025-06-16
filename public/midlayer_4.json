@@ -1,32 +1,24 @@
 {
-    "ID": "M0010",
-    "ASIN": "B0BL3B42S1",
-    "Categories": [
-        "Clothing, Shoes & Accessories",
-        "Men",
-        "Clothing",
-        "Sweaters",
-        "Cardigans"
-    ],
-    "Product URL": "https://www.amazon.ca/dp/B0BL3B42S1",
-    "Product Name": "COOFANDY Mens Long Cardigan Draped Cardigans Long Sleeve with Pockets Cloak Asymmetrical Hem Unisex Adult",
-    "Product Brand": "Visit the COOFANDY Store",
-    "Product Rating": "5",
-    "Product Description": null,
-    "About Product": [
-        "Soft, lightweight cotton blend fabric for comfort.",
-        "Stylish long length with ruffle shawl collar.",
-        "Versatile layering piece for various occasions.",
-        "Key words: cardigan, lightweight, stylish, versatile"
-    ],
-    "Product Detail": {
-        "Fabric type": "Lightweight Soft Fabric",
-        "Care instructions": "Machine Wash",
-        "Origin": "Imported"
-    },
-    "Color": {},
-    "Product Photo": [
-        "https://m.media-amazon.com/images/I/81urgwOuWkL._AC_SL1500_.jpg"
-    ],
-    "Reviews": "The overall sentiment is highly positive, with users praising the cardigan as a perfect wardrobe accessory."
+  "ID": "M0010",
+  "ASIN": "B0BL3B42S1",
+  "Categories": ["Clothing, Shoes & Accessories", "Men", "Clothing", "Sweaters", "Cardigans"],
+  "Product URL": "https://www.amazon.ca/dp/B0BL3B42S1",
+  "Product Name": "COOFANDY Mens Long Cardigan Draped Cardigans Long Sleeve with Pockets Cloak Asymmetrical Hem Unisex Adult",
+  "Product Brand": "Visit the COOFANDY Store",
+  "Product Rating": "5",
+  "Product Description": null,
+  "About Product": [
+    "Soft, lightweight cotton blend fabric for comfort.",
+    "Stylish long length with ruffle shawl collar.",
+    "Versatile layering piece for various occasions.",
+    "Key words: cardigan, lightweight, stylish, versatile"
+  ],
+  "Product Detail": {
+    "Fabric type": "Lightweight Soft Fabric",
+    "Care instructions": "Machine Wash",
+    "Origin": "Imported"
+  },
+  "Color": {},
+  "Product Photo": ["https://davidguo123456.github.io/d3m-2025-summer/B0BL3B42S1.jpg"],
+  "Reviews": "The overall sentiment is highly positive, with users praising the cardigan as a perfect wardrobe accessory."
 }

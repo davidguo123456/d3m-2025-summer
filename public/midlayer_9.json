@@ -1,39 +1,31 @@
 {
-    "ID": "M0026",
-    "ASIN": "B076VNZKFB",
-    "Categories": [
-        "Clothing, Shoes & Accessories",
-        "Women",
-        "Clothing",
-        "Activewear",
-        "Vests"
-    ],
-    "Product URL": "https://www.amazon.ca/dp/B076VNZKFB",
-    "Product Name": "Columbia Women's Benton Springs Vest, Cirrus Grey Heather, Small",
-    "Product Brand": "Visit the Columbia Store",
-    "Product Rating": "4.4",
-    "Product Description": [
-        "Durable fleece for core warmth in cold weather.",
-        "Perfect for layering or wearing alone.",
-        "Features zippered pockets and adjustable hem.",
-        "Key words: fleece, layering, warmth, pockets"
-    ],
-    "About Product": [
-        "Soft and warm MTR filament material for winter activities.",
-        "Modern classic fit for comfortable outdoor use.",
-        "Crafted from plush filament fleece for warmth.",
-        "Key words: fleece, vest, winter, outdoor, comfort"
-    ],
-    "Product Detail": {
-        "Fabric type": "100% Polyester",
-        "Care instructions": "Machine Wash",
-        "Closure type": "Zipper",
-        "Length": "Standard Length",
-        "Country of origin": "Vietnam"
-    },
-    "Color": {},
-    "Product Photo": [
-        "https://m.media-amazon.com/images/I/71URb840MgL._AC_SL1500_.jpg"
-    ],
-    "Reviews": "Overall, reviews highlight the vest's comfort and practicality, with users appreciating the soft material and functional zippered pockets."
+  "ID": "M0026",
+  "ASIN": "B076VNZKFB",
+  "Categories": ["Clothing, Shoes & Accessories", "Women", "Clothing", "Activewear", "Vests"],
+  "Product URL": "https://www.amazon.ca/dp/B076VNZKFB",
+  "Product Name": "Columbia Women's Benton Springs Vest, Cirrus Grey Heather, Small",
+  "Product Brand": "Visit the Columbia Store",
+  "Product Rating": "4.4",
+  "Product Description": [
+    "Durable fleece for core warmth in cold weather.",
+    "Perfect for layering or wearing alone.",
+    "Features zippered pockets and adjustable hem.",
+    "Key words: fleece, layering, warmth, pockets"
+  ],
+  "About Product": [
+    "Soft and warm MTR filament material for winter activities.",
+    "Modern classic fit for comfortable outdoor use.",
+    "Crafted from plush filament fleece for warmth.",
+    "Key words: fleece, vest, winter, outdoor, comfort"
+  ],
+  "Product Detail": {
+    "Fabric type": "100% Polyester",
+    "Care instructions": "Machine Wash",
+    "Closure type": "Zipper",
+    "Length": "Standard Length",
+    "Country of origin": "Vietnam"
+  },
+  "Color": {},
+  "Product Photo": ["https://davidguo123456.github.io/d3m-2025-summer/B076VNZKFB.jpg"],
+  "Reviews": "Overall, reviews highlight the vest's comfort and practicality, with users appreciating the soft material and functional zippered pockets."
 }

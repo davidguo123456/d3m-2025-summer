@@ -1,59 +1,51 @@
 {
-    "ID": "M0033",
-    "ASIN": "B0DDKMP312",
-    "Categories": [
-        "Clothing, Shoes & Accessories",
-        "Men",
-        "Clothing",
-        "Sweaters",
-        "Cardigans"
-    ],
-    "Product URL": "https://www.amazon.ca/dp/B0DDKMP312",
-    "Product Name": "Linvich Men's Shawl Collar Button Down Cardigan Sweater Vintage Casual Long Sleeve Cable Knitted Sweater with Pockets",
-    "Product Brand": "Visit the Linvich Store",
-    "Product Rating": "4.3",
-    "Product Description": null,
-    "About Product": [
-        "Soft, durable knitted material for long-lasting quality.",
-        "Features button plackets and traditional Irish patterns.",
-        "Versatile for both casual and formal occasions.",
-        "Ideal for fall, winter, and spring wear.",
-        "Key words: cardigan, sweater, versatile, warm, stylish"
-    ],
-    "Product Detail": {
-        "Fabric type": "100% Acrylic",
-        "Care instructions": "Hand Wash Only",
-        "Closure type": "Button",
-        "Sleeve type": "Long Sleeve"
+  "ID": "M0033",
+  "ASIN": "B0DDKMP312",
+  "Categories": ["Clothing, Shoes & Accessories", "Men", "Clothing", "Sweaters", "Cardigans"],
+  "Product URL": "https://www.amazon.ca/dp/B0DDKMP312",
+  "Product Name": "Linvich Men's Shawl Collar Button Down Cardigan Sweater Vintage Casual Long Sleeve Cable Knitted Sweater with Pockets",
+  "Product Brand": "Visit the Linvich Store",
+  "Product Rating": "4.3",
+  "Product Description": null,
+  "About Product": [
+    "Soft, durable knitted material for long-lasting quality.",
+    "Features button plackets and traditional Irish patterns.",
+    "Versatile for both casual and formal occasions.",
+    "Ideal for fall, winter, and spring wear.",
+    "Key words: cardigan, sweater, versatile, warm, stylish"
+  ],
+  "Product Detail": {
+    "Fabric type": "100% Acrylic",
+    "Care instructions": "Hand Wash Only",
+    "Closure type": "Button",
+    "Sleeve type": "Long Sleeve"
+  },
+  "Color": {
+    "Dark Blue": {
+      "Photo_url": []
     },
-    "Color": {
-        "Dark Blue": {
-            "Photo_url": []
-        },
-        "Dark Grey": {
-            "Photo_url": []
-        },
-        "Light Grey": {
-            "Photo_url": []
-        },
-        "Khaki": {
-            "Photo_url": []
-        },
-        "Red": {
-            "Photo_url": []
-        },
-        "Grey Blue": {
-            "Photo_url": []
-        },
-        "Black": {
-            "Photo_url": []
-        },
-        "Grey Khaki": {
-            "Photo_url": []
-        }
+    "Dark Grey": {
+      "Photo_url": []
     },
-    "Product Photo": [
-        "https://m.media-amazon.com/images/I/713goe7XCjL._AC_SL1500_.jpg"
-    ],
-    "Reviews": "Overall, the sentiment is positive with many praising the quality, warmth, and style of the cardigan. Customers appreciate its versatility for different occasions and comfort, although a few noted issues with itchiness and sizing. Many recommend purchasing a size up for a better fit, and some mentioned minor concerns about button durability. Overall, it is seen as a good value for money."
+    "Light Grey": {
+      "Photo_url": []
+    },
+    "Khaki": {
+      "Photo_url": []
+    },
+    "Red": {
+      "Photo_url": []
+    },
+    "Grey Blue": {
+      "Photo_url": []
+    },
+    "Black": {
+      "Photo_url": []
+    },
+    "Grey Khaki": {
+      "Photo_url": []
+    }
+  },
+  "Product Photo": ["https://davidguo123456.github.io/d3m-2025-summer/B0DDKMP312.jpg"],
+  "Reviews": "Overall, the sentiment is positive with many praising the quality, warmth, and style of the cardigan. Customers appreciate its versatility for different occasions and comfort, although a few noted issues with itchiness and sizing. Many recommend purchasing a size up for a better fit, and some mentioned minor concerns about button durability. Overall, it is seen as a good value for money."
 }
