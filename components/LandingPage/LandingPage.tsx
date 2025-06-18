@@ -22,6 +22,7 @@ export function LandingPage() {
 
     if (isRoleValid && isCodeValid) {
       const trimmedCode = code.trim().toLowerCase();
+      // eslint-disable-next-line prefer-template
       const letters = 't' + trimmedCode.slice(0, 3);
       const digits = trimmedCode.slice(3);
 
