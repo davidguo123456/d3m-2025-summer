@@ -23,16 +23,20 @@ export default function AssistantSessionPage({
   const searchParams = useSearchParams();
 
   const sequence = searchParams.get('seq') || '';
+  const session = searchParams.get('sess') || '';
   const currentIndex = sequence.indexOf(category);
   const urlSuffix = sessionCode.slice(1); // everything but the first letter
-  const baseQuery = `?seq=${sequence}`;
+  const baseQuery = `?seq=${sequence}&sess=${session}`;
 
-  const getRoute = (letter: string) => `/${ROLES.assistant}/${letter}${urlSuffix}${baseQuery}`;
+  const getRoute = (letter: string) => `/${ROLES.assistant}/${letter}${session}${baseQuery}`;
 
   const goTo = (index: number) => {
     const letter = sequence[index];
     if (letter) {
-      router.push(getRoute(letter));
+      if (letter === 't'){
+        router.push(`/${ROLES.assistant}/tutorial${baseQuery}`)
+      } else {
+      router.push(getRoute(letter));}
     }
   };
 

@@ -22,11 +22,10 @@ export function LandingPage() {
 
     if (isRoleValid && isCodeValid) {
       const trimmedCode = code.trim().toLowerCase();
-      const letters = trimmedCode.slice(0, 3);
+      const letters = 't' + trimmedCode.slice(0, 3);
       const digits = trimmedCode.slice(3);
-      const firstLetter = letters[0];
 
-      router.push(`/${role.toLowerCase()}/${firstLetter}${digits}?seq=${letters}`);
+      router.push(`/${role.toLowerCase()}/${'tutorial'}?seq=${letters}&sess=${digits}`);
     }
   };
 
