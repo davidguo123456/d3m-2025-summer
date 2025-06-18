@@ -1,0 +1,99 @@
+{
+    "ID": "TUT01",
+    "ASIN": "B0C7ZXKZQ1",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Women",
+        "Clothing",
+        "Sweaters",
+        "Cardigans"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B0C7ZXKZQ1",
+    "Product Name": "MEROKEETY Women's Long Sleeve Lapel Open Front Cardigan Coat Casual Knit Sweater with Pockets",
+    "Product Brand": "Brand: MEROKEETY",
+    "Product Rating": "3.8",
+    "Product Description": [
+        "Casual knit sweater coat with lapel and open front.",
+        "Perfect for layering in cool weather.",
+        "Machine washable for easy care.",
+        "Key words: cardigan, knit, casual, warm"
+    ],
+    "About Product": [
+        "Cozy knitted sweater coat with pockets.",
+        "Fashionable design with long sleeves and open front.",
+        "Versatile for various occasions, easy to style.",
+        "Key words: cozy, fashionable, versatile, pockets"
+    ],
+    "Product Detail": {
+        "Fabric type": "50% Viscose+28% Polyamide+22% Polyester",
+        "Care instructions": "Machine Wash",
+        "Closure type": "Pull On",
+        "Weave type": "Knit"
+    },
+    "Color": {
+        "Green": {
+            "asin": "B0C7ZXKZQ1",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31TUjTNWdEL.jpg"
+            ]
+        },
+        "Apricot": {
+            "asin": "B0BG7M7XSL",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31cMT6d6WNL.jpg"
+            ]
+        },
+        "Black": {
+            "asin": "B0BG7M4483",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31jN23wFxnL.jpg"
+            ]
+        },
+        "Caramel": {
+            "asin": "B0BG7KB86F",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31H3GMa-tCL.jpg"
+            ]
+        },
+        "Khaki": {
+            "asin": "B0BG7NPYK7",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31ei-sNPZqL.jpg"
+            ]
+        },
+        "Lightgrey": {
+            "asin": "B0BG7P5DQH",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31CarMQ7u4L.jpg"
+            ]
+        },
+        "Navy": {
+            "asin": "B0C7ZYSFFD",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31omNe0o+qL.jpg"
+            ]
+        },
+        "White": {
+            "asin": "B0C7ZWMVWQ",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/21KTdE8rnML.jpg"
+            ]
+        },
+        "Redcoffee": {
+            "asin": "B0C8116HBN",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31TKj4k9XdL.jpg"
+            ]
+        },
+        "Red Coffee": {
+            "asin": "B0C811YQRP",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31TKj4k9XdL.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/81v-e08A54L._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Overall, the product received mixed reviews. Many customers praised its quality and warmth, noting it as a stylish choice for various occasions. However, some expressed disappointment with the material, describing it as cheap and not matching the description. Despite the negative feedback, several users highlighted the compliments they received while wearing it."
+}

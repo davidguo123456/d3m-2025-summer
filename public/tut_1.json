@@ -1,0 +1,105 @@
+{
+    "ID": "TUT00",
+    "ASIN": "B09YRXF749",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Clothing",
+        "Hoodies & Sweatshirts",
+        "Hoodies"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B09YRXF749",
+    "Product Name": "Sejuani Men's UPF 50+ Light Jacket Full Zip Sun Protection Hoodie Long Sleeve Sun Shirts for Men Hiking Fishing Zip Pockets",
+    "Product Brand": "Brand: Sejuani",
+    "Product Rating": "4.3",
+    "Product Description": null,
+    "About Product": [
+        "UPF 50+ fabric protects against harmful UV rays.",
+        "Breathable, lightweight, and stretchy for comfort.",
+        "Hoodie design and thumbholes for added sun protection.",
+        "Multiple pockets and adjustable drawcord for convenience.",
+        "Key words: sun protection, breathable, lightweight, versatile"
+    ],
+    "Product Detail": {
+        "Fabric type": "90% Polyester, 10% Spandex",
+        "Care instructions": "Hand Wash Only"
+    },
+    "Color": {
+        "A Light Grey": {
+            "asin": "B09YRW36B9",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41znuP1E6cL.jpg"
+            ]
+        },
+        "A White": {
+            "asin": "B09YRWZDY3",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31ERbl43DoL.jpg"
+            ]
+        },
+        "Black": {
+            "asin": "B09YRWY8NC",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/314wl+-KeDL.jpg"
+            ]
+        },
+        "Brilliant Blue": {
+            "asin": "B09YRX88G1",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41inMWoyOGL.jpg"
+            ]
+        },
+        "Dark Grey": {
+            "asin": "B09YRW8K4B",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41Dbut3hyrL.jpg"
+            ]
+        },
+        "Dark Khaki": {
+            "asin": "B09YRWMJWT",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/31kACKCwQ-L.jpg"
+            ]
+        },
+        "Deep Blue": {
+            "asin": "B09YRTX7RG",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41ruTRH4PgL.jpg"
+            ]
+        },
+        "Khaki": {
+            "asin": "B09YRWY8ND",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41TWi3Z6-HL.jpg"
+            ]
+        },
+        "Light Green": {
+            "asin": "B09YRWJH19",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/313PyaU0lZL.jpg"
+            ]
+        },
+        "Navy": {
+            "asin": "B09YRWVZNY",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/3151SDlA+YL.jpg"
+            ]
+        },
+        "Olive": {
+            "asin": "B09YRVTDQT",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41J9bAilz6L.jpg"
+            ]
+        },
+        "B Sky Blue": {
+            "asin": "B09YRWWSQF",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41NPQUJUjLL.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/81aIMelj+yL._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Overall, the reviews are highly positive, highlighting the product's lightweight and comfortable design, effective sun protection, and practical features like pockets and thumbholes. Customers appreciate its versatility for various outdoor activities and its luxurious feel, with many expressing interest in purchasing additional colors."
+}

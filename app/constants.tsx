@@ -50,18 +50,10 @@ export const C_PATHS = [
 ];
 
 export const T_PATHS = [
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_1.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_2.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_3.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_4.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_5.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_6.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_7.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_8.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_9.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_10.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_11.json',
-  'https://davidguo123456.github.io/d3m-2025-summer/shoes_12.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/tut_1.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/tut_2.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/tut_3.json',
+  'https://davidguo123456.github.io/d3m-2025-summer/tut_4.json',
 ];
 
 export const ROLES = { assistant: 'assistant', seeker: 'seeker' };

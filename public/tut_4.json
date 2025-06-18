@@ -1,0 +1,90 @@
+{
+    "ID": "TUT03",
+    "ASIN": "B0CF5RY2SL",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Men",
+        "Clothing",
+        "Outerwear",
+        "Coats & Jackets",
+        "Lightweight Jackets",
+        "Varsity Jackets"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B0CF5RY2SL",
+    "Product Name": "COOFANDY Men's Varsity Jacket Wool Blend Letterman Bomber Jacket Baseball Lightweight Jacket",
+    "Product Brand": "Visit the COOFANDY Store",
+    "Product Rating": "4.5",
+    "Product Description": null,
+    "About Product": [
+        "Premium woolen-blend fabric, lightweight and comfortable.",
+        "Unique Embroidery Letter B Patch and metal snap closure.",
+        "Versatile design, pairs well with various styles.",
+        "Timeless classic, suitable for multiple occasions.",
+        "Key words: varsity jacket, embroidery, casual, fashionable"
+    ],
+    "Product Detail": {
+        "Fabric type": "80%Polyester20%Viscose,Wool Blend Fabric,Soft and Cozy",
+        "Care instructions": "Machine Wash",
+        "Origin": "Imported"
+    },
+    "Color": {
+        "A-black": {
+            "asin": "B0C74M9GKQ",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41yJxWL9BPL.jpg"
+            ]
+        },
+        "Brown": {
+            "asin": "B0C74LQV1T",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/418VKHtn22L.jpg"
+            ]
+        },
+        "Khaki": {
+            "asin": "B0C74KD573",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/411lRbeat9L.jpg"
+            ]
+        },
+        "Navy Blue": {
+            "asin": "B0C74LXLV8",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/415fLRcKKfL.jpg"
+            ]
+        },
+        "Red": {
+            "asin": "B0C74KG531",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41-mD4vBVML.jpg"
+            ]
+        },
+        "Blue": {
+            "asin": "B0C74KFQ98",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41BohIwjzjL.jpg"
+            ]
+        },
+        "Dark Gray(no Letter)": {
+            "asin": "B0D8LMY267",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/416tcNshkvL.jpg"
+            ]
+        },
+        "Pure Black": {
+            "asin": "B0C74P3PMP",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41k9KB1r4gL.jpg"
+            ]
+        },
+        "Green/Black(no Letter)": {
+            "asin": "B0D8LK4NFW",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/416hfMBMfQL.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/71poT6L--bL._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Overall, customers appreciate the comfort and style of the jacket, often receiving compliments. Positive feedback highlights satisfaction with the purchase and the seller."
+}

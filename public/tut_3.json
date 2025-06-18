@@ -1,0 +1,58 @@
+{
+    "ID": "TUT02",
+    "ASIN": "B08RZ98Z6X",
+    "Categories": [
+        "Clothing, Shoes & Accessories",
+        "Women",
+        "Clothing",
+        "Shops",
+        "Plus-Size",
+        "Coats & Jackets"
+    ],
+    "Product URL": "https://www.amazon.ca/dp/B08RZ98Z6X",
+    "Product Name": "Soularge Women's Winter Plus Size Sherpa Lined Coats with Faux Fur Hood",
+    "Product Brand": "Visit the Soularge Store",
+    "Product Rating": "4.1",
+    "Product Description": null,
+    "About Product": [
+        "Extra warmth with thick cotton and soft sherpa lining.",
+        "Windbreaker design with detachable faux fur hood.",
+        "Plus sizes from 1X-5X for a better fit.",
+        "Multiple pockets for convenience.",
+        "Key words: warm, winter coat, plus size, windbreaker, pockets"
+    ],
+    "Product Detail": {
+        "Fabric type": "MATERIA: 100% high density cotton shell fabric and thick quilted lining",
+        "Care instructions": "Machine Wash"
+    },
+    "Color": {
+        "Army Green": {
+            "asin": "B08P2T1QVX",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41TVw2ydJ1L.jpg"
+            ]
+        },
+        "Black": {
+            "asin": "B08P2PDGJF",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41J7NGSATjL.jpg"
+            ]
+        },
+        "Navy": {
+            "asin": "B08P2MZXGF",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/41DgQ-EFzeL.jpg"
+            ]
+        },
+        "Red": {
+            "asin": "B08P2P29JS",
+            "Photo_url": [
+                "https://m.media-amazon.com/images/I/4183qkO+pAL.jpg"
+            ]
+        }
+    },
+    "Product Photo": [
+        "https://m.media-amazon.com/images/I/91pBzYGbYoL._AC_SL1500_.jpg"
+    ],
+    "Reviews": "Overall, customers appreciate the warmth and quality of the coat, with many highlighting its durability and usefulness in cold weather. Some noted issues with sizing and fit, while a few expressed dissatisfaction with delivery conditions. The coat is generally recommended for its effectiveness in keeping warm."
+}
