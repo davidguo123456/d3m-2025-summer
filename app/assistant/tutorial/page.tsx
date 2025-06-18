@@ -1,7 +1,6 @@
 'use client';
 
 import { Suspense } from 'react';
-import { usePathname } from 'next/navigation';
 import { T_PATHS } from '@/app/constants';
 import AssistantSessionPage from '@/components/SessionPage/AssistantSessionPage';
 import { shuffleArray } from '@/lib/utils/random';
