@@ -10,7 +10,6 @@ export default function Page() {
   return (
     <Suspense>
       <AssistantSessionPage
-        category="t"
         sessionCode={sessionCode}
         productJsonPaths={shuffleArray(T_PATHS, sessionCode)}
       />
