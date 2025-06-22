@@ -15,18 +15,18 @@ export function LandingPage() {
     e.preventDefault();
 
     const isRoleValid = role.trim().length > 0;
-    const isCodeValid = /^[a-zA-Z]{4}[0-9]{3}$/.test(code.trim());
+    const isCodeValid = /^[a-zA-Z]{3}[0-9]{3}$/.test(code.trim());
 
     setRoleError(!isRoleValid);
     setCodeError(!isCodeValid);
 
     if (isRoleValid && isCodeValid) {
-      const trimmedCode = code.toLowerCase();
+      const trimmedCode = code.trim().toLowerCase();
       // eslint-disable-next-line prefer-template
-      const letters = 't' + trimmedCode.slice(0, 4);
-      const digits = trimmedCode.slice(-3);
+      const letters = 't' + trimmedCode.slice(0, 3);
+      const digits = trimmedCode.slice(3);
 
-      router.push(`/${role.toLowerCase()}/${'tutorial'}?seq=${letters}&sess=${digits}&idx=0`);
+      router.push(`/${role.toLowerCase()}/${'tutorial'}?seq=${letters}&sess=${digits}`);
     }
   };
 
