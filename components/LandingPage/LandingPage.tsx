@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { Box, Button, Fieldset, Select, TextInput, Title } from '@mantine/core';
+import { CODE_PREFIX_LENGTH } from '@/app/constants';
 import classes from './LandingPage.module.css';
 
 export function LandingPage() {
@@ -15,7 +16,7 @@ export function LandingPage() {
     e.preventDefault();
 
     const isRoleValid = role.trim().length > 0;
-    const isCodeValid = /^[a-zA-Z]{4}[0-9]{3}$/.test(code.trim());
+    const isCodeValid = new RegExp(`^[a-zA-Z]{${CODE_PREFIX_LENGTH}}[0-9]{3}$`).test(code.trim());
 
     setRoleError(!isRoleValid);
     setCodeError(!isCodeValid);
@@ -23,7 +24,7 @@ export function LandingPage() {
     if (isRoleValid && isCodeValid) {
       const trimmedCode = code.toLowerCase();
       // eslint-disable-next-line prefer-template
-      const letters = 't' + trimmedCode.slice(0, 4);
+      const letters = 't' + trimmedCode.slice(0, CODE_PREFIX_LENGTH);
       const digits = trimmedCode.slice(-3);
 
       router.push(`/${role.toLowerCase()}/${'tutorial'}?seq=${letters}&sess=${digits}&idx=0`);
@@ -67,7 +68,9 @@ export function LandingPage() {
             value={code}
             onChange={handleCodeChange}
             radius="md"
-            error={codeError ? 'Code must be 3 letters followed by 3 digits' : false}
+            error={
+              codeError ? `Code must be ${CODE_PREFIX_LENGTH} letters followed by 3 digits` : false
+            }
             className={classes.padded}
           />
 
