@@ -8,13 +8,11 @@ import ProductGrid from '@/components/ProductGrid/ProductGrid';
 import classes from './SeekerSessionPage.module.css';
 
 type SeekerSessionPageProps = {
-  category: string;
   sessionCode: string;
   productJsonPaths: string[];
 };
 
 export default function SeekerSessionPage({
-  category,
   sessionCode,
   productJsonPaths,
 }: SeekerSessionPageProps) {

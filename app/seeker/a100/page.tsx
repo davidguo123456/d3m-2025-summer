@@ -11,7 +11,6 @@ export default function Page() {
   return (
     <Suspense>
       <SeekerSessionPage
-        category="a"
         sessionCode={sessionCode}
         productJsonPaths={shuffleArray(A_PATHS, sessionCode)}
       />
