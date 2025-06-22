@@ -1,6 +1,5 @@
 export const GRAYSCALE = true;
 export const THUMB_COUNT = 0;
-export const CODE_PREFIX_LENGTH = 4;
 
 //Outerwear
 export const A_PATHS = [
