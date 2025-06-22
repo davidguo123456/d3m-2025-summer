@@ -9,11 +9,13 @@ import { ProductInfoComponent } from '@/components/ProductGrid/ProductInfo';
 import classes from './AssistantSessionPage.module.css';
 
 type AssistantSessionPageProps = {
+  category: string;
   sessionCode: string;
   productJsonPaths: string[];
 };
 
 export default function AssistantSessionPage({
+  category,
   sessionCode,
   productJsonPaths,
 }: AssistantSessionPageProps) {
