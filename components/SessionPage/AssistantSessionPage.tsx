@@ -24,18 +24,20 @@ export default function AssistantSessionPage({
 
   const sequence = searchParams.get('seq') || '';
   const session = searchParams.get('sess') || '';
-  const currentIndex = sequence.indexOf(category);
+  const currentIndex = Number(searchParams.get('idx')) || 0;
   const baseQuery = `?seq=${sequence}&sess=${session}`;
 
-  const getRoute = (letter: string) => `/${ROLES.assistant}/${letter}${session}${baseQuery}`;
+  const getRoute = (letter: string, index: number) =>
+    `/${ROLES.assistant}/${letter}${session}${baseQuery}&idx=${index}`;
 
   const goTo = (index: number) => {
     const letter = sequence[index];
     if (letter) {
-      if (letter === 't'){
-        router.push(`/${ROLES.assistant}/tutorial${baseQuery}`)
+      if (letter === 't') {
+        router.push(`/${ROLES.assistant}/tutorial${baseQuery}&idx=${0}`);
       } else {
-      router.push(getRoute(letter));}
+        router.push(getRoute(letter, index));
+      }
     }
   };
 
