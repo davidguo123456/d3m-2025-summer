@@ -1,0 +1,25 @@
+.navigationRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.categoryTitle {
+    width: 300px;
+    text-align: center;
+    margin-top: 10px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.backButton {
+    margin: 15px;
+    margin-bottom: 0px;
+}
+
+.nextButton {
+    margin: 15px;
+    margin-bottom: 0px;
+}

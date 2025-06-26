@@ -1,12 +1,12 @@
 'use client';
 
 import { useRouter, useSearchParams } from 'next/navigation';
-import { ArrowLeft, ArrowRight } from 'lucide-react';
-import { Box, Button, Title } from '@mantine/core';
+import { Box, Title } from '@mantine/core';
 import { GRAYSCALE, PATH_MAP, ROLES, THUMB_COUNT } from '@/app/constants';
 import ProductGrid from '@/components/ProductGrid/ProductGrid';
 import { ProductInfoComponent } from '@/components/ProductGrid/ProductInfo';
 import { shuffleArray } from '@/lib/utils/random';
+import NavigationRow from './NavigationRow';
 import classes from './AssistantSessionPage.module.css';
 
 export default function AssistantSessionPage() {
@@ -33,31 +33,12 @@ export default function AssistantSessionPage() {
 
   return (
     <Box>
-      <Box className={classes.navigationRow}>
-        <Button
-          variant="light"
-          onClick={() => (currentIndex > 0 ? goTo(currentIndex - 1) : router.push('/'))}
-          className={classes.backButton}
-          leftSection={<ArrowLeft size={16} />}
-        >
-          {currentIndex > 0
-            ? sequence[currentIndex - 1] === 't'
-              ? 'Back to Tutorial'
-              : `Back to Category ${sequence[currentIndex - 1].toUpperCase()}`
-            : 'Back to Homepage'}
-        </Button>
-
-        {currentIndex >= 0 && currentIndex < sequence.length - 1 && (
-          <Button
-            variant="light"
-            onClick={() => goTo(currentIndex + 1)}
-            className={classes.nextButton}
-            rightSection={<ArrowRight size={16} />}
-          >
-            Go to Category {sequence[currentIndex + 1].toUpperCase()}
-          </Button>
-        )}
-      </Box>
+      <NavigationRow
+        currentIndex={currentIndex}
+        sequence={sequence}
+        category={category}
+        goTo={goTo}
+      />
 
       <ProductGrid
         cols={2}
