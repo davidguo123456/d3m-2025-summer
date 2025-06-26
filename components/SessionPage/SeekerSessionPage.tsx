@@ -1,7 +1,7 @@
 'use client';
 
 import { useRouter, useSearchParams } from 'next/navigation';
-import { Box, Button, Title } from '@mantine/core';
+import { Box, Title } from '@mantine/core';
 import { GRAYSCALE, PATH_MAP, ROLES, THUMB_COUNT } from '@/app/constants';
 import ProductGrid from '@/components/ProductGrid/ProductGrid';
 import { shuffleArray } from '@/lib/utils/random';
