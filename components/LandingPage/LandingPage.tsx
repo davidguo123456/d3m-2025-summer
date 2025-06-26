@@ -23,8 +23,9 @@ export function LandingPage() {
 
     if (isRoleValid && isCodeValid) {
       const trimmedCode = code.toLowerCase();
-      // eslint-disable-next-line prefer-template
+
       const letters =
+        // eslint-disable-next-line prefer-template
         't' +
         trimmedCode
           .split('')
