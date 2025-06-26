@@ -19,6 +19,9 @@ export default function AssistantSessionPage() {
   const currentIndex = Number(searchParams.get('idx')) || 0;
   const baseQuery = `?seq=${sequence}&sess=${session}`;
 
+  const seed = currentIndex % 2 !== 0 ? session.slice(0, 3) : session.slice(3, 6);
+  const sessionCode = currentIndex !== 0 ? category + seed : 'tutorial';
+
   const productJsonPaths = PATH_MAP[category];
 
   const getRoute = (category: string, index: number) =>
@@ -42,14 +45,14 @@ export default function AssistantSessionPage() {
 
       <ProductGrid
         cols={2}
-        productJsonPaths={shuffleArray(productJsonPaths, session)}
+        productJsonPaths={shuffleArray(productJsonPaths, seed)}
         grayscale={GRAYSCALE}
         thumbCount={THUMB_COUNT}
         InfoComponent={(path) => <ProductInfoComponent path={path} />}
       />
 
       <Title order={5} c="dimmed" className={classes.sessionCode}>
-        Session code: {category + session}
+        Session code: {sessionCode}
       </Title>
     </Box>
   );
