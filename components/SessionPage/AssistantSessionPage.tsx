@@ -20,7 +20,7 @@ export default function AssistantSessionPage() {
   const baseQuery = `?seq=${sequence}&sess=${session}`;
   // eslint-disable-next-line prefer-template
   const seed = category + (currentIndex % 2 !== 0 ? session.slice(0, 3) : session.slice(3, 6));
-  const sessionCode = currentIndex !== 0 ? category + seed : 'tutorial';
+  const sessionCode = currentIndex !== 0 ? seed : 'tutorial';
 
   const productJsonPaths = PATH_MAP[category];
 
