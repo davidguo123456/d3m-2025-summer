@@ -71,7 +71,7 @@ export function LandingPage() {
           <TextInput
             label="Session code:"
             description="Please enter your session code."
-            placeholder="eg: abc123"
+            placeholder="eg: abc123456"
             value={code}
             onChange={handleCodeChange}
             radius="md"
