@@ -27,7 +27,7 @@ export function LandingPage() {
       const letters = 't' + trimmedCode.slice(0, CODE_PREFIX_LENGTH);
       const digits = trimmedCode.slice(-3);
 
-      router.push(`/${role.toLowerCase()}/${'tutorial'}?seq=${letters}&sess=${digits}&idx=0`);
+      router.push(`/${role.toLowerCase()}?seq=${letters}&sess=${digits}&idx=0&cat=t`);
     }
   };
 

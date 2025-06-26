@@ -3,38 +3,30 @@
 import { useRouter, useSearchParams } from 'next/navigation';
 import { ArrowLeft, ArrowRight } from 'lucide-react';
 import { Box, Button, Title } from '@mantine/core';
-import { GRAYSCALE, ROLES, THUMB_COUNT } from '@/app/constants';
+import { GRAYSCALE, PATH_MAP, ROLES, THUMB_COUNT } from '@/app/constants';
 import ProductGrid from '@/components/ProductGrid/ProductGrid';
+import { shuffleArray } from '@/lib/utils/random';
 import classes from './SeekerSessionPage.module.css';
 
-type SeekerSessionPageProps = {
-  sessionCode: string;
-  productJsonPaths: string[];
-};
-
-export default function SeekerSessionPage({
-  sessionCode,
-  productJsonPaths,
-}: SeekerSessionPageProps) {
+export default function SeekerSessionPage() {
   const router = useRouter();
   const searchParams = useSearchParams();
 
+  const category = searchParams.get('cat') || '';
   const sequence = searchParams.get('seq') || '';
   const session = searchParams.get('sess') || '';
   const currentIndex = Number(searchParams.get('idx')) || 0;
   const baseQuery = `?seq=${sequence}&sess=${session}`;
 
-  const getRoute = (letter: string, index: number) =>
-    `/${ROLES.seeker}/${letter}${session}${baseQuery}&idx=${index}`;
+  const productJsonPaths = PATH_MAP[category];
+
+  const getRoute = (category: string, index: number) =>
+    `/${ROLES.seeker}${baseQuery}&idx=${index}&cat=${category}`;
 
   const goTo = (index: number) => {
-    const letter = sequence[index];
-    if (letter) {
-      if (letter === 't') {
-        router.push(`/${ROLES.seeker}/tutorial${baseQuery}&idx=${0}`);
-      } else {
-        router.push(getRoute(letter, index));
-      }
+    const category = sequence[index];
+    if (category) {
+      router.push(getRoute(category, index));
     }
   };
 
@@ -67,13 +59,13 @@ export default function SeekerSessionPage({
       </Box>
 
       <ProductGrid
-        productJsonPaths={productJsonPaths}
+        productJsonPaths={shuffleArray(productJsonPaths, session)}
         grayscale={GRAYSCALE}
         thumbCount={THUMB_COUNT}
       />
 
       <Title order={5} c="dimmed" className={classes.sessionCode}>
-        Session: {sessionCode}
+        Session code: {category + session}
       </Title>
     </Box>
   );

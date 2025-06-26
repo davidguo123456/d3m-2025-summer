@@ -1,6 +1,6 @@
 export const GRAYSCALE = true;
 export const THUMB_COUNT = 0;
-export const CODE_PREFIX_LENGTH = 4;
+export const CODE_PREFIX_LENGTH = 3;
 
 //Outerwear
 export const A_PATHS = [
@@ -56,5 +56,12 @@ export const T_PATHS = [
   'https://davidguo123456.github.io/d3m-2025-summer/tut_3.json',
   'https://davidguo123456.github.io/d3m-2025-summer/tut_4.json',
 ];
+
+export const PATH_MAP: Record<string, string[]> = {
+  a: A_PATHS,
+  b: B_PATHS,
+  c: C_PATHS,
+  t: T_PATHS,
+};
 
 export const ROLES = { assistant: 'assistant', seeker: 'seeker' };
