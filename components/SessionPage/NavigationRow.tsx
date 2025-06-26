@@ -19,6 +19,7 @@ export default function NavigationRow({
   goTo,
 }: NavigationRowProps) {
   const router = useRouter();
+  const scenarioNumber = currentIndex === 0 ? 'Tutorial' : currentIndex;
 
   return (
     <Box className={classes.navigationRow}>
@@ -27,7 +28,6 @@ export default function NavigationRow({
         onClick={() => (currentIndex > 0 ? goTo(currentIndex - 1) : router.push('/'))}
         className={classes.backButton}
         leftSection={<ArrowLeft size={16} />}
-        style={{ justifyContent: 'flex-start', textAlign: 'left' }}
       >
         {currentIndex > 0
           ? sequence[currentIndex - 1] === 't'
@@ -36,12 +36,8 @@ export default function NavigationRow({
           : 'Back to Homepage'}
       </Button>
 
-      <Title
-        order={4}
-        className={classes.categoryTitle}
-        style={{ width: '22ch', textAlign: 'center' }}
-      >
-        Scenario: {currentIndex} | Category: {category.toUpperCase()}
+      <Title order={4} className={classes.categoryTitle}>
+        Scenario: {scenarioNumber} | Category: {category.toUpperCase()}
       </Title>
 
       <Button
@@ -50,8 +46,6 @@ export default function NavigationRow({
         className={classes.nextButton}
         rightSection={<ArrowRight size={16} />}
         style={{
-          justifyContent: 'flex-end',
-          textAlign: 'right',
           visibility: currentIndex < sequence.length - 1 ? 'visible' : 'hidden',
         }}
       >
