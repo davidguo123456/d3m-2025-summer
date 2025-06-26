@@ -17,8 +17,8 @@ export default function SeekerSessionPage() {
   const session = searchParams.get('sess') || '';
   const currentIndex = Number(searchParams.get('idx')) || 0;
   const baseQuery = `?seq=${sequence}&sess=${session}`;
-
-  const seed = currentIndex % 2 !== 0 ? session.slice(0, 3) : session.slice(3, 6);
+  // eslint-disable-next-line prefer-template
+  const seed = category + (currentIndex % 2 !== 0 ? session.slice(0, 3) : session.slice(3, 6));
   const sessionCode = currentIndex !== 0 ? category + seed : 'tutorial';
 
   const productJsonPaths = PATH_MAP[category];
