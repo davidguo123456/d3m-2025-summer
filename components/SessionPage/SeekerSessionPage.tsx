@@ -48,7 +48,9 @@ export default function SeekerSessionPage({
           leftSection={<ArrowLeft size={16} />}
         >
           {currentIndex > 0
-            ? `Back to Category ${sequence[currentIndex - 1].toUpperCase()}`
+            ? sequence[currentIndex - 1] === 't'
+              ? 'Back to Tutorial'
+              : `Back to Category ${sequence[currentIndex - 1].toUpperCase()}`
             : 'Back to Homepage'}
         </Button>
 
