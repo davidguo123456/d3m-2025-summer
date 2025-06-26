@@ -23,20 +23,18 @@ export default function SeekerSessionPage({
 
   const sequence = searchParams.get('seq') || '';
   const session = searchParams.get('sess') || '';
-  const currentIndex = Number(searchParams.get('idx')) || 0;
+  const currentIndex = sequence.indexOf(category);
   const baseQuery = `?seq=${sequence}&sess=${session}`;
 
-  const getRoute = (letter: string, index: number) =>
-    `/${ROLES.seeker}/${letter}${session}${baseQuery}&idx=${index}`;
+  const getRoute = (letter: string) => `/${ROLES.seeker}/${letter}${session}${baseQuery}`;
 
   const goTo = (index: number) => {
     const letter = sequence[index];
     if (letter) {
-      if (letter === 't') {
-        router.push(`/${ROLES.seeker}/tutorial${baseQuery}&idx=${0}`);
+      if (letter === 't'){
+        router.push(`/${ROLES.seeker}/tutorial${baseQuery}`)
       } else {
-        router.push(getRoute(letter, index));
-      }
+      router.push(getRoute(letter));}
     }
   };
 
