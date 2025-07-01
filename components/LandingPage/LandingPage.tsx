@@ -28,6 +28,7 @@ export function LandingPage() {
       const trimmedCode = code.slice(1).toLowerCase(); // remove first char, then lowercase
 
       const letters =
+        // eslint-disable-next-line prefer-template
         't' +
         trimmedCode
           .split('')

@@ -19,7 +19,6 @@ export default function AssistantSessionPage() {
   const flip = Number(searchParams.get('flip')) || 0;
   const currentIndex = Number(searchParams.get('idx')) || 0;
   const baseQuery = `?flip=${flip}&seq=${sequence}&sess=${session}`;
-  // eslint-disable-next-line prefer-template
   const seed = category + (currentIndex % 2 !== 0 ? session.slice(0, 3) : session.slice(3, 6));
   const sessionCode = currentIndex !== 0 ? seed : 'tutorial';
 
