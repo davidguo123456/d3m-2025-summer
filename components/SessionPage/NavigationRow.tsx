@@ -3,12 +3,14 @@
 import { useRouter } from 'next/navigation';
 import { ArrowLeft, ArrowRight } from 'lucide-react';
 import { Box, Button, Title } from '@mantine/core';
+import { SCENARIO_NUMBERS } from '@/app/constants';
 import classes from './NavigationRow.module.css';
 
 interface NavigationRowProps {
   currentIndex: number;
   sequence: string;
   category: string;
+  flip: number;
   goTo: (index: number) => void;
 }
 
@@ -16,10 +18,13 @@ export default function NavigationRow({
   currentIndex,
   sequence,
   category,
+  flip,
   goTo,
 }: NavigationRowProps) {
   const router = useRouter();
-  const scenarioNumber = currentIndex === 0 ? 'Tutorial' : currentIndex;
+
+  const options = SCENARIO_NUMBERS[category as keyof typeof SCENARIO_NUMBERS];
+  const scenarioNumber = options?.[currentIndex % 2 ^ (flip ? 0 : 1)] ?? '';
 
   return (
     <Box className={classes.navigationRow}>

@@ -16,8 +16,9 @@ export default function AssistantSessionPage() {
   const category = searchParams.get('cat') || '';
   const sequence = searchParams.get('seq') || '';
   const session = searchParams.get('sess') || '';
+  const flip = Number(searchParams.get('flip')) || 0;
   const currentIndex = Number(searchParams.get('idx')) || 0;
-  const baseQuery = `?seq=${sequence}&sess=${session}`;
+  const baseQuery = `?flip=${flip}&seq=${sequence}&sess=${session}`;
   // eslint-disable-next-line prefer-template
   const seed = category + (currentIndex % 2 !== 0 ? session.slice(0, 3) : session.slice(3, 6));
   const sessionCode = currentIndex !== 0 ? seed : 'tutorial';
@@ -40,6 +41,7 @@ export default function AssistantSessionPage() {
         currentIndex={currentIndex}
         sequence={sequence}
         category={category}
+        flip={flip}
         goTo={goTo}
       />
 

@@ -64,4 +64,11 @@ export const PATH_MAP: Record<string, string[]> = {
   t: T_PATHS,
 };
 
+export const SCENARIO_NUMBERS = {
+  a: ['1', '2'],
+  b: ['3', '4'],
+  c: ['5', '6'],
+  t: ['Tutorial'],
+} as const;
+
 export const ROLES = { assistant: 'assistant', seeker: 'seeker' };

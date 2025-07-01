@@ -16,16 +16,18 @@ export function LandingPage() {
     e.preventDefault();
 
     const isRoleValid = role.trim().length > 0;
-    const isCodeValid = new RegExp(`^[a-zA-Z]{${CODE_PREFIX_LENGTH}}[0-9]{6}$`).test(code.trim());
+    const isCodeValid = new RegExp(`^[0-9]{1}[a-zA-Z]{${CODE_PREFIX_LENGTH}}[0-9]{6}$`).test(
+      code.trim()
+    );
 
     setRoleError(!isRoleValid);
     setCodeError(!isCodeValid);
 
     if (isRoleValid && isCodeValid) {
-      const trimmedCode = code.toLowerCase();
+      const flip = code[0] === '1' ? 1 : 0;
+      const trimmedCode = code.slice(1).toLowerCase(); // remove first char, then lowercase
 
       const letters =
-        // eslint-disable-next-line prefer-template
         't' +
         trimmedCode
           .split('')
@@ -34,7 +36,7 @@ export function LandingPage() {
           .slice(0, CODE_PREFIX_LENGTH * 2);
       const digits = trimmedCode.slice(-6);
 
-      router.push(`/${role.toLowerCase()}?seq=${letters}&sess=${digits}&idx=0&cat=t`);
+      router.push(`/${role.toLowerCase()}?flip=${flip}&seq=${letters}&sess=${digits}&idx=0&cat=t`);
     }
   };
 
