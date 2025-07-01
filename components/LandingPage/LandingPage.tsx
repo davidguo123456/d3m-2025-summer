@@ -74,12 +74,14 @@ export function LandingPage() {
           <TextInput
             label="Session code:"
             description="Please enter your session code."
-            placeholder="eg: abc123456"
+            placeholder="eg: 0abc123456"
             value={code}
             onChange={handleCodeChange}
             radius="md"
             error={
-              codeError ? `Code must be ${CODE_PREFIX_LENGTH} letters followed by 6 digits` : false
+              codeError
+                ? `Code must be 1 digit followed by ${CODE_PREFIX_LENGTH} letters followed by 6 digits`
+                : false
             }
             className={classes.padded}
           />
