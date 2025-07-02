@@ -37,7 +37,7 @@ export default function NavigationRow({
         {currentIndex > 0
           ? sequence[currentIndex - 1] === 't'
             ? 'Back to Tutorial'
-            : `Back to Scenario ${currentIndex - 1}`
+            : `Back to previous scenario`
           : 'Back to Homepage'}
       </Button>
 
@@ -54,7 +54,7 @@ export default function NavigationRow({
           visibility: currentIndex < sequence.length - 1 ? 'visible' : 'hidden',
         }}
       >
-        Go to Scenario {currentIndex + 1}
+        Go to next scenario
       </Button>
     </Box>
   );
